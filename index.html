@@ -65,7 +65,7 @@
 
         <section>
           <h2>Get the Files:</h2>
-          <h2><a href="http://dmfjsn.moacir.com/files/files.zip">http://dmfjsn.moacir.com/files/files.zip</a></h2>
+          <h2><a href="http://moacir.com/dmfjsn-files.zip">http://moacir.com/dmfjsn-files.zip</a></h2>
         </section>
 
         <section>
@@ -91,11 +91,81 @@
           </code></pre>
         </section>
             
+        <section>
+          <h2>JavaScript (don’t pay too much attention)</h2>
+          <pre><code class="js">var map = L.map("map", {
+  zoom: 4,
+  minZoom: 1,
+  maxZoom: 18,
+  center: [39.83, -95.58]
+});
 
-                
+L.tileLayer("http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png", {
+  attribution: "&copy; <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> &copy; <a href='http://cartodb.com/attributions'>CartoDB</a>",
+  subdomains: "abcd",
+  maxZoom: 18
+}).addTo(map);
+          </pre></code>
+        </section>
 
         <section>
-          <h2>Test</h2>
+          <h2>Launch JavaScript Console in Chrome</h2>
+
+          <img src="images/console.png" alt="launch console in Chrome">
+        </section>
+
+        <section>
+          <h2>First Steps</h2>
+
+          <!-- <p>Create a string and assign it to a variable. Create two variables that are integers. Add them. Use <code>alert()</code> to send a dialog box.</p> -->
+          <img src="images/first-steps.png" alt="First steps in the JS console.">
+        </section>
+
+        <section>
+          <h2>Data Types in JavaScript</h2>
+
+          <ul>
+            <li>String: <code>"Hello"</code></li>
+            <li>Number: <code>256</code></li>
+            <li>Array: <code>[1, 5, 10, "hello"]</code></li>
+            <li>Object: <code>{ name: "Name", age: 41 }</code></li>
+            <li>Function: <code>function(param){ return param; }</code></li>
+          </ul>
+
+        </section>
+
+        <section>
+          <h2>Some Useful Array Tricks</h2>
+
+          <img src="images/array.png" alt="Array tricks">
+
+          <p>The <code>a.forEach(…)</code> expression uses a “dot method.”</p>
+        </section>
+
+        <section>
+          <h2>Using Objects and Nesting in Arrays</h2>
+
+          <img src="images/object.png" alt="using objects">
+
+        </section>
+
+        <section>
+          <h2>Defining and Using Functions</h2>
+
+          <img src="images/function.png" alt="defining functions">
+        </section>
+
+        <section>
+          <h2>Look Back at <code>script.js</code></h2>
+
+          <img src="images/script-again.png" alt="Looking back at script.js">
+
+          <p><code>L.map()</code> and <code>L.tileLayer()</code> are functions that each take two parameters, a string and then an object containing options.</p>
+
+          </section>
+
+
+        <section>
 
           <pre>
             <code class="js">
