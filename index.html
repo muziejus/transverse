@@ -178,7 +178,7 @@ return turtle.name + " is " + turtle.age + " years old." ;</code></pre>
 
           <ul>
             <li>Can be passed parameters</li>
-            <li>Has a return value</li>
+            <li>Have a return value</li>
           </ul>
 
           <pre><code class="js">return function(){ return "Functions inside functions!" ; } ;</code></pre>
@@ -224,7 +224,7 @@ return turtle.name + " is " + turtle.age + " years old." ;</code></pre>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
     <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"></script>
-    <script src="could-be-data.js"></script>
+    <script src="data.js"></script>
     <script src="could-be.js"></script>
   &lt;/body>
 &lt;/html></code></pre>
@@ -266,9 +266,12 @@ map.setView(nyu, 14); // set the map’s center and zoom level</code></pre>
 
         <section>
           <h2>Drawing Markers in Leaflet</h2>
-          <pre><code class="js">L.circleMarker(nyu).addTo(map);
-L.polyline([nyu, [40.735, -73.993], [40.733, -73.998]]).addTo(map);
-L.polygon([[40.736, -73.993], [40.735, -73.998], [40.737, -74]]).addTo(map);</code></pre>
+          <pre><code class="js">L.circleMarker(nyu)
+  .addTo(map);
+L.polyline([nyu, [40.735, -73.993], [40.733, -73.998]])
+  .addTo(map);
+L.polygon([[40.736, -73.993], [40.735, -73.998], [40.737, -74]])
+  .addTo(map);</code></pre>
 
         </section>
 
@@ -319,14 +322,16 @@ L.polygon([[40.736, -73.993], [40.735, -73.998], [40.737, -74]]).addTo(map);</co
         <section>
           <h2>Looping and <code>array.forEach()</code></h2>
           <pre><code class="js">points.forEach(function(location){
-  L.circleMarker(location.coords).addTo(map) ;
+  L.circleMarker(location.coords)
+    .addTo(map) ;
 }) ;</code></pre>
         </section>
 
         <section>
           <h2>Fitting Bounds</h2>
           <pre><code class="js">points.forEach(function(location){
-  L.circleMarker(location.coords).addTo(map) ;
+  L.circleMarker(location.coords)
+    .addTo(map) ;
 }) ;
 map.fitBounds([[23, -125], [50, -65]]) ;</code></pre>
         </section>
@@ -334,7 +339,9 @@ map.fitBounds([[23, -125], [50, -65]]) ;</code></pre>
         <section>
           <h2>Binding a Popup</h2>
           <pre><code class="js">points.forEach(function(location){
-  L.circleMarker(location.coords).bindPopup(location.name).addTo(map) ;
+  L.circleMarker(location.coords)
+    .bindPopup(location.name)
+    .addTo(map) ;
 }) ;
 map.fitBounds([[23, -125], [50, -65]]) ;</code></pre>
         </section>
@@ -344,7 +351,9 @@ map.fitBounds([[23, -125], [50, -65]]) ;</code></pre>
           <pre><code class="js">points.forEach(function(location){
   let color = "green" ;
   let options = { color: color, fillColor: color } ;
-  L.circleMarker(location.coords, options).bindPopup(location.name).addTo(map) ;
+  L.circleMarker(location.coords, options)
+    .bindPopup(location.name)
+    .addTo(map) ;
 }) ;
 map.fitBounds([[23, -125], [50, -65]]) ;</code></pre>
         </section>
@@ -359,7 +368,9 @@ map.fitBounds([[23, -125], [50, -65]]) ;</code></pre>
     color = "red" ;
   }
   let options = { color: color, fillColor: color } ;
-  L.circleMarker(location.coords, options).bindPopup(location.name).addTo(map) ;
+  L.circleMarker(location.coords, options)
+    .bindPopup(location.name)
+    .addTo(map) ;
 }) ;
 map.fitBounds([[23, -125], [50, -65]]) ;</code></pre>
         </section>
