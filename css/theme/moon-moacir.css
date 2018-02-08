@@ -4,6 +4,7 @@
  * Featuring Moacir's hacks and changes.
  */
 @import url(../../lib/font/azuro/azuro.css);
+@import url('https://fonts.googleapis.com/css?family=Ubuntu Mono|Ubuntu');
 /* @import url(../../lib/font/league-gothic/league-gothic.css); */
 /* @import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic); */
 /**
@@ -333,3 +334,42 @@ body {
   background: rgba(255, 255, 255, 0.12);
   border: 4px solid #839496;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
+
+.reveal code {
+  font-family: "Ubuntu Mono", Monaco, Terminal;
+  background: #073642;
+  padding: .5rem;
+  /* padding-left: .5rem; */
+  /* padding-right: .5rem; */
+}
+
+.reveal pre > code {
+  background: #073642;
+  border: 4px solid #839496;
+  padding: 2rem;
+}
+
+.hljs, .hljs-tag {
+  color: #839496;
+}
+
+.hljs-title {
+  color: #268bd2;
+}
+
+.hljs-string, .hljs-tag .hljs-value {
+  color: #d33682;
+}
+
+.hljs-comment, .hljs-doctype {
+  color: #586e75;
+}
+
+.hljs-keyword {
+  color: #b58900;
+}
+
+.hljs-number {
+  color: #2aa198;
+}
+

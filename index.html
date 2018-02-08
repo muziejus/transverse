@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
 
-    <title>Digital Mapping for JavaScript Novices</title>
+    <title>Simple JavaScript Mapping</title>
 
     <meta name="description" content="A workshop on making a Leaflet map.">
     <meta name="author" content="Moacir P. de Sá Pereira">
@@ -15,10 +15,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 
     <link rel="stylesheet" href="css/reveal.css">
-    <link rel="stylesheet" href="css/theme/moon-moacir.css" id="theme">
-
     <!-- Code syntax highlighting -->
     <link rel="stylesheet" href="lib/css/zenburn.css">
+
+    <link rel="stylesheet" href="css/theme/moon-moacir.css" id="theme">
+
 
     <!-- Printing and PDF exports -->
     <script>
@@ -41,12 +42,12 @@
       <!-- Any section element inside of this container is displayed as a slide -->
       <div class="slides">
         <section>
-          <h1>Digital Mapping for JavaScript Novices</h1>
+          <h1>Simple JavaScript Mapping</h1>
           <h3>Let’s Make a Map in Leaflet!</h3>
           <p>
-            <small><a href="http://moacir.com">Moacir P. de Sá Pereira</a> / <a href="http://twitter.com/muziejus">@muziejus</a><br />
+            <small><a href="http://moacir.com">Moacir P. de Sá Pereira</a> / <a href="http://twitter.com/muziejus"><code>@muziejus</code></a><br />
               Asst. Prof. / Faculty Fellow, <a href="http://english.fas.nyu.edu/page/home">Department of English</a>, New York University<br />
-              New York, NY, 9 February 2018</small>
+              <a href="https://twitter.com/hashtag/nycdhweek18?src=hash"><code>#nycdhweek18</code></a> New York, NY, 9 February 2018</small>
           </p>
         </section>
 
@@ -55,136 +56,331 @@
         </section>
 
         <section>
-          <h2>Map Components</h2>
-            <ul>
-              <li>HTML (markup language)</li>
-              <li>JavaScript (page’s ability to respond to events)</li>
-              <li>Data (what to show with the map)</li>
-            </ul>
-        </section>
-
-        <section>
           <h2>Get the Files:</h2>
-          <h2><a href="http://moacir.com/dmfjsn-files.zip">http://moacir.com/dmfjsn-files.zip</a></h2>
+          <h2><a href="http://moacir.com/simple-js-maps-files.zip">http://moacir.com/simple-js-maps-files.zip</a></h2>
         </section>
 
         <section>
-          <h2>HTML</h2>
+          <img src="images/files.png" alt="The files in the zip">
+        </section>
+
+        <section>
+          <img src="images/webpage-components.png" alt="The pieces of a webpage">
+        </section>
+
+        <section>
+          <h2><code>index.html</code></h2>
 
           <pre><code class="html">&lt;!DOCTYPE html>
-&lt;html>
+&lt;html lang="en">
   &lt;head>
     <meta charset="utf-8">
-    <title>Leaflet Map</title>
-    <link rel="stylesheet" 
-      href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
-    <style>
-      #map { height: 600px; }
-    </style>
+    <title>SimpleJavaScript Mapping</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
   &lt;/head>
   &lt;body>
-    <div id="map"></div>
-    <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
-    <script src="script.js"></script>
+    <div class="container">
+      <h1>Simple JavaScript Mapping</h1>
+      <div id="response">This is the #response div, where your work will appear.</div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="sandbox.js"></script>
   &lt;/body>
-&lt;/html>
-          </code></pre>
+&lt;/html></code></pre>
         </section>
+
+        <section>
+          <img src="images/initial-index.png" alt="Intitial index.html">
+        </section>
+
+        <section>
+          <img src="images/jsed-index.png" alt="index.html after JavaScript">
+        </section>
+
             
         <section>
-          <h2>JavaScript (don’t pay too much attention)</h2>
-          <pre><code class="js">var map = L.map("map", {
-  zoom: 4,
-  minZoom: 1,
-  maxZoom: 18,
-  center: [39.83, -95.58]
-});
+          <h2><code>sandbox.js</code></h2>
+          <pre><code class="js">setTimeout(function(){$("#response").html(function(){
+//
+//
+// IGNORE EVERYTHING ABOVE THIS LINE
 
-L.tileLayer("http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png", {
-  attribution: "&copy; <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> &copy; <a href='http://cartodb.com/attributions'>CartoDB</a>",
-  subdomains: "abcd",
-  maxZoom: 18
-}).addTo(map);
-          </pre></code>
+return "This text is coming from JavaScript." ;
+
+// IGNORE EVERYTHING BELOW THIS LINE
+//
+//
+}).addClass("alert alert-success");}, 1000);</pre></code>
         </section>
 
         <section>
-          <h2>Launch JavaScript Console in Chrome</h2>
-
-          <img src="images/console.png" alt="launch console in Chrome">
-        </section>
-
-        <section>
-          <h2>First Steps</h2>
-
-          <!-- <p>Create a string and assign it to a variable. Create two variables that are integers. Add them. Use <code>alert()</code> to send a dialog box.</p> -->
-          <img src="images/first-steps.png" alt="First steps in the JS console.">
-        </section>
-
-        <section>
-          <h2>Data Types in JavaScript</h2>
+          <h2>Types in JavaScript 1</h2>
 
           <ul>
             <li>String: <code>"Hello"</code></li>
-            <li>Number: <code>256</code></li>
-            <li>Array: <code>[1, 5, 10, "hello"]</code></li>
-            <li>Object: <code>{ name: "Name", age: 41 }</code></li>
-            <li>Function: <code>function(param){ return param; }</code></li>
+            <li>Number: <code>2.718</code></li>
+            <li>Boolean: <code>true</code></li>
           </ul>
 
+          <pre><code class="js">return 2.718 + 3 ;</code></pre>
         </section>
 
         <section>
-          <h2>Some Useful Array Tricks</h2>
+          <h2>Variables</h2>
 
-          <img src="images/array.png" alt="Array tricks">
-
-          <p>The <code>a.forEach(…)</code> expression uses a “dot method.”</p>
+          <pre><code class="js">let two = 2 ;
+let three = 3 ;
+let result = two + three ;
+return "The result of " + two + " and " + three + " is " + result ;</code></pre>
         </section>
 
         <section>
-          <h2>Using Objects and Nesting in Arrays</h2>
+          <h2>Types in JavaScript 2</h2>
 
-          <img src="images/object.png" alt="using objects">
+          <ul>
+            <li>Array: <code>["Hello", 1, 5.5]</code></li>
+            <li>Object: <code>{ name: "Leonardo", age: 16 }</code></li>
+            <li>Function: <code>function(){ return "Hi!" ; }</code></li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Arrays</h2>
+
+          <ul>
+            <li>Lists of data, where each member can be any data type</li>
+            <li>Every member has an index value, beginning with 0</li>
+            <li>A member can be called using its index: <code>array[1]</code></li>
+          </ul>
+
+          <pre><code class="js">let turtles = ["Leonardo", "Donatello", "Raphael", "Michelangelo"] ;
+return "The oneth turtle is " + turtles[1] ;</code></pre>
+        </section>
+
+        <section>
+          <h2>Objects</h2>
+
+          <ul>
+            <li>Have properties</li>
+            <li>Properties can be accessed with with dot notation: <code>object.property</code></li>
+            <li>When properties are functions, they’re called methods</li>
+          </ul>
+
+          <pre><code class="js">let turtle = { name: "Leonardo", age: 16 } ;
+return turtle.name + " is " + turtle.age + " years old." ;</code></pre>
+        </section>
+
+        <section>
+          <h2>Functions</h2>
+
+          <ul>
+            <li>Can be passed parameters</li>
+            <li>Has a return value</li>
+          </ul>
+
+          <pre><code class="js">return function(){ return "Functions inside functions!" ; } ;</code></pre>
+        </section>
+
+        <section>
+          <h2><code>sandbox.js</code>, exploded</h2>
+
+          <pre><code class="js">setTimeout(function(){ // run some function after some time
+  $("#response") // use jQuery to grab the html chunk with the id of "response"
+    .html(function(){ // change its html
+      return function(){  // to the return value
+        return "Functions inside functions!" ; // that is this string
+      }
+    })
+    .addClass("alert alert-success") ; // add styles that make the div green
+}, 1000) ; // set the time, in milliseconds, after which the function runs</code></pre>
+        </section>
+
+        <section>
+          <img src="images/leaflet.png" alt="Leaflet">
+        </section>
+
+        <section>
+          <h2><code>could-be/index.html</code></h2>
+
+          <pre><code class="html">&lt;!DOCTYPE html>
+&lt;html lang="en">
+  &lt;head>
+    <meta charset="utf-8">
+    <title>“Could Be,” by Langston Hughes</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css">
+    <link rel="stylesheet" href="../styles.css">
+  &lt;/head>
+  &lt;body>
+    <div class="container">
+      <h1>“Could Be,” by Langston Hughes</h1>
+      <div id="map"></div>
+      <div id="poem"></div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"></script>
+    <script src="could-be-data.js"></script>
+    <script src="could-be.js"></script>
+  &lt;/body>
+&lt;/html></code></pre>
+        </section>
+        
+        <section>
+          <img src="images/initial-could-be.png" alt="Initial version of the Could Be page">
+        </section>
+
+        <section>
+          <h2><code>could-be/could-be.js</code></h2>
+          <pre><code class="js">/*
+let map = L.map("map"); // initialize the map
+L.tileLayer("https://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}.{ext}", {
+      attribution: "Map tiles by <a href='http://stamen.com'>Stamen Design</a>, <a href='http://creativecommons.org/licenses/by/3.0'>CC BY 3.0</a> &mdash; Map data &copy; <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a>",
+      subdomains: "abcd",
+      minZoom: 0,
+      maxZoom: 20,
+      ext: "png"
+  }).addTo(map); // set the tileLayer and add it to the map.
+let nyu = [40.7305, -73.9925]; // define a place
+map.setView(nyu, 14); // set the map’s center and zoom level
+*/</code></pre>
+        </section>
+
+        <section>
+          <h2><code>could-be/could-be.js</code> uncommented</h2>
+          <pre><code class="js">let map = L.map("map"); // initialize the map
+L.tileLayer("https://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}.{ext}", {
+      attribution: "Map tiles by <a href='http://stamen.com'>Stamen Design</a>, <a href='http://creativecommons.org/licenses/by/3.0'>CC BY 3.0</a> &mdash; Map data &copy; <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a>",
+      subdomains: "abcd",
+      minZoom: 0,
+      maxZoom: 20,
+      ext: "png"
+  }).addTo(map); // set the tileLayer and add it to the map.
+let nyu = [40.7305, -73.9925]; // define a place
+map.setView(nyu, 14); // set the map’s center and zoom level</code></pre>
+        </section>
+
+        <section>
+          <h2>Drawing Markers in Leaflet</h2>
+          <pre><code class="js">L.circleMarker(nyu).addTo(map);
+L.polyline([nyu, [40.735, -73.993], [40.733, -73.998]]).addTo(map);
+L.polygon([[40.736, -73.993], [40.735, -73.998], [40.737, -74]]).addTo(map);</code></pre>
 
         </section>
 
         <section>
-          <h2>Defining and Using Functions</h2>
-
-          <img src="images/function.png" alt="defining functions">
+          <img src="images/initial-map.png" alt="Drawing some objects on the map">
         </section>
 
         <section>
-          <h2>Look Back at <code>script.js</code></h2>
+          <h2>Could Be (1949)</h2>
 
-          <img src="images/script-again.png" alt="Looking back at script.js">
+          <div style="float: left; width: 50%;">
+            <p>Could be <span style="color: #d33682; font-weight: bold;">Hastings Street</span>,<br />
+              Or <span style="color: #d33682; font-weight: bold;">Lenox Avenue</span>.<br />
+              Could be <span style="color: #d33682; font-weight: bold;">18th &amp; Vine</span><br />
+              And still be true.</p>
 
-          <p><code>L.map()</code> and <code>L.tileLayer()</code> are functions that each take two parameters, a string and then an object containing options.</p>
+            <p>Could be <span style="color: #d33682; font-weight: bold;">5th &amp; Mound</span>,<br />
+              Could be <span style="color: #d33682; font-weight: bold;">Rampart</span>:<br />
+              When you pawned my watch<br />
+              You pawned my heart.</p>
+          </div>
 
-          </section>
+          <div style="float: left; width: 50%;">
+            <p>Could be you love me,<br />
+              Could be that you don’t.<br />
+              Might be that you’ll come back,<br />
+              Like as not you won’t.</p>
+
+            <p><span style="color: #d33682; font-weight: bold;">Hastings Street</span> is weary,<br />
+              Also <span style="color: #d33682; font-weight: bold;">Lenox Avenue</span>.<br />
+              Any place is dreary<br />
+              Without my watch and you.</p>
+          </div>
+        </section>
 
 
         <section>
+          <h2><code>could-be/data.js</code></h2>
+          <pre><code class="js">let points = [
+  { coords: [42.334, -83.037], name: "Hastings St.", mentions: 2 },
+  { coords: [40.809, -73.944], name: "Lenox Avenue", mentions: 2 },
+  { coords: [39.09, -94.561], name: "18th &amp; Vine", mentions: 1 },
+  { coords: [39.1, -84.524], name: "5th &amp; Mound", mentions: 1 },
+  { coords: [29.956, -90.073], name: "Rampart", mentions: 1 }
+] ;</code></pre>
+        </section>
 
-          <pre>
-            <code class="js">
-              var foo = 3;
-              var bar = 4;
-              var a = [foo, bar];
-            </code>
-          </pre>
+        <section>
+          <h2>Looping and <code>array.forEach()</code></h2>
+          <pre><code class="js">points.forEach(function(location){
+  L.circleMarker(location.coords).addTo(map) ;
+}) ;</code></pre>
+        </section>
 
+        <section>
+          <h2>Fitting Bounds</h2>
+          <pre><code class="js">points.forEach(function(location){
+  L.circleMarker(location.coords).addTo(map) ;
+}) ;
+map.fitBounds([[23, -125], [50, -65]]) ;</code></pre>
+        </section>
+
+        <section>
+          <h2>Binding a Popup</h2>
+          <pre><code class="js">points.forEach(function(location){
+  L.circleMarker(location.coords).bindPopup(location.name).addTo(map) ;
+}) ;
+map.fitBounds([[23, -125], [50, -65]]) ;</code></pre>
+        </section>
+
+        <section>
+          <h2>Changing Options</h2>
+          <pre><code class="js">points.forEach(function(location){
+  let color = "green" ;
+  let options = { color: color, fillColor: color } ;
+  L.circleMarker(location.coords, options).bindPopup(location.name).addTo(map) ;
+}) ;
+map.fitBounds([[23, -125], [50, -65]]) ;</code></pre>
+        </section>
+
+        <section>
+          <h2>Conditional Statements</h2>
+          <pre><code class="js">points.forEach(function(location){
+  let color ;
+  if(location.mentions === 2){
+    color = "green" ;
+  } else {
+    color = "red" ;
+  }
+  let options = { color: color, fillColor: color } ;
+  L.circleMarker(location.coords, options).bindPopup(location.name).addTo(map) ;
+}) ;
+map.fitBounds([[23, -125], [50, -65]]) ;</code></pre>
+        </section>
+
+        <section>
+          <img src="images/final.png" alt="The final map">
+        </section>
+
+        <section data-markdown>
+          ## Read the Fantastic Manuals
+
+          * Leaflet: [leafletjs.com](http://leafletjs.com/)
+          * jQuery: [jquery.com](https://jquery.com/)
+          * Bootstrap: [getbootstrap.com](http://getbootstrap.com/)
+          * JavaScript: [developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) (or google “javascript mozilla reference”)
+          * My longer course: [the-javascripting-english-major.org](http://the-javascripting-english-major.org)
         </section>
 
          <section data-markdown>
           ## Thanks!
-          #### [http://moacir.com/talks/digital-mapping-js-novices/](http://moacir.com/talks/digital-mapping-js-novices/)
-        </section>
-
-        <section data-markdown class="bibliography">
-          ## Bibliography
-
+          #### [http://moacir.com/talks/simple-js-maps/](http://moacir.com/talks/simple-js-maps/)
         </section>
 
       </div>
