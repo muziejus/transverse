@@ -4,9 +4,9 @@
   <head>
     <meta charset="utf-8">
 
-    <title>Simple JavaScript Mapping</title>
+    <title>Transversing Spaces</title>
 
-    <meta name="description" content="A workshop on making a Leaflet map.">
+    <meta name="description" content="Critical Keynote at Transversing Spaces conference at University of Albany">
     <meta name="author" content="Moacir P. de Sá Pereira">
 
     <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -14,11 +14,11 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 
-    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/reveal.css">
     <!-- Code syntax highlighting -->
-    <link rel="stylesheet" href="lib/css/zenburn.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/lib/css/zenburn.css">
 
-    <link rel="stylesheet" href="css/theme/moon-moacir.css" id="theme">
+    <link rel="stylesheet" href="moacir-files/moon-moacir.css" id="theme">
 
 
     <!-- Printing and PDF exports -->
@@ -26,12 +26,12 @@
       var link = document.createElement( 'link' );
       link.rel = 'stylesheet';
       link.type = 'text/css';
-      link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+      link.href = window.location.search.match( /print-pdf/gi ) ? 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/print/pdf.css' : 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/print/paper.css';
       document.getElementsByTagName( 'head' )[0].appendChild( link );
     </script>
 
     <!--[if lt IE 9]>
-    <script src="lib/js/html5shiv.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/lib/js/html5shiv.js"></script>
     <![endif]-->
   </head>
 
@@ -42,19 +42,13 @@
       <!-- Any section element inside of this container is displayed as a slide -->
       <div class="slides">
         <section>
-          <h1>Simple JavaScript Mapping</h1>
-          <h3>Let’s Make a Map in Leaflet!</h3>
+          <h1>Transversing Spaces</h1>
           <p>
             <small><a href="http://moacir.com">Moacir P. de Sá Pereira</a> / <a href="http://twitter.com/muziejus">@muziejus</a><br />
               Asst. Prof. / Faculty Fellow, <a href="http://english.fas.nyu.edu/page/home">Department of English</a>, New York University<br />
-              <a href="https://twitter.com/hashtag/nycdhweek18?src=hash">#nycdhweek18</a> New York, NY, 9 February 2018</small>
+              Albany, NY, 23 March 2018</small>
           </p>
           <aside class="notes">
-            Welcome everyone, and thanks for coming. My name’s Moacir de Sá Pereira, and
-            I’ll be leading you in today’s workshop. Here’s my twitter name and the
-            hashtag for this year’s NYCDH DH Week, and I’d like to thank the organizers
-            for finding time for this workshop and the NYU Data Services team for
-            providing the space.
           </aside>
         </section>
 
@@ -124,63 +118,6 @@
               JavaScript process, like “draw a map” or “zoom in” or “change the color.”
               Similarly, and in true autopoetic fashion, JavaScript can create html and css.
             </p>
-          </aside>
-        </section>
-
-        <section>
-          <h2><code>index.html</code></h2>
-
-          <pre><code class="html">&lt;!DOCTYPE html>
-&lt;html lang="en">
-  &lt;head>
-    <meta charset="utf-8">
-    <title>SimpleJavaScript Mapping</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="styles.css">
-  &lt;/head>
-  &lt;body>
-    <div class="container">
-      <h1>Simple JavaScript Mapping</h1>
-      <div id="response">This is the #response div, where your work will appear.</div>
-    </div>
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-    <script src="sandbox.js"></script>
-  &lt;/body>
-&lt;/html></code></pre>
-          <aside class="notes">
-            <p>
-              But it all starts with html, so open up the index.html file in a text editor.
-              (lead through text editor opening)
-            </p>
-
-            <p>
-              There is quite a bit going on in these 19 lines, but they should indicate both
-              the general structure and syntax of an html file and, hence, a webpage. 
-
-              Note that there is a head and a body. The head includes metadata about the
-              page, like what its title is, but it also tells the browser where to look for
-              css files here. Here, we’re downloading two. One is the Bootstrap css file
-              from a server on the internet, and the other is just the “styles.css” file
-              that’s on your computer. Bootstrap provides a set of templates that help make
-              your page look nice quickly
-            </p>
-
-            <p>
-              Then, in the body, we see a div, which is an arbitrary block, and that div has
-              two elements inside it, another div with an id of “response” and a heading,
-              the h1 tag. The h1 and the response div then also have some text inside them.
-            </p>
-
-            <p>
-              At the bottom of the body, you see a handful of script tags. Like the css in
-              the header, these indicate to the browser where to go looking for javascript.
-              The first file is JQuery, which is a set of functions that help make dynamic
-              webpages. The next two are related to bootstrap, and the last, “sandbox.js,”
-              is the local file on your computer. We’ll spend the next hour with that file.
-            </p>
-
           </aside>
         </section>
 
@@ -502,51 +439,6 @@ return turtle.name + " is " + turtle.age + " years old." ;</code></pre>
           </aside>
         </section>
 
-        <section>
-          <h2><code>could-be/index.html</code></h2>
-
-          <pre><code class="html">&lt;!DOCTYPE html>
-&lt;html lang="en">
-  &lt;head>
-    <meta charset="utf-8">
-    <title>“Could Be,” by Langston Hughes</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css">
-    <link rel="stylesheet" href="../styles.css">
-  &lt;/head>
-  &lt;body>
-    <div class="container">
-      <h1>“Could Be,” by Langston Hughes</h1>
-      <div id="map"></div>
-      <div id="poem"></div>
-    </div>
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-    <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"></script>
-    <script src="data.js"></script>
-    <script src="could-be.js"></script>
-  &lt;/body>
-&lt;/html></code></pre>
-          <aside class="notes">
-            <p>
-              For this part of the workshop, we’re switching from the files at the root of
-              the directory to the files inside the could-be folder. If you open the
-              index.html inside the could-be folder in your text editor, you’ll see that
-              it’s more or less the same as the earlier index.html file. It’s loading an
-              extra style sheet in the head, and there are a few more script tags at the
-              bottom, loading leaflet from the internet and two files from your computer,
-              could-be and data.js.
-
-            </p>
-            <p>
-              More notably, the response div is missing. Instead, there are two new divs.
-              One is called map and the other is called poem. But both are empty.
-
-            </p>
-          </aside>
-        </section>
-        
         <section>
           <img src="images/initial-could-be.png" alt="Initial version of the Could Be page">
           <aside class="notes">
@@ -927,8 +819,8 @@ map.fitBounds([[23, -125], [50, -65]]) ;</code></pre>
 
     </div>
 
-    <script src="lib/js/head.min.js"></script>
-    <script src="js/reveal.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/lib/js/head.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/js/reveal.min.js"></script>
 
     <script>
 
@@ -944,13 +836,13 @@ map.fitBounds([[23, -125], [50, -65]]) ;</code></pre>
 
         // Optional reveal.js plugins
         dependencies: [
-          { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
-          { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
-          { src: 'plugin/zoom-js/zoom.js', async: true },
-          { src: 'plugin/notes/notes.js', async: true },
-          { src: 'plugin/title-footer/title-footer.js', async: true, callback: function() { title_footer.initialize("“Simple JavaScript Mapping,” #nycdhweek18 2018.2.9 ——— Moacir P. de Sá Pereira (@muziejus / moacir.com)"); } }
+          { src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+          { src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/zoom-js/zoom.js', async: true },
+          { src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/notes/notes.js', async: true },
+          { src: 'moacir-files/title-footer/title-footer.js', async: true, callback: function() { title_footer.initialize("“Transversing Spaces,” 2018.3.24 ——— Moacir P. de Sá Pereira (@muziejus / moacir.com)"); } }
         ]
       });
 
