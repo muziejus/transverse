@@ -5,5 +5,7 @@
 !notes.txt
 !script.txt
 !moacir-files/
+!moacir-files/app.js
+!moacir-files/leaflet.css
 !moacir-files/moon-moacir.css
 !moacir-files/solarized-dark-moacir.css
