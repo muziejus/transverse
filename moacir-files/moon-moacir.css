@@ -139,7 +139,7 @@ body {
   padding: 5px;
   padding-left: 10px;
   border-left: 4px solid #839496;
-  font-style: italic;
+  /* font-style: italic; */
   background: #073643;
   text-align: left;
   /* background: rgba(255, 255, 255, 0.05); */
@@ -323,11 +323,10 @@ body {
   font-size: 0.8em;
 }
 
-.reveal blockquote em {
-  font-weight: bold;
-  font-style: normal;
-  color: #93a1a1;
-}
+/* .reveal blockquote em { */
+/*   font-style: italic; */
+/*   color: #93a1a1; */
+/* } */
 
 .reveal section iframe {
   margin: 15px 0px;
