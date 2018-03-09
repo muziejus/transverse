@@ -76,16 +76,12 @@ a datum, events into data. Two similar examples:
 ---
 
 > Suddenly she took the Catholic vow. She came into the church silently… Many
-churches saw her: <span style="font-style: normal;">St. Julien le
-Pauvre</span>, the church of <span style="font-style: normal;">St. Germain des
-Prés</span>,
-<span style="font-style: normal;">Ste. Clothilde</span>. Even on the cold tiles of the Russian church, in which there
+churches saw her: _St. Julien le Pauvre_, the church of _St. Germain des Prés_,
+_Ste. Clothilde_. Even on the cold tiles of the Russian church, in which there
 is no pew, she knelt alone, lost and conspicuous, her broad shoulders above
 her neighbours, her feet large and as earthly as the feet of a monk.
-She strayed into the <span style="font-style: normal;">rue Picpus</span>, into the gardens of the convent of
-<span style="font-style: normal;">L’Aoration Perpétuelle</span>. She talked to the nuns and they, feeling that they
-were looking at someone who would never be able to ask for, or receive, mercy,
-blessed her in their hearts and gave her a sprig of rose from the bush.
+She strayed into the _rue Picpus_, into the gardens of the convent of
+_L’Adoration Perpétuelle_. 
 
 <div class="credit">Barnes, _Nightwood_, 49–50. Italics in original.</div>
 
@@ -96,10 +92,26 @@ per se, but compare this description here to its rendering as data.
 ---
 
 <div class="map" id="robin-vote"></div>
-<script>
-	alert("kablow!!!@!");
-</script>
 
+Note: Robin’s straying is frozen and removed from the clustering Barnes
+provides narratively “many churches saw her” creates one group and then
+“strayed into the rue Picpus” a second. Instead, the clustering here is
+geographical: rive gauche churches in contrast to the rive droite convent.
+We’re still building here with these nighttime strayings… Königsberg, Paris,
+
+---
+
+> The carrier led her across Market then over toward City Hall. In a street close enough to the drab, stone openness of the Civic Center to be infected by its gray, he rendezvoused with another carrier, and they exchanged sacks. Oedipa decided to stick with the one she’d been following. She tailed him all the way back down the littered, shifty, loud length of Market and over on First Street to the trans-bay bus
+terminal, where he bought a ticket for Oakland. So did Oedipa.
+
+> They rode over the bridge and into the great, empty glare of the Oakland
+afternoon. The landscape lost all variety.
+
+<div class="credit">Pynchon, _The Crying of Lot 49_, 130.</div>
+
+---
+
+<div class="map" id="oedipa-maas"></div>
 
 ---
 
