@@ -1,9 +1,11 @@
-const tileUrl = "http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png";
-const tileOptions = { maxZoom: 18, attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>' };
+const tileUrl = "https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png";
+const tileOptions = { maxZoom: 20, attribution: '&copy; Openstreetmap France | &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>' };
+// const tileUrl = "http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png";
+// const tileOptions = { maxZoom: 18, attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>' };
 const robinMap = L.map("robin-vote").setView([0,0], 13);
+L.tileLayer(tileUrl, tileOptions).addTo(robinMap);
 const oedipaMap = L.map("oedipa-maas").setView([0,0], 13);
-const robinTile = L.tileLayer(tileUrl, tileOptions).addTo(robinMap);
-const oedipaTile = L.tileLayer(tileUrl, tileOptions).addTo(oedipaMap);
+L.tileLayer(tileUrl, tileOptions).addTo(oedipaMap);
 const robinPoints = {
    "type": "FeatureCollection",
    "features": [
@@ -130,6 +132,7 @@ const robinLayer = L.geoJson(robinPoints, {
 robinLayer.addTo(robinMap);
 robinMap.fitBounds(robinLayer.getBounds());
 robinLayer.eachLayer((l) => l.openTooltip());
+
 const oedipaLayer = L.geoJson(oedipaPoints, {
   pointToLayer(f, ll){ return L.circleMarker(ll).bindTooltip(f.properties.name); }
 });
