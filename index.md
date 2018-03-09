@@ -33,13 +33,73 @@ Note: And ask you to imagine yourself here on the Kneiphof, the central
 island, studying at the university. You’re about a generation older than
 Immanuel Kant. Let’s say it’s one in the morning, and you’ve been drinking
 with your classmates. Invariably, so the story goes, the challenge will arise:
-can you cross all seven bridges across the Pregel River, and I’ve colored it
+can you cross all seven bridges across the Pregel River, and I’ve colored the
+Pregel
 in here to make the bridges more visible, can you cross all seven bridges once
 and only once? Maybe you make a wager with your classmates and stumble out
 into the bracing Baltic wind, but you’re convinced that, this time, it’s
 surely possible.
 
-Spoiler: It’s not actually possible.
+---
+
+![Trying to walk the bridges in Königsberg](/images/pregel-walks.gif)
+
+Note: Because we’re not in Königsberg, and most of the applicable bridges have
+been destroyed anyway, we can’t actually get drunk and totter from bridge to
+bridge. I’ve sort of made an approximation of what could follow here, but the
+key is that the challenge you’re discussing with your classmates can take
+several forms.
+
+---
+
+1. Cross the bridge by the Cathedral,
+2. then take the Holzbrücke towards the castle,
+3. then Schmiedebrücke by the castle back onto Kneiphof,
+4. then cross back at Krämerbrücke and… rats ok let’s start again…
+
+Note: You can list the steps out, for example, turning the journey into
+something resembling driving directions or what a GPS device would tell you.
+
+---
+
+![A failed path in Königsberg](/images/konigsberg-1613-pregel-crop-path.jpg)
+
+Note: The directions above can also take the form of a sketched out path on a
+map. Yet here, a subtle shift has occurred. What on the previous slide could
+be considered as a kind of transversing of space, here, instead, is now a
+transversed space. There is no change in this map, as the path is frozen. In
+fact, this map can represent two sets of walking directions, the to and fro.
+The motion, the process, of the listed steps is instead frozen. This map has
+ripped the narrative energy out of your nighttime prowl, turning an event into
+a datum, events into data. Two similar examples:
+
+---
+
+> Suddenly she took the Catholic vow. She came into the church silently… Many
+churches saw her: <span style="font-style: normal;">St. Julien le
+Pauvre</span>, the church of <span style="font-style: normal;">St. Germain des
+Prés</span>,
+<span style="font-style: normal;">Ste. Clothilde</span>. Even on the cold tiles of the Russian church, in which there
+is no pew, she knelt alone, lost and conspicuous, her broad shoulders above
+her neighbours, her feet large and as earthly as the feet of a monk.
+She strayed into the <span style="font-style: normal;">rue Picpus</span>, into the gardens of the convent of
+<span style="font-style: normal;">L’Aoration Perpétuelle</span>. She talked to the nuns and they, feeling that they
+were looking at someone who would never be able to ask for, or receive, mercy,
+blessed her in their hearts and gave her a sprig of rose from the bush.
+
+<div class="credit">Barnes, _Nightwood_, 49–50. Italics in original.</div>
+
+Note: Robin Vote has taken to wandering from her husband, and here we see her
+moving through various churches in Paris. Barnes doesn’t give us an itinerary
+per se, but compare this description here to its rendering as data.
+
+---
+
+<div class="map" id="robin-vote"></div>
+<script>
+	alert("kablow!!!@!");
+</script>
+
 
 ---
 
@@ -87,11 +147,14 @@ theory, that emerged out of Euler’s paper. Again, the people, the buildings…
 none of that matters anymore
 
 It’s tempting to read this as a progression from the particular to the
-universal, as surely that was Euler’s goal.
+universal, as surely that was Euler’s goal. But there’s also a reason for
+starting both with a map and a story. When arguing with your classmates in
+that 18th century Prussian beer hall, you’re not relying on a map to guide
+your walk but also on the image of Königsberg you have built up in your mind.
 
 ---
 
-### Third slide
+![Lynch map]()
 
 ---
 
