@@ -1,4 +1,4 @@
-# Œdipa’s Rocks
+# Oedipa’s Rocks
 
 <small><a href="http://moacir.com">Moacir P. de Sá Pereira</a> / <a href="http://twitter.com/muziejus">@muziejus</a><br />
 Asst. Prof. / Faculty Fellow, <a href="http://english.fas.nyu.edu/page/home">Department of English</a>, New York University<br />
