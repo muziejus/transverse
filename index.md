@@ -95,10 +95,12 @@ per se, but compare this description here to its rendering as data.
 
 Note: Robin’s straying is frozen and removed from the clustering Barnes
 provides narratively “many churches saw her” creates one group and then
-“strayed into the rue Picpus” a second, with an indistinct "Russian church in which there is no pew" between them. Instead, here the clustering is
+“strayed into the rue Picpus” a second, with an indistinct "Russian church in
+which there is no pew" between them. Instead, here the clustering is
 geographical: rive gauche churches in contrast to the rive droite convent. And
 now I'm forced to decide that "Russian church" refers to the Nevsky Cathedral
-in Paris, breaking the promise of uncertainty that Barnes provided. Yet we’re still building here with these nighttime strayings… Königsberg, Paris,
+in Paris, breaking the promise of uncertainty that Barnes provided. Yet we’re
+still building here with these nighttime strayings… Königsberg, Paris,
 
 ---
 
@@ -113,6 +115,20 @@ afternoon. The landscape lost all variety.
 ---
 
 <div class="map" id="oedipa-maas"></div>
+
+---
+
+<div class="row">
+<div class="col-4">
+<h2>col 1</h2>
+</div>
+<div class="col-4">
+<h2>col 2</h2>
+</div>
+<div class="col-4">
+<h2>col 3</h2>
+</div>
+</div>
 
 ---
 
