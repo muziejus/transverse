@@ -1,22 +1,9 @@
-const robinMap = L.map("robin-vote");
-const oedipaMap = L.map("oedipa-maas");
-const robinTile = L.tileLayer('http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
-  maxZoom: 18,
-  attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-});
-const oedipaTile = L.tileLayer('http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
-  maxZoom: 18,
-  attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-});
-// const osmFrance = L.tileLayer('https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png', {
-//     maxZoom: 20,
-//       attribution: '&copy; Openstreetmap France | &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-// });
-robinTile.addTo(robinMap);
-oedipaTile.addTo(oedipaMap);
-const nyu = [40.73046499853991, -73.99250799849149];
-robinMap.setView(nyu, 13);
-oedipaMap.setView(nyu, 13);
+const tileUrl = "http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png";
+const tileOptions = { maxZoom: 18, attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>' };
+const robinMap = L.map("robin-vote").setView([0,0], 13);
+const oedipaMap = L.map("oedipa-maas").setView([0,0], 13);
+const robinTile = L.tileLayer(tileUrl, tileOptions).addTo(robinMap);
+const oedipaTile = L.tileLayer(tileUrl, tileOptions).addTo(oedipaMap);
 const robinPoints = {
    "type": "FeatureCollection",
    "features": [
@@ -48,6 +35,16 @@ const robinPoints = {
     },
     "properties": {
     "name":"Ste. Clothilde"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3020072, 48.877611 ]
+    },
+    "properties": {
+    "name":"Russian church"
     }
   },
   {
