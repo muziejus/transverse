@@ -354,6 +354,10 @@ body {
   line-height: 1em;
 }
 
+.bibliography {
+  font-size: 50%;
+}
+
 .hljs, .hljs-tag {
   color: #839496;
 }
