@@ -2,9 +2,21 @@
 
 <small><a href="http://moacir.com">Moacir P. de Sá Pereira</a> / <a href="http://twitter.com/muziejus">@muziejus</a><br />
 Asst. Prof. / Faculty Fellow, <a href="http://english.fas.nyu.edu/page/home">Department of English</a>, New York University<br />
+moacir@nyu.edu<br />
 Albany, NY, 23 March 2018</small>
 
-Note: Thanks.
+Note: First, I want to thank everyone for coming to this conference. It’s been
+a great weekend. I also want to thank the organizers of the conference,
+especially Julian, who helped me out a bunch in the homestretch.
+
+This is kind of a weird talk for me, since it’s all new material. These ideas
+had been kicking around in my head for about half a year, but upon being invited to the
+conference and then reading the description, the ideas sort of took enough
+form where I could start putting them down on paper, or, at least, whatever
+this is. So I appreciate your patience and look forward to your thoughts at
+the end. Furthermore, my email address is here, too, as is my twitter name, in
+case you don’t get a chance to talk to me or you only think of something
+later.
 
 ---
 
@@ -15,10 +27,11 @@ Königlichen Haupt und Residenz-Stadt Königsberg in Preußen um 1813. Nach eine
 Stich von Joachim Bering von
 1613](https://commons.wikimedia.org/wiki/File:Koenigsberg,_Map_by_Bering_1613.jpg).”</div>
 
-Note: I want to start this talk with a story that may be familiar to you all.
-Hopefully, it isn’t, but we’ll see. Here we have a map of Königsberg from,
-according to Wikipedia, 1613. This city is now known as KalininGRAT, and it’s
-part of Russia. I want to turn the clock forward one hundred years, though,
+Note: But first, let’s put some balls of conflict into motion. I want to start
+with a story that may be familiar to you all. Hopefully, it isn’t,
+but we’ll see. Here we have a map of Königsberg from, according to Wikipedia,
+1613. This city is now known as KalininGRAT, and it’s part of Russia. I want
+to turn the clock forward one hundred years, though, to the early 1700s,
 
 ---
 
@@ -37,8 +50,7 @@ can you cross all seven bridges across the Pregel River, and I’ve colored the
 Pregel
 in here to make the bridges more visible, can you cross all seven bridges once
 and only once? Maybe you make a wager with your classmates and stumble out
-into the bracing Baltic wind, but you’re convinced that, this time, it’s
-surely possible.
+into the bracing Baltic wind, convinced that, this time, it’s surely possible.
 
 ---
 
@@ -47,8 +59,8 @@ surely possible.
 Note: Because we’re not in Königsberg, and most of the applicable bridges have
 been destroyed anyway, we can’t actually get drunk and totter from bridge to
 bridge. I’ve sort of made an approximation of what could follow here, but the
-key is that the challenge you’re discussing with your classmates can take
-several forms.
+key is that performing the challenge you’re discussing with your classmates
+can take several forms.
 
 ---
 
@@ -65,11 +77,11 @@ something resembling driving directions or what a GPS device would tell you.
 ![A failed path in Königsberg](/images/konigsberg-1613-pregel-crop-path.jpg)
 
 Note: The directions above can also take the form of a sketched out path on a
-map. Yet here, a subtle shift has occurred. What on the previous slide could
+map. Yet the change of style carries with it a subtle epistemic shift. What on the previous slide could
 be considered as a kind of transversing of space, here, instead, is now a
-transversed space. There is no change in this map, as the path is frozen. In
-fact, this map can represent two sets of walking directions, the to and fro.
-The motion, the process, of the listed steps is instead frozen. This map has
+transversed space. There is no change in this map; the path is frozen. In
+fact, this map describes at least two sets of walking directions, the to and fro.
+The motion, the process, both of these are gone. This map has
 ripped the narrative energy out of your nighttime prowl, turning an event into
 a datum, events into data. Two similar examples:
 
@@ -85,9 +97,9 @@ _L’Adoration Perpétuelle_.
 
 <div class="credit">Barnes, _Nightwood_, 49–50. Italics in original.</div>
 
-Note: Robin Vote has taken to wandering from her husband, and here we see her
-moving through various churches in Paris. Barnes doesn’t give us an itinerary
-per se, but compare this description here to its rendering as data.
+Note: Robin Vote has taken to wandering away from her husband, and here we see
+her moving through various churches in Paris. Barnes doesn’t give us an
+itinerary per se, but compare this description here to its rendering as data.
 
 ---
 
@@ -104,31 +116,59 @@ still building here with these nighttime strayings… Königsberg, Paris,
 
 ---
 
-> The carrier led her across Market then over toward City Hall. In a street close enough to the drab, stone openness of the Civic Center to be infected by its gray, he rendezvoused with another carrier, and they exchanged sacks. Oedipa decided to stick with the one she’d been following. She tailed him all the way back down the littered, shifty, loud length of Market and over on First Street to the trans-bay bus
-terminal, where he bought a ticket for Oakland. So did Oedipa.
+> The carrier led her across Market then over toward City Hall. In a street
+close enough to the drab, stone openness of the Civic Center to be infected by
+its gray, he rendezvoused with another carrier, and they exchanged sacks.
+Oedipa decided to stick with the one she’d been following. She tailed him all
+the way back down the littered, shifty, loud length of Market and over on
+First Street to the trans-bay bus terminal, where he bought a ticket for
+Oakland. So did Oedipa.
 
 > They rode over the bridge and into the great, empty glare of the Oakland
 afternoon. The landscape lost all variety.
 
 <div class="credit">Pynchon, _The Crying of Lot 49_, 130.</div>
 
+Note: Here, it’s no longer late at night, but rather early morning.
+Nevertheless, Oedipa Maas is also wandering, partly, in search of the elusive
+sign of the horn. But she’s also partly fleeing, and even once she catches a
+strong lead, she ends up in Oakland, not recognizing her surroundings until
+finally noticing that 24 hours have elapsed and she’s literally where she
+began, in front of John Nefastis’s house.
+
 ---
 
 <div class="map" id="oedipa-maas"></div>
+
+Note: A map draws the strong straight line from the center of San Francisco to
+Oakland, but we can hardly even call this a “representation” of the quoted
+paragraph, and especially not of the beginning of the second, where the
+landscape loses all variety and Oedipa also ends up lost.
 
 ---
 
 <div class="row">
 <div class="col-4">
-<h2>col 1</h2>
+
+Königsberg
+
 </div>
 <div class="col-4">
-<h2>col 2</h2>
+
+Paris
+
 </div>
 <div class="col-4">
-<h2>col 3</h2>
+
+San Francisco
+
 </div>
 </div>
+
+Note: There’s a lot going on in these three examples, and the latter two I’ll
+save for a more detailed examination that makes up the bulk of this talk. But
+first, I want to finish up with our Königsberg dilemma, aiming to show what
+the drunken set of challenges demonstrates about how we think of space.
 
 ---
 
@@ -137,18 +177,20 @@ afternoon. The landscape lost all variety.
 <div class="credit">Euler, “[Solutio Problematis Ad Geometriam Situs
 Pertinentis](http://eulerarchive.maa.org/docs/originals/E053.pdf).”</div>
 
-Note: In 1735, Leonhard Euler presents a paper before the St. Petersburg
-Academy of Sciences. When published, the article includes an abstracted map of
+Note: So, in 1735, Leonhard Euler presents a paper before the St. Petersburg
+Academy of Sciences. When published, the article includes this abstracted map of
 Königsberg, a step removed from any sort of map one would use to move around
-in the city, which I’ve adapted here. Kneiphof becomes just “A,” and each bridge is a lowercase letter.
+in the city, which I’ve adapted here. Kneiphof becomes just “A,” and each
+bridge is a lowercase letter. Euler is trying to prove that it’s impossible to
+cross all seven bridges once and only once
 
 ---
 
 > Si fuerint plures duabus regiones, ad quas ducentium pontium numerus est
 impar, tum certo affirmari potest, talem transitum non dari.
 
-> If there are more than two areas to which an odd number of bridges lead,
-then such a journey is impossible.
+> _If there are more than two areas to which an odd number of bridges lead,
+then such a journey is impossible._
 
 <div class="credit">Euler,
 “[Solutio…](http://eulerarchive.maa.org/docs/originals/E053.pdf)” and “[The
@@ -161,25 +203,78 @@ Euler’s proof is exceptionally readable, and it leads to the conclusion I’ve
 excerpted here. Nevertheless, what I want to underscore is the way the
 story moves from our imagined fiction of drunk students stumbling around the
 city to Euler’s sterilizing reframing of the question. People are removed from
-the question, and places become mere letters.
+the question, and places become mere letters. From GPS directions to the
+somehow less precise pink path, to Euler’s abstracted map, then
 
 ---
 
 ![Königsberg as graph](/images/euler-graph.png)
 
-Note: Current accounts of the problem abstract it even further. At least Euler
-still speaks of “regiones” and “pontes,” regions and bridges. Here, the
-bridges are now “edges” and the shores of the Pregel bound “nodes.” What began
-this talk as a map of Königsberg, already abstracted in its own way, is now,
-simply, a graph, the locus of interest for the branch of mathematics, graph
-theory, that emerged out of Euler’s paper. Again, the people, the buildings…
-none of that matters anymore
+Note: to this. Current accounts of the bridges problem abstract it even
+further. At least Euler still speaks of “regiones” and “pontes,” regions and
+bridges. Here, the bridges are now “edges” and the shores of the Pregel bound
+“nodes.” Narrative to map to graph, the locus of interest for the branch of
+mathematics, graph theory, that emerged out of Euler’s paper. The
+people, the buildings… none of that matters anymore
 
 It’s tempting to read this as a progression from the particular to the
-universal, as surely that was Euler’s goal. But there’s also a reason for
+universal, as surely that was Euler’s goal, to divine the universal rule that
+solves the bridges problem for any situation.
+
+---
+
+![Albany](/images/albany.png)
+
+Note: Using Euler’s proof, from what I can tell, Albany fails the test, but
+that’s only since Albany isn’t separated by bridges.
+
+---
+
+![New York bridges graph](/images/nyc-bridges.png)
+
+Note: New York City gets complicated and depends on how you count bridges. If
+you take only the bridges that connect one borough to another, it seems like
+the answer is no. Only Manhattan has an even number of bridges. Adding tunnels
+makes it possible, because Manhattan stays even, but now Queens and Brooklyn
+are also even. But even here, I’m cheating a bit because you have to be able
+to cross from Manhattan into Randalls Island three times. Like I said, it’s
+complicated.
+
+---
+
+![Königsberg as graph](/images/euler-graph.png)
+
+Note: But the shift towards finding the universal solution has its own
+particularity. As I mentioned, the people, the buildings–all of that fades
+away because now the central issue is, always already, the question of the
+bridges. The universal rule regarding what is or is not an “Eulerian path” is
+so specific as to be nearly useless, as the example with New York shows. The
+graph, as a map, is no navigational aid. 
+
+But there’s also a reason for
 starting both with a map and a story. When arguing with your classmates in
 that 18th century Prussian beer hall, you’re not relying on a map to guide
 your walk but also on the image of Königsberg you have built up in your mind.
+
+---
+
+<div class="row">
+<div class="col-4">
+
+> rats ok… let’s start again
+
+</div>
+<div class="col-4">
+
+> she knelt alone, lost and conspicuous
+
+</div>
+<div class="col-4">
+
+> The landscape lost all variety.
+
+</div>
+</div>
 
 ---
 
