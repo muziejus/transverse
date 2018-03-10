@@ -131,12 +131,12 @@ const robinLayer = L.geoJson(robinPoints, {
   pointToLayer(f, ll){ return L.circleMarker(ll).bindTooltip(f.properties.name); }
 });
 robinLayer.addTo(robinMap);
-robinMap.fitBounds(robinLayer.getBounds());
 robinLayer.eachLayer((l) => l.openTooltip());
+robinMap.fitBounds(robinLayer.getBounds());
 
 const oedipaLayer = L.geoJson(oedipaPoints, {
   pointToLayer(f, ll){ return L.circleMarker(ll).bindTooltip(f.properties.name); }
 });
 oedipaLayer.addTo(oedipaMap);
-oedipaMap.fitBounds(oedipaLayer.getBounds());
 oedipaLayer.eachLayer((l) => l.openTooltip());
+oedipaMap.fitBounds(oedipaLayer.getBounds());
