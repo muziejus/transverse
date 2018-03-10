@@ -149,19 +149,19 @@ landscape loses all variety and Oedipa also ends up lost.
 
 <div class="row">
 <div class="col-4">
-
+<h2>
 Königsberg
-
+</h2>
 </div>
 <div class="col-4">
-
+<h2>
 Paris
-
+</h2>
 </div>
 <div class="col-4">
-
-San Francisco
-
+<h2>
+SF/Oakland
+</h2>
 </div>
 </div>
 
@@ -248,31 +248,57 @@ Note: But the shift towards finding the universal solution has its own
 particularity. As I mentioned, the people, the buildings–all of that fades
 away because now the central issue is, always already, the question of the
 bridges. The universal rule regarding what is or is not an “Eulerian path” is
-so specific as to be nearly useless, as the example with New York shows. The
-graph, as a map, is no navigational aid. 
+so specific as to be nearly useless. 
 
-But there’s also a reason for
-starting both with a map and a story. When arguing with your classmates in
-that 18th century Prussian beer hall, you’re not relying on a map to guide
-your walk but also on the image of Königsberg you have built up in your mind.
+---
+
+> Beneath the haze stirred up by the winds, the urban island… sinks down at
+Greenwich, then rises again to the crests of Midtown, quietly passes over
+Central Park and finally undulates off into the distance beyond Harlem. A wave
+of verticals. Its agitation is momentarily arrested by vision. The gigantic
+mass is immobilized before the eyes.</blockquote>
+
+<div class="credit">De Certeau, _The Practice of Everyday Life_, 91.</div>
+
+Note: This is kind of startling, because we’re trained to think of maps as
+telling the whole story. They enact what Michel de Certeau describes as the
+view from the top of the World Trade Center, the God’s Eye view of the world,
+arrested and made legibile to the objective observer. Or, as Donna Haraway
+describes it, our lust to be a viewpoint and nothing more leaps “out of the
+marked body and into a conquering gaze,” attempting the “god-trick of seeing
+everything from nowhere.” We are in the territory of Martin Jay’s scopic
+regime of modernity and of Timothy Mitchell’s world-as-exhibition, a world
+that is “ordered and organised, calculated and rendered unambiguous.”
+
+---
+
+![Eulerian map of New York City](/images/nyc-euler-map.png)
+
+Note: But for all that lack of ambiguity arising from soaring to a height of
+unmediated observation, in that conquering gaze of the voyeur--and the term is
+de Certeau’s--this map would certainly not have helped me get on the train
+yesterday to come to Albany.
 
 ---
 
 <div class="row">
 <div class="col-4">
-
-> rats ok… let’s start again
-
+<h3>Königsberg</h3>
+<blockquote>
+rats ok... let’s start again
+</blockquote>
 </div>
 <div class="col-4">
-
-> she knelt alone, lost and conspicuous
-
+<h3>Paris</h3>
+<blockquote>
+she knelt alone, lost and conspicuous
+</blockquote>
 </div>
 <div class="col-4">
-
-> The landscape lost all variety.
-
+<h3>SF/Oakland</h3>
+<blockquote>
+The landscape lost all variety.
+</blockquote>
 </div>
 </div>
 
@@ -282,5 +308,25 @@ your walk but also on the image of Königsberg you have built up in your mind.
 
 ---
 
+## Bibliography
+
+* Djuna Barnes, _Nightwood_ [1936] (New York: New Directions, 2006).
+* Michel de Certeau, _The Practice of Everyday Life_, trans. Steven Rendall
+  (Berkeley: University of California Press, 2002).
+* Leonhard Euler, “Solutio Problematis Ad Geometriam Situs Pertinentis,”
+  _Commentarii Academiae Scientiarum Imperial Petropolitanae_ 8 (1741).
+* ———, “The Solution of a Problem Relating to the Geometry of Position,” in _Graph Theory 1736–1936_, ed. Norman Biggs, E. Keith Lloyd, and Robin J. Wilson (Oxford: Clarendon Press, 1976)
+* Donna Haraway, “Situated Knowledges: The Science Question in Feminism and the
+Privilege of Partial Perspective," in *Simians, Cyborgs, and Women: The Reinvention of Nature* (New York: Routledge, 1991).
+* Martin Jay, “Scopic Regimes of Modernity,” in _Vision and Visuality_, ed. Hal
+  Foster (Seattle: Bay Press, 1988).
+* Kevin Lynch, _The Image of the City_ (Cambridge: MIT Press, 1960).
+* Timothy Mitchell, _Colonising Egypt_ (Berkeley: University of California Press,
+  1991).
+* Thomas Pynchon, _The Crying of Lot 49_ [1965] (New York: Perennial, 1986).  
+
+---
+
 ## Thanks!
-#### [http://moacir.com/talks/simple-js-maps/](http://moacir.com/talks/simple-js-maps/)
+####
+[http://moacir.com/talks/oedipas-rocks/](http://moacir.com/talks/oedipas-rocks/)
