@@ -309,9 +309,9 @@ body {
  * Moacir’s classes
  * ******/
 
-.reveal .bibliography li {
-  font-size: 0.6em;
-}
+/* .reveal .bibliography li { */
+/*   font-size: 0.6em; */
+/* } */
 
 .reveal .roman {
   font-style: normal;
@@ -354,7 +354,7 @@ body {
   line-height: 1em;
 }
 
-.bibliography {
+.reveal .bibliography {
   font-size: 50%;
 }
 
