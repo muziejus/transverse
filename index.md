@@ -302,15 +302,17 @@ to describe what that something is.
 
 > The ordinary practitioners of the city live “down below,” below the
 thresholds at which visibility begins. They walk—an elementary form of this
-experience of the city; they are walkers, _Wandersmänner_, whose bodies follow the thicks and thins of an urban “text” they write without being able to read it.
+experience of the city; they are walkers, _Wandersmänner_, whose bodies follow
+the thicks and thins of an urban “text” they write without being able to read
+it.
 
 <div class="credit">De Certeau, _The Practice of Everyday Life_, 93.</div>
 
 Note: De Certeau describes walkers as a contrast to the voyeurs floating
-above. Where the voyeurs arrest process in the fiction of total knowledge, the
-walkers are always generating new knowledge with their experience of the city.
-The damage done by the endataing and mapping, then, is the erasure of the
-writing of the city made by these walkers. 
+above. Where the voyeurs arrest process in pursuing the fiction of total
+knowledge, the walkers are always generating new knowledge as they traverse
+the city. The damage done by the en-dataing and mapping, then, is the erasure
+of the writing of the city made by these walkers. 
 
 ---
 
@@ -335,12 +337,29 @@ The landscape lost all variety.
 </div>
 </div>
 
-Note: Hence starting this talk with asking you to imagine yourself as a
-walker. Not as one looking at a map
+Note: Hence starting this talk with asking you to imagine yourselves as
+drunk German students in Königsberg, which is to say, as walkers. Not as
+voyeurs with a map of the city before you. Instead, as students, you relied on
+the maps in your head, what Kevin Lynch calls mental maps, that provide the
+image of the city. That’s how, sitting in a Hospitium and drinking the night
+away, you know ahead of time that your proposed path won’t work. On crossing
+the Krämerbrücke back towards the castle, you realize there’s no way to get
+back to Kneiphof to cross the remaining three bridges. 
+
+In the case of Oedipa and Robin, they move outside of their mental maps,
+having wandered into a state of being lost, both literally and metaphorically.
+Further, as they move into areas less sketched in in their mental maps, the
+distinctions become fainter—a Russian church, not the Nevsky Cathedral. Or, as
+in Oakland, the landscape becomes indistinct, lacking mental touchpoints that
+can bring the picture into focus.
 
 ---
 
-![Lynch map]()
+![Lynch mental map of Boston](/images/boston-cognitive-map-solar.png)
+
+<div class="credit">Lynch, _The Image of the City_, 19.</div>
+
+Note: Lynch’s research on these 
 
 ---
 
@@ -351,17 +370,22 @@ walker. Not as one looking at a map
   (Berkeley: University of California Press, 2002).
 * Leonhard Euler, “Solutio Problematis Ad Geometriam Situs Pertinentis,”
   _Commentarii Academiae Scientiarum Imperial Petropolitanae_ 8 (1741).
-* ———, “The Solution of a Problem Relating to the Geometry of Position,” in _Graph Theory 1736–1936_, ed. Norman Biggs, E. Keith Lloyd, and Robin J. Wilson (Oxford: Clarendon Press, 1976)
-* Donna Haraway, “Situated Knowledges: The Science Question in Feminism and the
-Privilege of Partial Perspective," in *Simians, Cyborgs, and Women: The Reinvention of Nature* (New York: Routledge, 1991).
+* ———, “The Solution of a Problem Relating to the Geometry of Position,” in
+  _Graph Theory 1736–1936_, ed. Norman Biggs, E. Keith Lloyd, and Robin J.
+  Wilson (Oxford: Clarendon Press, 1976)
+* Donna Haraway, “Situated Knowledges: The Science Question in Feminism and
+  the Privilege of Partial Perspective," in *Simians, Cyborgs, and Women: The
+  Reinvention of Nature* (New York: Routledge, 1991).
 * N. Katherine Hayles, _How We Think: Digital Media and Contemporary
   Technogenesis_ (Chicago: University of Chicago Press, 2012).
-* Martin Jay, “Scopic Regimes of Modernity,” in _Vision and Visuality_, ed. Hal
-  Foster (Seattle: Bay Press, 1988).
+* Martin Jay, “Scopic Regimes of Modernity,” in _Vision and Visuality_, ed.
+  Hal Foster (Seattle: Bay Press, 1988).
+* Fredric Jameson, _Postmodernism, or, the Cultural Logic of Late Capitalism_
+  (Durham, Duke University Press, 1999).
 * Kevin Lynch, _The Image of the City_ (Cambridge: MIT Press, 1960).
 * Doreen Massey, _For Space_ (Los Angeles: Sage, 2005).
-* Timothy Mitchell, _Colonising Egypt_ (Berkeley: University of California Press,
-  1991).
+* Timothy Mitchell, _Colonising Egypt_ (Berkeley: University of California
+  Press, 1991).
 * Thomas Pynchon, _The Crying of Lot 49_ [1965] (New York: Perennial, 1986).  
 * Amy D. Wells, “La cartographie comme outil d’analyse litteraire : des cartes
   metaphoriques aux cartes SIG,” in _Géographie poétique et cartographie
