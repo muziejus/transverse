@@ -1,5 +1,7 @@
 # Oedipa’s Rocks
 
+## Wandering without a Map
+
 <small><a href="http://moacir.com">Moacir P. de Sá Pereira</a> / <a href="http://twitter.com/muziejus">@muziejus</a><br />
 Asst. Prof. / Faculty Fellow, <a href="http://english.fas.nyu.edu/page/home">Department of English</a>, New York University<br />
 moacir@nyu.edu<br />
@@ -352,12 +354,19 @@ walker. Not as one looking at a map
 * ———, “The Solution of a Problem Relating to the Geometry of Position,” in _Graph Theory 1736–1936_, ed. Norman Biggs, E. Keith Lloyd, and Robin J. Wilson (Oxford: Clarendon Press, 1976)
 * Donna Haraway, “Situated Knowledges: The Science Question in Feminism and the
 Privilege of Partial Perspective," in *Simians, Cyborgs, and Women: The Reinvention of Nature* (New York: Routledge, 1991).
+* N. Katherine Hayles, _How We Think: Digital Media and Contemporary
+  Technogenesis_ (Chicago: University of Chicago Press, 2012).
 * Martin Jay, “Scopic Regimes of Modernity,” in _Vision and Visuality_, ed. Hal
   Foster (Seattle: Bay Press, 1988).
 * Kevin Lynch, _The Image of the City_ (Cambridge: MIT Press, 1960).
+* Doreen Massey, _For Space_ (Los Angeles: Sage, 2005).
 * Timothy Mitchell, _Colonising Egypt_ (Berkeley: University of California Press,
   1991).
 * Thomas Pynchon, _The Crying of Lot 49_ [1965] (New York: Perennial, 1986).  
+* Amy D. Wells, “La cartographie comme outil d’analyse litteraire : des cartes
+  metaphoriques aux cartes SIG,” in _Géographie poétique et cartographie
+  littéraire_, ed. Véronique Maleval, Marion Picker, and Florent Gabaude
+  (Limoges: Presses Universitaires de Limoges et du Limousin, 2012).
 
 ---
 
