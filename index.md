@@ -20,18 +20,37 @@ later.
 
 ---
 
-![Königsberg in 1613](https://i.imgur.com/RisugVN.jpg)
+![Albertinum in 1850](/images/albertinum-crop.png)
 
-<div class="credit">“[Gedenkblatt zur sechshundertjährigen Jubelfeier der
-Königlichen Haupt und Residenz-Stadt Königsberg in Preußen um 1813. Nach einem
-Stich von Joachim Bering von
-1613](https://commons.wikimedia.org/wiki/File:Koenigsberg,_Map_by_Bering_1613.jpg).”</div>
+<div class="credit">Ludwig Clericus, “[Collegium
+Albertinum](https://en.wikipedia.org/wiki/University_of_K%C3%B6nigsberg#/media/File:Albertinum.JPG),”
+c. 1850.</div> 
 
 Note: But first, let’s put some balls of conflict into motion. I want to start
-with a story that may be familiar to you all. Hopefully, it isn’t,
-but we’ll see. Here we have a map of Königsberg from, according to Wikipedia,
-1613. This city is now known as KalininGRAT, and it’s part of Russia. I want
-to turn the clock forward one hundred years, though, to the early 1700s,
+with a story that may be familiar to you all. Hopefully, it isn’t, but we’ll
+see. This is a drawing of the Collegium Albertinum, the oldest building in the
+University of Königsberg, from the 19th century. It doesn’t exist anymore,
+having been bombed to dust by the RAF, but here it looks similar to how it did
+in the early 18th century. I ask you, then, please to imagine yourself as a
+student back then, a generation or so older than Immanuel Kant, whose tomb
+today stands not far from the collegium, behind the cathedral on Kneiphof. 
+
+
+---
+
+![Der sauffende Student](/images/sauffende-student-crop.jpg)
+
+<div class="credit">Johann Georg Puschner, “[Der sauffende
+Student](https://de.wikipedia.org/wiki/Johann_Georg_Puschner#/media/File:Der_sauffende_Student.jpg),”
+1725.</div>
+
+Note: Let’s say it’s one in the morning, and you’ve been drinking with your classmates. Invariably, so the story goes,
+the challenge will arise: can you cross all seven bridges across the Pregel
+River once and only once? Maybe you make a wager with your classmates and
+stumble out into the bracing Baltic wind, convinced that, this time, it’s
+surely possible, and the walking begins, perhaps with the nearest bridge, now
+known as the medOvij most, or honey bridge. None of us was alive back in the
+early 1700s,
 
 ---
 
@@ -42,25 +61,19 @@ Königlichen Haupt und Residenz-Stadt Königsberg in Preußen um 1813. Nach eine
 Stich von Joachim Bering von
 1613](https://commons.wikimedia.org/wiki/File:Koenigsberg,_Map_by_Bering_1613.jpg).”</div>
 
-Note: And ask you to imagine yourself here on the Kneiphof, the central
-island, studying at the university. You’re about a generation older than
-Immanuel Kant. Let’s say it’s one in the morning, and you’ve been drinking
-with your classmates. Invariably, so the story goes, the challenge will arise:
-can you cross all seven bridges across the Pregel River, and I’ve colored the
-Pregel
-in here to make the bridges more visible, can you cross all seven bridges once
-and only once? Maybe you make a wager with your classmates and stumble out
-into the bracing Baltic wind, convinced that, this time, it’s surely possible.
+Note: so let’s get a sense of what Königsberg looked like back then. Here I’ve
+colored in the Pregel to make the bridges stand out a bit more, and this is
+where the Collegium was, behind the cathedral on Kneiphof.
 
 ---
 
 ![Trying to walk the bridges in Königsberg](/images/pregel-walks.gif)
 
-Note: Because we’re not in Königsberg, and most of the applicable bridges have
-been destroyed anyway, we can’t actually get drunk and totter from bridge to
-bridge. I’ve sort of made an approximation of what could follow here, but the
-key is that performing the challenge you’re discussing with your classmates
-can take several forms.
+Note: Furthermore, because we’re not in Königsberg, and most of the applicable
+bridges have been destroyed anyway, we can’t actually get drunk and totter
+from bridge to bridge. I’ve sort of made an approximation of what could follow
+here, but the key is that performing the challenge you’re negotiating with your
+classmates can take several forms.
 
 ---
 
@@ -149,19 +162,19 @@ landscape loses all variety and Oedipa also ends up lost.
 
 <div class="row">
 <div class="col-4">
-<h2>
+<h3>
 Königsberg
-</h2>
+</h3>
 </div>
 <div class="col-4">
-<h2>
+<h3>
 Paris
-</h2>
+</h3>
 </div>
 <div class="col-4">
-<h2>
+<h3>
 SF/Oakland
-</h2>
+</h3>
 </div>
 </div>
 
@@ -263,7 +276,7 @@ mass is immobilized before the eyes.</blockquote>
 Note: This is kind of startling, because we’re trained to think of maps as
 telling the whole story. They enact what Michel de Certeau describes as the
 view from the top of the World Trade Center, the God’s Eye view of the world,
-arrested and made legibile to the objective observer. Or, as Donna Haraway
+arrested and made legible to the objective observer. Or, as Donna Haraway
 describes it, our lust to be a viewpoint and nothing more leaps “out of the
 marked body and into a conquering gaze,” attempting the “god-trick of seeing
 everything from nowhere.” We are in the territory of Martin Jay’s scopic
@@ -278,6 +291,24 @@ Note: But for all that lack of ambiguity arising from soaring to a height of
 unmediated observation, in that conquering gaze of the voyeur--and the term is
 de Certeau’s--this map would certainly not have helped me get on the train
 yesterday to come to Albany.
+
+Turning the text, the story, the narrative into data and plotting it on a map
+does tremendous damage to something, it seems, but it’s not entirely clear how
+to describe what that something is.
+
+---
+
+> The ordinary practitioners of the city live “down below,” below the
+thresholds at which visibility begins. They walk—an elementary form of this
+experience of the city; they are walkers, _Wandersmänner_, whose bodies follow the thicks and thins of an urban “text” they write without being able to read it.
+
+<div class="credit">De Certeau, _The Practice of Everyday Life_, 93.</div>
+
+Note: De Certeau describes walkers as a contrast to the voyeurs floating
+above. Where the voyeurs arrest process in the fiction of total knowledge, the
+walkers are always generating new knowledge with their experience of the city.
+The damage done by the endataing and mapping, then, is the erasure of the
+writing of the city made by these walkers. 
 
 ---
 
@@ -301,6 +332,9 @@ The landscape lost all variety.
 </blockquote>
 </div>
 </div>
+
+Note: Hence starting this talk with asking you to imagine yourself as a
+walker. Not as one looking at a map
 
 ---
 
@@ -328,5 +362,4 @@ Privilege of Partial Perspective," in *Simians, Cyborgs, and Women: The Reinvent
 ---
 
 ## Thanks!
-####
-[http://moacir.com/talks/oedipas-rocks/](http://moacir.com/talks/oedipas-rocks/)
+#### [http://moacir.com/talks/oedipas-rocks/](http://moacir.com/talks/oedipas-rocks/
