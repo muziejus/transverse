@@ -367,6 +367,12 @@ another or one district to another.
 
 ---
 
+<svg id="lot49-raw-diff"></svg>
+
+Note:
+
+---
+
 ### Bibliography
 
 * Djuna Barnes, _Nightwood_ [1936] (New York: New Directions, 2006).

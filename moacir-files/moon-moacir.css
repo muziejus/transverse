@@ -96,6 +96,7 @@ body {
 
 /* Ensure certain elements are never larger than the slide itself */
 .reveal img,
+.reveal svg,
 .reveal video,
 .reveal iframe {
   max-width: 95%;
@@ -335,6 +336,15 @@ body {
   text-align: right;
   font-size: 0.8em;
 }
+
+.reveal section svg {
+  margin: 0px;
+  background: rgba(255, 255, 255, 0.12);
+  border: 4px solid #839496;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); 
+  /* set width and height as attributes. */
+}
+
 
 /* .reveal blockquote em { */
 /*   font-style: italic; */
