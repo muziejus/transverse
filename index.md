@@ -40,7 +40,7 @@ today stands not far from the collegium, behind the cathedral on Kneiphof.
 
 ---
 
-![Der sauffende Student](/images/sauffende-student-crop.jpg)
+![Der sauffende Student](/images/sauffende-student-crop.png)
 
 <div class="credit">Johann Georg Puschner, “[Der sauffende
 Student](https://de.wikipedia.org/wiki/Johann_Georg_Puschner#/media/File:Der_sauffende_Student.jpg),”
@@ -359,11 +359,15 @@ can bring the picture into focus.
 
 <div class="credit">Lynch, _The Image of the City_, 19.</div>
 
-Note: Lynch’s research on these 
+Note: Lynch’s research on these mental maps or mental images breaks apart the
+city into parts. Confusingly using some of the same terminology as graph
+theory, namely nodes, edges, and paths, for Lynch edges are impermeable
+boundaries, while nodes are spaces of transition, perhaps from one path to
+another or one district to another. 
 
 ---
 
-## Bibliography
+### Bibliography
 
 * Djuna Barnes, _Nightwood_ [1936] (New York: New Directions, 2006).
 * Michel de Certeau, _The Practice of Everyday Life_, trans. Steven Rendall

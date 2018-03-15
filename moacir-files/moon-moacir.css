@@ -19,7 +19,20 @@ html * {
  *********************************************/
 body {
   background: #002b36;
-  background-color: #002b36; }
+  background-color: #002b36;
+  font-family: "Azuro", sans-serif;
+  font-size: 36px;
+  font-weight: normal;
+  /* color: #93a1a1; } */
+  color: #839496; }
+
+#slug {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  z-index: -1000;
+  color: #586e75;
+}
 
 .reveal {
   font-family: "Azuro", sans-serif;
