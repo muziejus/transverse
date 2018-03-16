@@ -1,4 +1,4 @@
-$("ul").after( $("#biblography") ).addClass("bibliography");
+$("#bibliography").nextAll("ul").addClass("bibliography");
 
 
 const tileUrl = "https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png";
