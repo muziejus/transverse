@@ -338,8 +338,7 @@ The landscape lost all variety.
 </div>
 
 Note: Hence starting this talk with asking you to imagine yourselves as
-drunk German students in Königsberg, which is to say, as walkers. Not as
-voyeurs with a map of the city before you. Instead, as students, you relied on
+drunk German students in Königsberg. As students, you relied on
 the maps in your head, what Kevin Lynch calls mental maps, that provide the
 image of the city. That’s how, sitting in a Hospitium and drinking the night
 away, you know ahead of time that your proposed path won’t work. On crossing
@@ -355,6 +354,20 @@ can bring the picture into focus.
 
 ---
 
+### _The Image of the City_
+
+<ul>
+<li class="fragment">**Paths:** (graph theory: edges) channels of movement that are predominant in the image</li>
+<li class="fragment">**Nodes:** (gt: nodes) strategic, enterable points, junctions that include moments of shift</li>
+<li class="fragment">**Districts:** homogeneous, enterable areas that are always distinguishable from inside</li>
+<li class="fragment">**Landmarks:** unenterable points of reference</li>
+<li class="fragment">**Edges:** breaks in continuity, barriers, seams, and organizing features</li>
+</ul>
+
+---
+
+
+
 ![Lynch mental map of Boston](/images/boston-cognitive-map-solar.png)
 
 <div class="credit">Lynch, _The Image of the City_, 19.</div>
@@ -364,6 +377,35 @@ city into parts. Confusingly using some of the same terminology as graph
 theory, namely nodes, edges, and paths, for Lynch edges are impermeable
 boundaries, while nodes are spaces of transition, perhaps from one path to
 another or one district to another. 
+
+---
+
+<blockquote>vast overhanging rocks, which Amphitrite<br />
+batters aggressively with mighty waves.<br />
+The blessed gods call these the Wandering Rocks.<br />
+No birds can fly through safe, not even doves,<br />
+who bring ambrosia to Zeus. One dove<br />
+is always lost in that sheer gulf of stone<br />
+and Zeus must send another to restore<br />
+the number of the flock. No human ship<br />
+has ever passed there. When one tries to enter,<br />
+the waves and raging gusts of fire engulf<br />
+ship timbers and the bodies of the men.<br />
+</blockquote>
+<div class="credit">Homer, _The Odyssey_, trans. Wilson, 12.59–69.</div>
+
+---
+
+![Plumb’s map of Paris](/images/plumb-paris.png)
+
+<!-- <div class="credit">Paris, in Barnes, _Nightwood_, ed. Plumb, 216–217.</div> -->
+
+---
+
+![1911 Map of Paris](/images/paris-1911.png)
+
+<!-- <div class="credit">Paris, in Barnes, _Nightwood_, ed. Plumb, 216–217.</div> -->
+
 
 ---
 
@@ -388,14 +430,9 @@ Note:
   Reinvention of Nature* (New York: Routledge, 1991).
 * N. Katherine Hayles, _How We Think: Digital Media and Contemporary
   Technogenesis_ (Chicago: University of Chicago Press, 2012).
-* Martin Jay, “Scopic Regimes of Modernity,” in _Vision and Visuality_, ed.
-  Hal Foster (Seattle: Bay Press, 1988).
-* Fredric Jameson, _Postmodernism, or, the Cultural Logic of Late Capitalism_
-  (Durham, Duke University Press, 1999).
+* Homer, _The Odyssey_, trans. Emily Wilson (New York: Norton, 2017).
 * Kevin Lynch, _The Image of the City_ (Cambridge: MIT Press, 1960).
 * Doreen Massey, _For Space_ (Los Angeles: Sage, 2005).
-* Timothy Mitchell, _Colonising Egypt_ (Berkeley: University of California
-  Press, 1991).
 * Thomas Pynchon, _The Crying of Lot 49_ [1965] (New York: Perennial, 1986).  
 * Amy D. Wells, “La cartographie comme outil d’analyse litteraire : des cartes
   metaphoriques aux cartes SIG,” in _Géographie poétique et cartographie
