@@ -12,13 +12,14 @@ a great weekend. I also want to thank the organizers of the conference,
 especially Julian, who helped me out a bunch in the homestretch.
 
 This is kind of a weird talk for me, since it’s all new material. These ideas
-had been kicking around in my head for about half a year, but upon being invited to the
-conference and then reading the description, the ideas sort of took enough
-form where I could start putting them down on paper, or, at least, whatever
-this is. So I appreciate your patience and look forward to your thoughts at
-the end. Furthermore, my email address is here, too, as is my twitter name, in
-case you don’t get a chance to talk to me or you only think of something
-later.
+had been kicking around in my head for about half a year, but upon being
+invited to the conference and then reading the description, the ideas sort of
+took enough form where I could start putting them down on paper, or, at least,
+whatever this is. So though I aim to talk about wandering without a map, I do
+have a map for what I’ll be talking about. Either way, I appreciate your
+patience and look forward to your thoughts at the end. Furthermore, my email
+address is here, too, as is my twitter name, in case you don’t get a chance to
+talk to me or you only think of something later.
 
 ---
 
@@ -28,15 +29,15 @@ later.
 Albertinum](https://en.wikipedia.org/wiki/University_of_K%C3%B6nigsberg#/media/File:Albertinum.JPG),”
 c. 1850.</div> 
 
-Note: But first, let’s put some balls of conflict into motion. I want to start
-with a story that may be familiar to you all. Hopefully, it isn’t, but we’ll
-see. This is a drawing of the Collegium Albertinum, the oldest building in the
-University of Königsberg, from the 19th century. It doesn’t exist anymore,
-having been bombed to dust by the RAF, but here it looks similar to how it did
-in the early 18th century. I ask you, then, please to imagine yourself as a
-student back then, a generation or so older than Immanuel Kant, whose tomb
-today stands not far from the collegium, behind the cathedral on Kneiphof. 
-
+Note: But first, let’s put some balls of conflict into motion. The first
+gambit might be familiar, but even so, I hope to tell it in a new way.  This
+is a 19th century drawing of the Collegium Albertinum, the oldest building in
+the University of Königsberg. It doesn’t exist anymore, having been bombed to
+dust by the RAF, but here it looks similar to how it did in the early 18th
+century. I ask you, then, please to imagine yourself as a student back then, a
+generation or so older than Immanuel Kant, whose tomb today stands not far
+from the collegium, behind the cathedral on Kneiphof, KalininGRAT’s central
+island. 
 
 ---
 
@@ -46,13 +47,14 @@ today stands not far from the collegium, behind the cathedral on Kneiphof.
 Student](https://de.wikipedia.org/wiki/Johann_Georg_Puschner#/media/File:Der_sauffende_Student.jpg),”
 1725.</div>
 
-Note: Let’s say it’s one in the morning, and you’ve been drinking with your classmates. Invariably, so the story goes,
-the challenge will arise: can you cross all seven bridges across the Pregel
-River once and only once? Maybe you make a wager with your classmates and
-stumble out into the bracing Baltic wind, convinced that, this time, it’s
-surely possible, and the walking begins, perhaps with the nearest bridge, now
-known as the medOvij most, or honey bridge. None of us was alive back in the
-early 1700s,
+Note: Let’s say it’s one in the morning, and you’ve been drinking with your
+classmates. Here’s a contemporary image of what that might’ve looked like.
+Invariably, so the story goes, the challenge will arise: can you cross all
+seven bridges across the Pregel River once and only once? Maybe you make a
+wager with your classmates that it surely is, and you think you have the
+answer. Stepping into the bracing Baltic winds, the walking begins, perhaps
+with the nearest bridge, now known as the medOvij most, or honey bridge. None
+of us was alive back in the early 1700s,
 
 ---
 
@@ -63,8 +65,8 @@ Königlichen Haupt und Residenz-Stadt Königsberg in Preußen um 1813. Nach eine
 Stich von Joachim Bering von
 1613](https://commons.wikimedia.org/wiki/File:Koenigsberg,_Map_by_Bering_1613.jpg).”</div>
 
-Note: so let’s get a sense of what Königsberg looked like back then. Here I’ve
-colored in the Pregel to make the bridges stand out a bit more, and this is
+Note: so let’s get a sense of the nature of the challenge. Here I’ve colored
+in the Pregel to make the seven bridges stand out a bit more, and this is
 where the Collegium was, behind the cathedral on Kneiphof.
 
 ---
@@ -74,8 +76,9 @@ where the Collegium was, behind the cathedral on Kneiphof.
 Note: Furthermore, because we’re not in Königsberg, and most of the applicable
 bridges have been destroyed anyway, we can’t actually get drunk and totter
 from bridge to bridge. I’ve sort of made an approximation of what could follow
-here, but the key is that performing the challenge you’re negotiating with your
-classmates can take several forms.
+here, but performing the challenge you’re negotiating with your
+classmates can take several forms. I suggested stumbling out and walking late
+at night to alliterate bracing and Baltic.
 
 ---
 
@@ -84,50 +87,57 @@ classmates can take several forms.
 3. then Schmiedebrücke by the castle back onto Kneiphof,
 4. then cross back at Krämerbrücke and… rats ok let’s start again…
 
-Note: You can list the steps out, for example, turning the journey into
-something resembling driving directions or what a GPS device would tell you.
+Note: But you can list the steps out, for example, turning the journey into
+something resembling directions or what, these days, a GPS device
+would tell you.
 
 ---
 
 ![A failed path in Königsberg](/images/konigsberg-1613-pregel-crop-path.jpg)
 
-Note: The directions above can also take the form of a sketched out path on a
-map. Yet the change of style carries with it a subtle epistemic shift. What on the previous slide could
-be considered as a kind of transversing of space, here, instead, is now a
-transversed space. There is no change in this map; the path is frozen. In
-fact, this map describes at least two sets of walking directions, the to and fro.
-The motion, the process, both of these are gone. This map has
-ripped the narrative energy out of your nighttime prowl, turning an event into
-a datum, events into data. Two similar examples:
+Note: The attempt at a solution can also take the form of a sketched out path on a
+map, which itself can be sketched on a tabletop or napkin. The directions in
+the previous slide would look like this. Each way of tackling the challenge
+involves a subtle shift. What on the previous slide
+could be considered as a kind of traversing of space, here, instead, is now
+a traversed space. There is no change in this map; the path is frozen. In
+fact, this map describes at least two sets of walking directions, the to and
+fro. The motion, the process, both of these are gone. This map has ripped the
+narrative energy out of your nighttime prowl, turning an event into a datum,
+events into data. Two similar examples:
 
 ---
 
 > Suddenly she took the Catholic vow. She came into the church silently… Many
-churches saw her: _St. Julien le Pauvre_, the church of _St. Germain des Prés_,
-_Ste. Clothilde_. Even on the cold tiles of the Russian church, in which there
-is no pew, she knelt alone, lost and conspicuous, her broad shoulders above
-her neighbours, her feet large and as earthly as the feet of a monk.
-She strayed into the _rue Picpus_, into the gardens of the convent of
-_L’Adoration Perpétuelle_. 
+churches saw her: _St. Julien le Pauvre_, the church of _St. Germain des
+Prés_, _Ste. Clothilde_. Even on the cold tiles of the Russian church, in
+which there is no pew, she knelt alone, lost and conspicuous… She strayed into
+the _rue Picpus_, into the gardens of the convent of _L’Adoration
+Perpétuelle_… and looked down at the tomb of Lafayette. 
 
 <div class="credit">Barnes, _Nightwood_, 49–50. Italics in original.</div>
 
 Note: Robin Vote has taken to wandering away from her husband, and here we see
-her moving through various churches in Paris. Barnes doesn’t give us an
-itinerary per se, but compare this description here to its rendering as data.
+her moving through various churches in Paris. Djuna Barnes doesn’t give us an
+itinerary per se, but compare this passage to its rendering as data.
 
 ---
 
-<div class="map" id="robin-vote"></div>
+![Robin’s wandering in Paris](/images/paris-1911/robin-wander.png)
 
-Note: Robin’s straying is frozen and removed from the clustering Barnes
-provides narratively “many churches saw her” creates one group and then
-“strayed into the rue Picpus” a second, with an indistinct "Russian church in
-which there is no pew" between them. Instead, here the clustering is
-geographical: rive gauche churches in contrast to the rive droite convent. And
-now I'm forced to decide that "Russian church" refers to the Nevsky Cathedral
-in Paris, breaking the promise of uncertainty that Barnes provided. Yet we’re
-still building here with these nighttime strayings… Königsberg, Paris,
+<div class="credit">[Basemap
+engraving](https://commons.wikimedia.org/wiki/File:Britannica_Paris.png) by Emery Walker sc, from _Encyclopædia
+Britannica Eleventh Edition_, 1911.</div>
+
+Note: Robin’s straying is frozen. Barnes clusters the locations narratively.
+“Many churches saw her” creates one group and then “strayed into the rue
+Picpus” a second, with an indistinct "Russian church in which there is no pew"
+between them. Here, instead, the clustering is geographical: rive gauche
+churches in contrast to the rive droite convent. And now I'm forced to decide
+that "Russian church" refers specifically to the Nevsky Cathedral in Paris,
+breaking the promise of uncertainty that Barnes provided with the narration.
+Yet we’re still building here with these nighttime strayings… Königsberg,
+Paris,
 
 ---
 
@@ -144,7 +154,7 @@ afternoon. The landscape lost all variety.
 
 <div class="credit">Pynchon, _The Crying of Lot 49_, 130.</div>
 
-Note: Here, it’s no longer late at night, but rather early morning.
+Note: Here, it’s no longer late at night, but rather morning.
 Nevertheless, Oedipa Maas is also wandering, partly, in search of the elusive
 sign of the horn. But she’s also partly fleeing, and even once she catches a
 strong lead, she ends up in Oakland, not recognizing her surroundings until
@@ -153,7 +163,11 @@ began, in front of John Nefastis’s house.
 
 ---
 
-<div class="map" id="oedipa-maas"></div>
+![Oedipa’s following the mail boy](/images/oedipa-sf.png)
+<div class="credit">Basemap by [Stamen Design](http://stamen.com), under
+[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Data by
+[OpenStreetMap](http://openstreetmap.org), under [CC BY
+SA](https://creativecommons.org/licenses/by-sa/3.0/).</div>
 
 Note: A map draws the strong straight line from the center of San Francisco to
 Oakland, but we can hardly even call this a “representation” of the quoted
@@ -183,7 +197,7 @@ SF/Oakland
 Note: There’s a lot going on in these three examples, and the latter two I’ll
 save for a more detailed examination that makes up the bulk of this talk. But
 first, I want to finish up with our Königsberg dilemma, aiming to show what
-the drunken set of challenges demonstrates about how we think of space.
+the drunken set of challenges demonstrates about space.
 
 ---
 
@@ -192,8 +206,8 @@ the drunken set of challenges demonstrates about how we think of space.
 <div class="credit">Euler, “[Solutio Problematis Ad Geometriam Situs
 Pertinentis](http://eulerarchive.maa.org/docs/originals/E053.pdf).”</div>
 
-Note: So, in 1735, Leonhard Euler presents a paper before the St. Petersburg
-Academy of Sciences. When published, the article includes this abstracted map of
+Note: In 1735, Leonhard Euler presents a paper before the St. Petersburg
+Academy of Sciences. When published, the article includes a map of
 Königsberg, a step removed from any sort of map one would use to move around
 in the city, which I’ve adapted here. Kneiphof becomes just “A,” and each
 bridge is a lowercase letter. Euler is trying to prove that it’s impossible to
@@ -215,11 +229,11 @@ in Biggs, Lloyd, Wilson, _Graph Theory 1736–1936_.</div>
 
 Note: Even for someone not particularly mathematically inclined like me,
 Euler’s proof is exceptionally readable, and it leads to the conclusion I’ve
-excerpted here. Nevertheless, what I want to underscore is the way the
-story moves from our imagined fiction of drunk students stumbling around the
-city to Euler’s sterilizing reframing of the question. People are removed from
-the question, and places become mere letters. From GPS directions to the
-somehow less precise pink path, to Euler’s abstracted map, then
+excerpted here. Nevertheless, the story has moved from our imagined fiction of
+drunk students stumbling around the city or enumerating directions to Euler’s
+sterilizing reframing of the question. People are removed from the question,
+and places become mere letters. From GPS directions to the somehow less
+precise pink path, to Euler’s abstracted map, then
 
 ---
 
@@ -227,20 +241,22 @@ somehow less precise pink path, to Euler’s abstracted map, then
 
 Note: to this. Current accounts of the bridges problem abstract it even
 further. At least Euler still speaks of “regiones” and “pontes,” regions and
-bridges. Here, the bridges are now “edges” and the shores of the Pregel bound
-“nodes.” Narrative to map to graph, the locus of interest for the branch of
-mathematics, graph theory, that emerged out of Euler’s paper. The
-people, the buildings… none of that matters anymore
+bridges. Here, the bridges are now “edges” and the shores of the Pregel circle
+around “vertices.” Narrative to map to this, a graph, the locus of interest for
+the branch of mathematics, graph theory, that emerged out of Euler’s paper.
 
 It’s tempting to read this as a progression from the particular to the
-universal, as surely that was Euler’s goal, to divine the universal rule that
-solves the bridges problem for any situation.
+universal. Euler, after all, is explicitly trying to divine the universal rule
+that solves the bridges problem for any situation.
 
 ---
 
 ![Albany](/images/albany.png)
+<div class="credit">Basemap by [Carto](http://carto.com/). Data by
+[OpenStreetMap](http://openstreetmap.org), under [CC BY
+SA](https://creativecommons.org/licenses/by-sa/3.0/).</div>
 
-Note: Using Euler’s proof, from what I can tell, Albany fails the test, but
+Note: Although using Euler’s proof, from what I can tell, Albany fails the test, but
 that’s only since Albany isn’t separated by bridges.
 
 ---
@@ -249,11 +265,7 @@ that’s only since Albany isn’t separated by bridges.
 
 Note: New York City gets complicated and depends on how you count bridges. If
 you take only the bridges that connect one borough to another, it seems like
-the answer is no. Only Manhattan has an even number of bridges. Adding tunnels
-makes it possible, because Manhattan stays even, but now Queens and Brooklyn
-are also even. But even here, I’m cheating a bit because you have to be able
-to cross from Manhattan into Randalls Island three times. Like I said, it’s
-complicated.
+the answer is no. Only Queens has an even number of bridges. 
 
 ---
 
@@ -263,7 +275,8 @@ Note: But the shift towards finding the universal solution has its own
 particularity. As I mentioned, the people, the buildings–all of that fades
 away because now the central issue is, always already, the question of the
 bridges. The universal rule regarding what is or is not an “Eulerian path” is
-so specific as to be nearly useless. 
+so specific as to be nearly useless. A map of Königsberg could have several
+uses. A graph, fewer.
 
 ---
 
@@ -357,26 +370,55 @@ can bring the picture into focus.
 ### _The Image of the City_
 
 <ul>
-<li class="fragment">**Paths:** (graph theory: edges) channels of movement that are predominant in the image</li>
-<li class="fragment">**Nodes:** (gt: nodes) strategic, enterable points, junctions that include moments of shift</li>
-<li class="fragment">**Districts:** homogeneous, enterable areas that are always distinguishable from inside</li>
-<li class="fragment">**Landmarks:** unenterable points of reference</li>
-<li class="fragment">**Edges:** breaks in continuity, barriers, seams, and organizing features</li>
+<li class="fragment">Paths</li>
+<li class="fragment">Edges</li>
+<li class="fragment">Nodes</li>
+<li class="fragment">Districts</li>
+<li class="fragment">Landmarks</li>
 </ul>
 
+Note: The mental maps Lynch describes in the image of the city have five
+components. Paths are what earlier, in a graph, we referred to as edges. Paths
+are channels of movement that are predominant in the images. Not to be
+confused with the edges on a graph, Lynch’s edges are *breaks* in continuity.
+They are barriers, seams, and organizing features.
+Nodes are similar
+to the vertices in the graph, in that they are strategic, enterable points that
+are junctions between paths, often including moments of shift. Districts are
+homogeneous, enterable areas that are always distinguishable from inside.
+Landmarks, on the other hand, are unenterable points of reference.
+
 ---
-
-
 
 ![Lynch mental map of Boston](/images/boston-cognitive-map-solar.png)
 
 <div class="credit">Lynch, _The Image of the City_, 19.</div>
 
-Note: Lynch’s research on these mental maps or mental images breaks apart the
-city into parts. Confusingly using some of the same terminology as graph
-theory, namely nodes, edges, and paths, for Lynch edges are impermeable
-boundaries, while nodes are spaces of transition, perhaps from one path to
-another or one district to another. 
+Note: In this map of Boston, we can see all five components at work in how
+Lynch’s respondents conceive of the city in their minds. Most important for
+the rest of this talk will be the edges. Here we can see that the Charles
+River and the harbor create barriers that close in the sense of the extent of
+Boston, but the central artery, now buried underground because of the Big Dig,
+serves as another edge tearing through the middle of the city.
+
+---
+
+> The disruptive power of the edge must be reckoned with. The isolation of
+the North End in Boston by the Central Artery was glaring, in the eyes of
+residents and non-residents alike.
+
+<div class="credit">Lynch, _The Image of the City_, 64.</div>
+
+Note: Space is not, importantly, just smooth space open for movement. It’s not
+paths everywhere linking nodes together. Disruptions, barriers, and other
+obstacles not only prevent movement but even force the formation of new paths
+to go around them. These obstructions are what I call
+
+---
+
+## Rocks
+
+Note: rocks.
 
 ---
 
@@ -394,18 +436,103 @@ ship timbers and the bodies of the men.<br />
 </blockquote>
 <div class="credit">Homer, _The Odyssey_, trans. Wilson, 12.59–69.</div>
 
+Note: It’s a goofy name, I know, but I was thinking about how obstacles can
+move, like blockers on a football field. They wander alongside the wanderer,
+and, as wandering rocks, they are threats to whatever is trying to move past
+them, be they doves, ships, or Robin Vote or Oedipa Maas. So what are the
+rocks Robin faces? And how can we try to imagine the heterogeneous space in
+which she moves and in which her own movement is hindered.
+
 ---
 
 ![Plumb’s map of Paris](/images/plumb-paris.png)
 
 <!-- <div class="credit">Paris, in Barnes, _Nightwood_, ed. Plumb, 216–217.</div> -->
 
+Note: _Nightwood_ takes place mostly in Paris, and this is the map that
+accompanies the expanded critical edition by Cheryl J. Plumb. Plumb’s map is,
+to me, profoundly unsatisfying. In focusing only on the Sixth Arrondissement,
+the map inflicts its own edges on the stories it can tell about Nightwood.
+
 ---
 
-![1911 Map of Paris](/images/paris-1911.png)
+![Robin’s wandering in Paris](/images/paris-1911/robin-wander.png)
 
-<!-- <div class="credit">Paris, in Barnes, _Nightwood_, ed. Plumb, 216–217.</div> -->
+Note: If we recall, even from the short passage of Robin Vote’s wandering,
+more than just the sixth arrondissement is in play, as we see here how the
+narrator maps Robin’s trip to both sides of the Seine. And in fact, if we
+return to the actual passage…
 
+---
+
+> Suddenly she took the Catholic vow. She came into the church silently… Many
+churches saw her: _St. Julien le Pauvre_, the church of _St. Germain des Prés_,
+_Ste. Clothilde_. Even on the cold tiles of the Russian church, in which there
+is no pew, she knelt alone, lost and conspicuous…
+She strayed into the _rue Picpus_, into the gardens of the convent of
+_L’Adoration Perpétuelle_… and looked down at the tomb of Lafayette. 
+
+<div class="credit">Barnes, _Nightwood_, 49–50. Italics in original.</div>
+
+Note: we can even infer a narrative path here. Is the narrator providing us
+with a list of places that Robin visited or the trajectory of her journey?
+Does she, then, end up at the Congregation of the Sacred Hearts
+of Jesus and Mary, over in the 12th Arrondissement, where, in Picpus
+Cemetery, Lafayette is buried? Studying the novel geocritically, Amy Wells
+argues that this is very much a destination for Robin, suggesting an almost
+unconscious attraction to one of the hidden pockets of Americanized Paris, as
+Lafayette’s tomb features an American flag, dirt from Bunker Hill, and various
+commemorations and plaques from the US.
+
+---
+
+![Robin’s wandering in Paris](/images/paris-1911/robin-wander-path.png)
+
+Note: So unlike the step-by-step directions of trying and failing to walk the
+Königsberg bridges, instead here the narrator gestures at a course of
+movement. Small wonder that Robin, while avoiding her husband, ends up in this
+distant American end of Paris, reflecting her upcoming disappearance to
+America with Nora Flood. Here, let’s get the audience up to speed about
+Nightwood, however.
+
+---
+
+## Nightwood
+### 1936, by Djuna Barnes
+
+<ul>
+<li class="fragment"><span style="color: #6c71c4;">**Robin Vote**</span></li>
+<li class="fragment"><span style="color: #cb4b16;">**Felix Volkbein**</span></li>
+<li class="fragment"><span style="color: #859900;">**Nora Flood**</span></li>
+<li class="fragment"><span style="color: #2aa198;">**Jenny Petherbridge**</span></li>
+<li class="fragment"><span style="color: #b58900;">**Matthew O’Connor**</span></li>
+</ul>
+
+Note: Published in 1936, Nightwood, by Djuna Barnes, is a short novel that
+basically concerns itself with five people, mostly in Paris. Robin Vote is a
+young American who takes to wandering and drinking at night. She marries and
+has a child with Felix Volkbein, a fake aristocrat searching for real
+aristocracy. She leaves Felix for Robin Flood, another American, before
+leaving Robin for Jenny Petherbridge, a much older, four-times divorced woman
+of means. Commenting on all of this is the bawdy and complex Irish-American
+doctor from San Francisco, Matthew O’Connor. The novel ends back in the US,
+with Robin and Nora and Nora’s dog somehow, ambiguously reunited in some way.
+
+---
+
+![Robin and Felix](/images/paris-1911/robin-felix.png)
+
+---
+
+![Robin, Felix, and Nora](/images/paris-1911/robin-felix-nora.png)
+
+---
+
+![Robin, Felix, Nora, and Jenny](/images/paris-1911/robin-felix-nora-jenny.png)
+
+---
+
+![All characters](/images/paris-1911/all-dots.png)
 
 ---
 
@@ -418,6 +545,12 @@ Note:
 ### Bibliography
 
 * Djuna Barnes, _Nightwood_ [1936] (New York: New Directions, 2006).
+* Djuna Barnes, _Nightwood_ [1936], ed. Cheryl J. Plumb (Normal, IL: Dalkey
+  Archive Press, 1995).
+* Alex Christie and Katie Tanigawa, “Mapping Modernism’s Z-axis: A Model for
+  Spatial Analysis in Modernist Studies,” in _Reading Modernism with
+  Machines_, ed. Shawna Ross and James O’Sullivan (London: Palgrave Macmillan,
+  2016).
 * Michel de Certeau, _The Practice of Everyday Life_, trans. Steven Rendall
   (Berkeley: University of California Press, 2002).
 * Leonhard Euler, “Solutio Problematis Ad Geometriam Situs Pertinentis,”
@@ -425,13 +558,16 @@ Note:
 * ———, “The Solution of a Problem Relating to the Geometry of Position,” in
   _Graph Theory 1736–1936_, ed. Norman Biggs, E. Keith Lloyd, and Robin J.
   Wilson (Oxford: Clarendon Press, 1976)
-* Donna Haraway, “Situated Knowledges: The Science Question in Feminism and
-  the Privilege of Partial Perspective," in *Simians, Cyborgs, and Women: The
+* Donna Haraway, *Simians, Cyborgs, and Women: The
   Reinvention of Nature* (New York: Routledge, 1991).
 * N. Katherine Hayles, _How We Think: Digital Media and Contemporary
   Technogenesis_ (Chicago: University of Chicago Press, 2012).
 * Homer, _The Odyssey_, trans. Emily Wilson (New York: Norton, 2017).
+* Teresa de Lauretis, “_Nightwood_ and the ‘Terror of Uncertain Signs,’”
+  _Critical Inquiry_ 34:S2 (2008), S117–S129.
 * Kevin Lynch, _The Image of the City_ (Cambridge: MIT Press, 1960).
+* Jane Marcus, “Laughing at Leviticus: _Nightwood_ as Woman’s Circus Epic,”
+_Cultural Critique_ 13 (1989), 143–190.
 * Doreen Massey, _For Space_ (Los Angeles: Sage, 2005).
 * Thomas Pynchon, _The Crying of Lot 49_ [1965] (New York: Perennial, 1986).  
 * Amy D. Wells, “La cartographie comme outil d’analyse litteraire : des cartes
