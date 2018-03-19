@@ -91,6 +91,7 @@ body {
  * OTHER
  *********************************************/
 .reveal p {
+  /* margin: 20px 0; */
   margin: 20px 0 0;
   line-height: 1.3; }
 
