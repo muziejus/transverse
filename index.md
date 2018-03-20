@@ -494,7 +494,7 @@ Nightwood, however.
 
 ---
 
-## Nightwood
+## _Nightwood_
 ### 1936, by Djuna Barnes
 
 <ul>
@@ -601,14 +601,95 @@ are “long past the pond and the park and were circling back again, toward the
 lower parts of town.” Jenny strikes Robin and then the carriage drops Robin
 off at her apartment. In O’Connor’s retelling, however, “we went riding down
 the Champs Elysées. We went straight as a die over the Pont Neuf, and whirled
-around into the rue du Cherche-Midi, God forgive us!”
-
+around into the rue du Cherche-Midi, God forgive us!” The Bois is completely
+ignored.
 
 ---
 
 ![All characters](/images/paris-1911/all-dots.png)
 
+Note: When we add in O’Connor, we see that his image spreads widely across the
+city in comparison. Not only is he involved in many places with other
+characters, but he himself details in digressions about his own experiences
+cruising for men near the Bastille, for example, or trying to masturbate in
+the St. Merri church. Yet we also see, with all five characters accounted for,
+just how off the path Robin’s trip to the Picpus Cemetery is.
+
 ---
+
+> On the second landing of the hotel (it was one of those middle-class
+hostelries… so typical that it might have been moved every night and not have
+been out of place) a door was standing open, exposing a red carpeted floor…
+
+> About [Robin’s]
+head there was an effulgence as of phosphorus glowing about the circumference
+of a body of water—as if her life lay through her in ungainly luminous
+deteriorations—the troubling structure of the born somnambule, who lives in
+two worlds—meet of child and desperado… 
+
+<div class="credit">Barnes, _Nightwood_, 37–38.</div>
+
+Note: Some close reading might better place Robin within the city. When Felix
+and O’Connor come across her at her hotel, the narrator presents Robin as a
+phantasm. First, her hotel is so indistinct that it could move through the
+night unnoticed, much in the way Robin aims to. Robin herself is described as
+a “somnambule,” the word that also names this chapter. Robin moves at night,
+like a sleep walker, but also flitting between two worlds. Furthermore, the
+narrator gestures at a destruction or ephemerality to Robin. Here, her life
+has its luminous deteriorations. A few paragraphs later, after trying to get
+to her feet and prove she’s all right, the narrator describes how she “fell
+back into the pose of her annihilation.”
+
+---
+
+> Something of this emotion came over Felix, but being racially incapable of
+abandon, he felt that he was looking upon a figurehead in a museum, which
+though static, no longer roosting on its cutwater, seemed yet to be going
+against the wind; as if this girl were the converging halves of a broken fate,
+setting face, in sleep, toward itself in time, as an image and its reflection
+in a lake seem parted only by the hesitation in the hour.
+
+<div class="credit">Barnes, _Nightwood_, 41.</div>
+
+Note: Felix is overcome by her instability. She is at once a static statue,
+like a map, but also shows the effect of the wind on her, a person not quite
+split, but out of phase. 
+
+---
+
+> I find that I never did have a really clear idea of her at any time. I
+had an image of her, but that is not the same thing. An image is a stop the
+mind makes between uncertainties.  
+
+<div class="credit">Barnes, _Nightwood_, 119.</div>
+
+Note: Later, after Robin has left Felix, he meets O’Connor and tells him he
+is in “mental trouble”. The two men dine in the Bois de Boulogne, and Felix
+begins to recount Robin to the doctor, again with language of uncertainty,
+fluidity. His description of her as an image again relies on the fantasy of
+detemporalization similar to that of the map, where an object can be frozen
+long enough for deep observation. Even thinking of Robin as a fixed object in
+the past, as he sees his own family history, because it was given to him from
+only one source, doesn’t work.
+
+---
+
+> [O’Connor’s] fabrications seemed to be the framework of a forgotten but
+imposing plan.
+
+<div class="credit">Barnes, _Nightwood_, 33.</div>
+
+
+---
+
+## _The Crying of Lot 49_
+### 1965, by Thomas Pynchon
+
+
+
+---
+
+
 
 <svg id="lot49-raw-diff"></svg>
 
