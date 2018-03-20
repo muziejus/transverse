@@ -112,8 +112,7 @@ events into data. Two similar examples:
 churches saw her: _St. Julien le Pauvre_, the church of _St. Germain des
 Prés_, _Ste. Clothilde_. Even on the cold tiles of the Russian church, in
 which there is no pew, she knelt alone, lost and conspicuous… She strayed into
-the _rue Picpus_, into the gardens of the convent of _L’Adoration
-Perpétuelle_… and looked down at the tomb of Lafayette. 
+the _rue Picpus_, into the gardens of the convent of _L’Adoration Perpétuelle_… and looked down at the tomb of Lafayette. 
 
 <div class="credit">Barnes, _Nightwood_, 49–50. Italics in original.</div>
 
@@ -280,18 +279,16 @@ uses. A graph, fewer.
 
 ---
 
-> Beneath the haze stirred up by the winds, the urban island… sinks down at
-Greenwich, then rises again to the crests of Midtown, quietly passes over
-Central Park and finally undulates off into the distance beyond Harlem. A wave
-of verticals. Its agitation is momentarily arrested by vision. The gigantic
-mass is immobilized before the eyes.</blockquote>
+![StoryMaps homepage](/images/storymaps.png)
 
-<div class="credit">De Certeau, _The Practice of Everyday Life_, 91.</div>
+<div class="credit">Esri, [http://storymaps.arcgis.com](http://storymaps.arcgis.com)</div>
 
 Note: This is kind of startling, because we’re trained to think of maps as
-telling the whole story. They enact what Michel de Certeau describes as the
-view from the top of the World Trade Center, the God’s Eye view of the world,
-arrested and made legible to the objective observer. Or, as Donna Haraway
+not just telling *a* story, but of telling the whole story. As Donna Haraway
+explains, “Cartography is perhaps the chief tool-metaphor of technoscience,”
+as maps let the viewer 
+
+as Donna Haraway
 describes it, our lust to be a viewpoint and nothing more leaps “out of the
 marked body and into a conquering gaze,” attempting the “god-trick of seeing
 everything from nowhere.” We are in the territory of Martin Jay’s scopic
@@ -509,7 +506,7 @@ Nightwood, however.
 </ul>
 
 Note: Published in 1936, Nightwood, by Djuna Barnes, is a short novel that
-basically concerns itself with five people, mostly in Paris. Robin Vote is a
+concerns itself with five people who spend most of the novel in Paris. Robin Vote is a
 young American who takes to wandering and drinking at night. She marries and
 has a child with Felix Volkbein, a fake aristocrat searching for real
 aristocracy. She leaves Felix for Robin Flood, another American, before
@@ -520,15 +517,92 @@ with Robin and Nora and Nora’s dog somehow, ambiguously reunited in some way.
 
 ---
 
+![Robin’s wandering in Paris](/images/paris-1911/robin-wander-path.png)
+
+Note: Back to Robin, then. This trip of hers, in fact, is unique in the novel
+in that it’s the only time in the novel that the narrator inhabits Robin’s
+thoughts or describes her actions from her point of view. Typically, Robin is
+only reported on, by either Felix, Nora, or Jenny to Dr. O’Connor. As a crude
+point of comparison, of the 260 words or so of dialog Robin has, over half
+two-thirds of that speech is reported via another character in the novel.
+Despite the seeming freedom of her wandering, then, the narrator tells us very
+little about it, giving this example within Paris, and another about how she
+would wander even beyond the city. As the narrator tells us, just before the
+passage about the churches, “she took to going out; wandering the countryside;
+to train travel, to other cities, alone and engrossed. Once, not having
+returned for three days, and Felix nearly beside himself with terror, she
+walked in late at night and said that she had been halfway to Berlin.”
+
+Where are Robin’s barriers, then? Much as Felix leads her to wandering by
+demanding to know where his unborn child is, where are Robin’s rocks?
+
+---
+
 ![Robin and Felix](/images/paris-1911/robin-felix.png)
+
+Note: If I add places in Paris Felix either mentions or visits, the topography
+of the city starts to fill in a bit, while also gesturing toward’s Felix’s own
+peculiarities. His claims to aristocracy and financial security are signaled
+by his working at Crédit Lyonnais, and by the doctor’s suggestion that they
+get lunch in the Bois de Boulogne, but he also circulates in the sixth
+arrondissement with Dr. O’Connor, which is where they both meet Robin when the
+doctor is asked to revive her from being passed out one night. And their own
+courtship progresses along the spine of the rue Bonaparte, from the Jardin du
+Luxembourg up to the Seine.
 
 ---
 
 ![Robin, Felix, and Nora](/images/paris-1911/robin-felix-nora.png)
 
+Note: When Robin leaves Felix, she goes to New York, where she meets Nora.
+Upon their return to Paris, Nora buys an apartment, chosen by Robin, at the
+rue du Cherche-Midi. Within two paragraphs, the narrator notes that “the time
+came that Nora was alone most of the night and part of the day,” however,
+which also accounts for Nora’s small spatial footprint within Paris. Robin’s
+the wanderer; Nora merely chases, as the other dot here, referring to an
+extended incident in Montparnasse, reveals.
+
 ---
 
 ![Robin, Felix, Nora, and Jenny](/images/paris-1911/robin-felix-nora-jenny.png)
+
+Note: Jenny, with “the collective income four dead husbands could afford,” has
+a much more aristocratic Paris. She lives off the Champs-Elysees, goes to the
+opera, and dines both in the Bois de Boulogne and at the Ambassadeurs,
+because, as the narrator wryly notes, “Jenny feared meeting Nora.” She is
+familiar with Nora and Robin’s apartment, but even so, her expansive region
+presses on Nora’s, which is perfectly fitting. The chapter in which she is
+introduced, “The Squatter,” includes this observation from the narrator:
+
+---
+
+> When she fell in love it was with a perfect fury of accumulated dishonesty;
+she became instantly a dealer in second-hand and therefore incalculable
+emotions. As, from the solid archives of usage, she had stolen or appropriated
+the dignity of speech, so she appropriated the most passionate love that she
+knew, Nora’s for Robin. She was a “squatter” by instinct.
+
+<div class="credit">Barnes, _Nightwood_, 74–75.</div>
+
+Note: Jenny can only impersonate and fill regions to choke away the originals
+she copies. Even the central story related to her in the narrative, of the
+carriage trip with Robin, O’Connor, the young girl Sylvia, and the
+Englishwoman Robin picks up at one of Jenny’s parties, is copied, told once
+from the perspective of the narrator and once from O’Connor’s perspective.
+
+---
+
+![Robin, Felix, Nora, and Jenny](/images/paris-1911/robin-felix-nora-jenny.png)
+
+Note: We can see it here on the map. As Alex Christie and Katie Tanigawa note,
+however, the trajectories of both trips are reversed. When the narrator
+describes the trip, they leave Jenny’s and head for the Bois. Soon after, they
+are “long past the pond and the park and were circling back again, toward the
+lower parts of town.” Jenny strikes Robin and then the carriage drops Robin
+off at her apartment. In O’Connor’s retelling, however, “we went riding down
+the Champs Elysées. We went straight as a die over the Pont Neuf, and whirled
+around into the rue du Cherche-Midi, God forgive us!”
+
 
 ---
 
@@ -545,27 +619,32 @@ Note:
 ### Bibliography
 
 * Djuna Barnes, _Nightwood_ [1936] (New York: New Directions, 2006).
-* Djuna Barnes, _Nightwood_ [1936], ed. Cheryl J. Plumb (Normal, IL: Dalkey
-  Archive Press, 1995).
+* ———, _Nightwood_ [1936], ed. Cheryl J. Plumb (Normal, IL: Dalkey
+  Archive, 1995).
 * Alex Christie and Katie Tanigawa, “Mapping Modernism’s Z-axis: A Model for
   Spatial Analysis in Modernist Studies,” in _Reading Modernism with
   Machines_, ed. Shawna Ross and James O’Sullivan (London: Palgrave Macmillan,
   2016).
 * Michel de Certeau, _The Practice of Everyday Life_, trans. Steven Rendall
-  (Berkeley: University of California Press, 2002).
+  (Berkeley: U California P, 2002).
 * Leonhard Euler, “Solutio Problematis Ad Geometriam Situs Pertinentis,”
   _Commentarii Academiae Scientiarum Imperial Petropolitanae_ 8 (1741).
 * ———, “The Solution of a Problem Relating to the Geometry of Position,” in
   _Graph Theory 1736–1936_, ed. Norman Biggs, E. Keith Lloyd, and Robin J.
-  Wilson (Oxford: Clarendon Press, 1976)
-* Donna Haraway, *Simians, Cyborgs, and Women: The
+  Wilson (Oxford: Clarendon, 1976)
+* Donna J. Haraway,
+  <em>Modest_Witness@Second_Millennium.FemaleMan©_Meets_OncoMouse™: Feminism
+  and Technoscience</em> (New York: Routledge, 1997).
+* ———, *Simians, Cyborgs, and Women: The
   Reinvention of Nature* (New York: Routledge, 1991).
 * N. Katherine Hayles, _How We Think: Digital Media and Contemporary
-  Technogenesis_ (Chicago: University of Chicago Press, 2012).
+  Technogenesis_ (Chicago: U Chicago P, 2012).
 * Homer, _The Odyssey_, trans. Emily Wilson (New York: Norton, 2017).
+* Bruno Latour, _Science in Action: How to Follow Scientists and Engineers
+  through Society_ (Cambridge, MA: Harvard UP, 1987).
 * Teresa de Lauretis, “_Nightwood_ and the ‘Terror of Uncertain Signs,’”
   _Critical Inquiry_ 34:S2 (2008), S117–S129.
-* Kevin Lynch, _The Image of the City_ (Cambridge: MIT Press, 1960).
+* Kevin Lynch, _The Image of the City_ (Cambridge, MA: MIT Press, 1960).
 * Jane Marcus, “Laughing at Leviticus: _Nightwood_ as Woman’s Circus Epic,”
 _Cultural Critique_ 13 (1989), 143–190.
 * Doreen Massey, _For Space_ (Los Angeles: Sage, 2005).
@@ -573,7 +652,7 @@ _Cultural Critique_ 13 (1989), 143–190.
 * Amy D. Wells, “La cartographie comme outil d’analyse litteraire : des cartes
   metaphoriques aux cartes SIG,” in _Géographie poétique et cartographie
   littéraire_, ed. Véronique Maleval, Marion Picker, and Florent Gabaude
-  (Limoges: Presses Universitaires de Limoges et du Limousin, 2012).
+  (Limoges: PU de Limoges et du Limousin, 2012).
 
 ---
 
