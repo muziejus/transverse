@@ -495,7 +495,7 @@ Nightwood, however.
 ---
 
 ## _Nightwood_
-### 1936, by Djuna Barnes
+### Djuna Barnes, 1936
 
 <ul>
 <li class="fragment"><span style="color: #6c71c4;">**Robin Vote**</span></li>
@@ -674,22 +674,196 @@ only one source, doesn’t work.
 
 ---
 
+> And Robin? I know where your mind is! She, the eternal momentary—Robin who
+was always the second person singular.
+
+<div class="credit">Barnes, _Nightwood_, 135.</div>
+
+Note: We’re looking for rocks here, however, and Robin doesn’t seem to have
+any, at least not that we can see. She’s in fact an exercise in uncertainty,
+the empty center, in the words of Teresa de Lauretis, around which the lives
+and passions of the others spin. Lauretis also how Robin, at the novel’s end,
+shows an excess of affect. That excess seems to render Robin diffuse, exploded
+all over the map to invisibility like atoms in a map. Felix can only see
+snapshots of her, images that are useless as soon as they exist. Here,
+O’Connor tells Nora that Robin is this eternal momentary, moving out of the
+frame with every tick. And yet,
+
+---
+
+> But you, you must unspin fate, go back to find Robin! That's
+what you are going to do. 
+
+<div class="credit">Barnes, _Nightwood_, 133.</div>
+
+Note: capturing Robin’s elusivity is precisely what O’Connor commands Nora to
+do. She has to bend time backwards and bring Robin to her. And here is the
+spatial twist in the novel, where the fate gets unspun. In aiming to form a
+sense of the image of the city with Robin at the center, drawing her paths,
+edges, and regions--hunting for her rocks, it may be that Robin’s spectrality
+is precisely why her wandering contributes to no image. She’s all image
+herself, represented to the reader in other’s narratives, always the you who
+is addressed and never the I who expresses. 
+
+---
+
+![All characters](/images/paris-1911/all-dots.png)
+
+Note: Recall the clearest edge here, the one between Nora and Jenny. Jenny
+dines at Ambassadeurs, because, as the narrator tells us, “Jenny feared
+meeting Nora.” And when the carriages take Robin back to the apartment on Rue
+du Cherche-Midi, the only location both retellings of the evening include, 
+
+---
+
+> The carriage at this moment drew smartly up into the _rue du Cherche-Midi_.
+Robin jumped before the carriage stopped, but Jenny was close behind her,
+following her as far as the garden.
+
+> It was not long after this that Nora and Robin separated; a little later Jenny
+and Robin sailed for America.
+
+<div class="credit">Barnes, _Nightwood_, 83. Italics in original.</div>
+
+Note: Jenny is stopped in the garden, disinclined to to go further and
+confront Nora as well, reaching her own edge. Only Nora eventually crosses the
+edge and goes to meet Jenny, which leads to Robin’s leaving Nora without even
+a word, refusing to respond even to Nora’s last words, “Have you nothing to
+say to me”?
+
+---
+
+> There is a
+gap in “world pain” through which the singular falls continually and forever;
+a body falling in observable space, deprived of the privacy of disappearance;
+as if privacy, moving relentlessly away, by the very sustaining power of its
+withdrawal kept the body eternally moving downward, but in one place, and
+perpetually before the eye. Such a singular was Nora. There was some
+derangement in her equilibrium that kept her immune from her own descent.
+
+<div class="credit">Barnes, _Nightwood_, 56.</div>
+
+Note: As Robin appears too unstable, too out of phase, herself too much of a
+wandering rock to be affected by any sort of edges, we see Jenny with her own
+edges in contrast, and here, the narrator describes Nora in detail for the
+first time. Where Robin is an ephemeral flicker, like an old television not
+quite catching the right frequency, Nora is its opposite, wholly observable
+and visible. And her visibility is always tied in with the underlying trope of
+motion in the novel, the downward motion of the bow down and the decline of
+the descent. As a body moving through space with weight and distinction, Nora
+responds to paths and edges, she has an image of the city, even if she can
+barely see herself in it.
+
+---
+
+> “Robin can go anywhere, do anything,” Nora continued, “because she forgets,
+and I nowhere, because I remember.”
+
+<div class="credit">Barnes, _Nightwood_, 161.</div>
+
+> A shadow was falling on her—mine—and it was driving her out of her wits.
+
+<div class="credit">Barnes, _Nightwood_, 165.</div>
+
+Note: Robin’s impermanence in comparison to Nora’s shows the degree to which
+Robin herself, paradoxically, in her ephemerality, hems Robin in. Robin goes
+out at night and wanders everywhere. She “meets everyone,” as Nora says, while
+Nora stays at home, worried that putting the slightest piece of furniture out
+of the way will mean Robin never returns. And at the same time, Nora is an
+obstacle for Robin. This begins to resemble that state of what Lauren Berlant
+calls cruel optimism, when your object of desire is also an obstacle to your
+flourishing.
+
+---
+
+> In the beginning, after Robin went away with Jenny to America, I searched for
+her in the ports. Not literally, in another way. Suffering is the decay of the
+heart; all that we have loved becomes the ‘forbidden,’ when we have not
+understood it all, as the pauper is the rudiment of a city, knowing something
+of the city, which the city, for its own destiny, wants to forget. So the
+lover must go against nature to find love. I sought Robin in Marseilles, in
+Tangier, in Naples, to understand her, to do away with my terror. I said to
+myself, I will do what she has done, I will love what she has loved, then I
+will find her again. 
+
+<div class="credit">Barnes, _Nightwood_, 165–166.</div>
+
+Note: Out of her wits herself, Nora becomes the sleuth following the wanderer,
+and this is the image with which I’ll close this reading of Nightwood. Nora
+collapses the image of her love for Robin with this image of the city, with a
+pauper as both the initial image and incompletely formed component of the
+city. The city wants to forget the pauper in order to move forward, past its
+beginnings. Nora, as one who cannot forget, cannot move forward. Surrounded by
+edges, she can only emulate Robin and look inward,
+
+---
+
+> I haunted the cafés where Robin had lived her night-life; I drank with the
+men, I danced with the women, but all I knew was that others had slept with my
+lover and my child. For Robin is incest too, that is one of her powers… I
+thought, ‘I will do something that she will never be able to forgive, then we
+can begin again as strangers.’ But the sailor got no further than the hall. He
+said: _Mon dieu, il y a deux chevaux de bois dans la chambre à coucher_.
+
+<div class="credit">Barnes, _Nightwood_, 166.</div>
+
+Note: Becoming Robin means shifting into Robin’s space, into her city. Yet
+even so, the image is both familiar--incestuous--and different, underscored by
+how when Nora attempts to bring a man to bed, to wipe the slate clean, he
+flees in confusion after seeing the wooden horses in the bedroom, standing in
+for the toys with which Robin would play while also watching Nora, to make
+sure, in Nora’s words, that “no one called, that the bell did not ring, that I
+got no mail.” And so on. As Nora sighs after her list of what Robin forbade
+her, “my life was hers.” 
+
+---
+
 > [O’Connor’s] fabrications seemed to be the framework of a forgotten but
 imposing plan.
 
 <div class="credit">Barnes, _Nightwood_, 33.</div>
 
+Note: In mapping out Nightwood, in looking for those edges
+and rocks, the wanderer becomes Nora, who takes her travels to a European
+scale in order to find Robin. After telling O’Connor of her encounter with the
+sailor, she reiterates her trips to Marseilles, Tangier, and Naples, ending
+with, in her words, that “centre of eroticism and death,” thinking of melting
+together with Robin as though they were both made of wax. O’Connor,
+wordlessly, gets up and leaves, the ringmaster of the circus of the novel can
+fabricate no response, there is no plan anymore.
+
+
 
 ---
 
 ## _The Crying of Lot 49_
-### 1965, by Thomas Pynchon
+### Thomas Pynchon, 1965
 
-
+Note: That idea of fabricating a plan takes me to the second text, a return to
+the Oedipa of the title and the rocks she encounters trying to execute Pierce
+Inverarity’s will. Like Nora sleuths Robin, so, too, does Oedipa spend the
+novel sleuthing, even congratulating herself at one point for wearing flats,
+a prophylactic against the labor of walking while following her various leads.
+Nevertheless, early in the novel, the narrator gives us a different
+fabricated, yet imposing plan.
 
 ---
 
+> San Narciso lay further south, near L.A. Like many named places in California
+it was less an identifiable city than a grouping of concepts-census tracts,
+special purpose bond-issue districts, shopping nuclei, all overlaid with
+access roads to its own freeway. But it had been Pierce’s domicile, and
+headquarters: the place he’d begun his land speculating in ten years ago… and
+that, she
+supposed, would set the spot apart, give it an aura. But if there was any
+vital difference between it and the rest of Southern California, it was
+invisible on first glance.
 
+<div class="credit">Pynchon, _The Crying of Lot 49_, 24.</div>
+
+Note: San Narciso, 
+
+---
 
 <svg id="lot49-raw-diff"></svg>
 
@@ -702,12 +876,11 @@ Note:
 * Djuna Barnes, _Nightwood_ [1936] (New York: New Directions, 2006).
 * ———, _Nightwood_ [1936], ed. Cheryl J. Plumb (Normal, IL: Dalkey
   Archive, 1995).
+* Lauren Berlant, _Cruel Optimism_ (Durham, NC: Duke UP, 2011).
 * Alex Christie and Katie Tanigawa, “Mapping Modernism’s Z-axis: A Model for
   Spatial Analysis in Modernist Studies,” in _Reading Modernism with
   Machines_, ed. Shawna Ross and James O’Sullivan (London: Palgrave Macmillan,
   2016).
-* Michel de Certeau, _The Practice of Everyday Life_, trans. Steven Rendall
-  (Berkeley: U California P, 2002).
 * Leonhard Euler, “Solutio Problematis Ad Geometriam Situs Pertinentis,”
   _Commentarii Academiae Scientiarum Imperial Petropolitanae_ 8 (1741).
 * ———, “The Solution of a Problem Relating to the Geometry of Position,” in
@@ -716,18 +889,12 @@ Note:
 * Donna J. Haraway,
   <em>Modest_Witness@Second_Millennium.FemaleMan©_Meets_OncoMouse™: Feminism
   and Technoscience</em> (New York: Routledge, 1997).
-* ———, *Simians, Cyborgs, and Women: The
-  Reinvention of Nature* (New York: Routledge, 1991).
 * N. Katherine Hayles, _How We Think: Digital Media and Contemporary
   Technogenesis_ (Chicago: U Chicago P, 2012).
 * Homer, _The Odyssey_, trans. Emily Wilson (New York: Norton, 2017).
-* Bruno Latour, _Science in Action: How to Follow Scientists and Engineers
-  through Society_ (Cambridge, MA: Harvard UP, 1987).
 * Teresa de Lauretis, “_Nightwood_ and the ‘Terror of Uncertain Signs,’”
   _Critical Inquiry_ 34:S2 (2008), S117–S129.
 * Kevin Lynch, _The Image of the City_ (Cambridge, MA: MIT Press, 1960).
-* Jane Marcus, “Laughing at Leviticus: _Nightwood_ as Woman’s Circus Epic,”
-_Cultural Critique_ 13 (1989), 143–190.
 * Doreen Massey, _For Space_ (Los Angeles: Sage, 2005).
 * Thomas Pynchon, _The Crying of Lot 49_ [1965] (New York: Perennial, 1986).  
 * Amy D. Wells, “La cartographie comme outil d’analyse litteraire : des cartes
@@ -738,4 +905,15 @@ _Cultural Critique_ 13 (1989), 143–190.
 ---
 
 ## Thanks!
-#### [http://moacir.com/talks/oedipas-rocks/](http://moacir.com/talks/oedipas-rocks/
+####
+[http://moacir.com/talks/oedipas-rocks/](http://moacir.com/talks/oedipas-rocks/_)
+
+Note: 
+* Jane Marcus, “Laughing at Leviticus: _Nightwood_ as Woman’s Circus Epic,”
+_Cultural Critique_ 13 (1989), 143–190.
+* Michel de Certeau, _The Practice of Everyday Life_, trans. Steven Rendall
+  (Berkeley: U California P, 2002).
+* Bruno Latour, _Science in Action: How to Follow Scientists and Engineers
+  through Society_ (Cambridge, MA: Harvard UP, 1987).
+* ———, *Simians, Cyborgs, and Women: The
+  Reinvention of Nature* (New York: Routledge, 1991).
