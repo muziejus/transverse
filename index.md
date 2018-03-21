@@ -25,9 +25,9 @@ talk to me or you only think of something later.
 
 ![Albertinum in 1850](/images/albertinum-crop.png)
 
-<div class="credit">Ludwig Clericus, “[Collegium
+--> Ludwig Clericus, “[Collegium
 Albertinum](https://en.wikipedia.org/wiki/University_of_K%C3%B6nigsberg#/media/File:Albertinum.JPG),”
-c. 1850.</div> 
+c. 1850. 
 
 Note: But first, let’s put some balls of conflict into motion. The first
 gambit might be familiar, but even so, I hope to tell it in a new way.  This
@@ -43,9 +43,9 @@ island.
 
 ![Der sauffende Student](/images/sauffende-student-crop.png)
 
-<div class="credit">Johann Georg Puschner, “[Der sauffende
+--> Johann Georg Puschner, “[Der sauffende
 Student](https://de.wikipedia.org/wiki/Johann_Georg_Puschner#/media/File:Der_sauffende_Student.jpg),”
-1725.</div>
+1725.
 
 Note: Let’s say it’s one in the morning, and you’ve been drinking with your
 classmates. Here’s a contemporary image of what that might’ve looked like.
@@ -60,10 +60,10 @@ of us was alive back in the early 1700s,
 
 ![Königsberg in 1613](https://i.imgur.com/SLonpwr.jpg)
 
-<div class="credit">“[Gedenkblatt zur sechshundertjährigen Jubelfeier der
+--> “[Gedenkblatt zur sechshundertjährigen Jubelfeier der
 Königlichen Haupt und Residenz-Stadt Königsberg in Preußen um 1813. Nach einem
 Stich von Joachim Bering von
-1613](https://commons.wikimedia.org/wiki/File:Koenigsberg,_Map_by_Bering_1613.jpg).”</div>
+1613](https://commons.wikimedia.org/wiki/File:Koenigsberg,_Map_by_Bering_1613.jpg).”
 
 Note: so let’s get a sense of the nature of the challenge. Here I’ve colored
 in the Pregel to make the seven bridges stand out a bit more, and this is
@@ -114,7 +114,7 @@ Prés_, _Ste. Clothilde_. Even on the cold tiles of the Russian church, in
 which there is no pew, she knelt alone, lost and conspicuous… She strayed into
 the _rue Picpus_, into the gardens of the convent of _L’Adoration Perpétuelle_… and looked down at the tomb of Lafayette. 
 
-<div class="credit">Barnes, _Nightwood_, 49–50. Italics in original.</div>
+--> Barnes, _Nightwood_, 49–50. Italics in original.
 
 Note: Robin Vote has taken to wandering away from her husband, and here we see
 her moving through various churches in Paris. Djuna Barnes doesn’t give us an
@@ -124,9 +124,9 @@ itinerary per se, but compare this passage to its rendering as data.
 
 ![Robin’s wandering in Paris](/images/paris-1911/robin-wander.png)
 
-<div class="credit">[Basemap
+--> [Basemap
 engraving](https://commons.wikimedia.org/wiki/File:Britannica_Paris.png) by Emery Walker sc, from _Encyclopædia
-Britannica Eleventh Edition_, 1911.</div>
+Britannica Eleventh Edition_, 1911.
 
 Note: Robin’s straying is frozen. Barnes clusters the locations narratively.
 “Many churches saw her” creates one group and then “strayed into the rue
@@ -151,7 +151,7 @@ Oakland. So did Oedipa.
 > They rode over the bridge and into the great, empty glare of the Oakland
 afternoon. The landscape lost all variety.
 
-<div class="credit">Pynchon, _The Crying of Lot 49_, 130.</div>
+--> Pynchon, _The Crying of Lot 49_, 130.
 
 Note: Here, it’s no longer late at night, but rather morning.
 Nevertheless, Oedipa Maas is also wandering, partly, in search of the elusive
@@ -163,10 +163,11 @@ began, in front of John Nefastis’s house.
 ---
 
 ![Oedipa’s following the mail boy](/images/oedipa-sf.png)
-<div class="credit">Basemap by [Stamen Design](http://stamen.com), under
+
+--> Basemap by [Stamen Design](http://stamen.com), under
 [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Data by
 [OpenStreetMap](http://openstreetmap.org), under [CC BY
-SA](https://creativecommons.org/licenses/by-sa/3.0/).</div>
+SA](https://creativecommons.org/licenses/by-sa/3.0/).
 
 Note: A map draws the strong straight line from the center of San Francisco to
 Oakland, but we can hardly even call this a “representation” of the quoted
@@ -202,8 +203,8 @@ the drunken set of challenges demonstrates about space.
 
 ![Euler’s map of Königsberg](https://i.imgur.com/HTezdGR.png)
 
-<div class="credit">Euler, “[Solutio Problematis Ad Geometriam Situs
-Pertinentis](http://eulerarchive.maa.org/docs/originals/E053.pdf).”</div>
+--> Euler, “[Solutio Problematis Ad Geometriam Situs
+Pertinentis](http://eulerarchive.maa.org/docs/originals/E053.pdf).”
 
 Note: In 1735, Leonhard Euler presents a paper before the St. Petersburg
 Academy of Sciences. When published, the article includes a map of
@@ -220,11 +221,11 @@ impar, tum certo affirmari potest, talem transitum non dari.
 > _If there are more than two areas to which an odd number of bridges lead,
 then such a journey is impossible._
 
-<div class="credit">Euler,
+--> Euler,
 “[Solutio…](http://eulerarchive.maa.org/docs/originals/E053.pdf)” and “[The
 Solution of a Problem Relating to the Geometry of
 Position](https://books.google.com/books?id=XqYTk0sXmpoC&lpg=PA2&pg=PA8#v=onepage&q&f=false)”
-in Biggs, Lloyd, Wilson, _Graph Theory 1736–1936_.</div>
+in Biggs, Lloyd, Wilson, _Graph Theory 1736–1936_.
 
 Note: Even for someone not particularly mathematically inclined like me,
 Euler’s proof is exceptionally readable, and it leads to the conclusion I’ve
@@ -251,9 +252,10 @@ that solves the bridges problem for any situation.
 ---
 
 ![Albany](/images/albany.png)
-<div class="credit">Basemap by [Carto](http://carto.com/). Data by
+
+--> Basemap by [Carto](http://carto.com/). Data by
 [OpenStreetMap](http://openstreetmap.org), under [CC BY
-SA](https://creativecommons.org/licenses/by-sa/3.0/).</div>
+SA](https://creativecommons.org/licenses/by-sa/3.0/).
 
 Note: Although using Euler’s proof, from what I can tell, Albany fails the test, but
 that’s only since Albany isn’t separated by bridges.
@@ -281,7 +283,7 @@ uses. A graph, fewer.
 
 ![StoryMaps homepage](/images/storymaps.png)
 
-<div class="credit">Esri, [http://storymaps.arcgis.com](http://storymaps.arcgis.com)</div>
+--> Esri, [http://storymaps.arcgis.com](http://storymaps.arcgis.com)
 
 Note: This is kind of startling, because we’re trained to think of maps as
 not just telling *a* story, but of telling the whole story. As Donna Haraway
@@ -316,7 +318,7 @@ experience of the city; they are walkers, _Wandersmänner_, whose bodies follow
 the thicks and thins of an urban “text” they write without being able to read
 it.
 
-<div class="credit">De Certeau, _The Practice of Everyday Life_, 93.</div>
+--> De Certeau, _The Practice of Everyday Life_, 93.
 
 Note: De Certeau describes walkers as a contrast to the voyeurs floating
 above. Where the voyeurs arrest process in pursuing the fiction of total
@@ -389,7 +391,7 @@ Landmarks, on the other hand, are unenterable points of reference.
 
 ![Lynch mental map of Boston](/images/boston-cognitive-map-solar.png)
 
-<div class="credit">Lynch, _The Image of the City_, 19.</div>
+--> Lynch, _The Image of the City_, 19.
 
 Note: In this map of Boston, we can see all five components at work in how
 Lynch’s respondents conceive of the city in their minds. Most important for
@@ -404,7 +406,7 @@ serves as another edge tearing through the middle of the city.
 the North End in Boston by the Central Artery was glaring, in the eyes of
 residents and non-residents alike.
 
-<div class="credit">Lynch, _The Image of the City_, 64.</div>
+--> Lynch, _The Image of the City_, 64.
 
 Note: Space is not, importantly, just smooth space open for movement. It’s not
 paths everywhere linking nodes together. Disruptions, barriers, and other
@@ -431,7 +433,8 @@ has ever passed there. When one tries to enter,<br />
 the waves and raging gusts of fire engulf<br />
 ship timbers and the bodies of the men.<br />
 </blockquote>
-<div class="credit">Homer, _The Odyssey_, trans. Wilson, 12.59–69.</div>
+
+--> Homer, _The Odyssey_, trans. Wilson, 12.59–69.
 
 Note: It’s a goofy name, I know, but I was thinking about how obstacles can
 move, like blockers on a football field. They wander alongside the wanderer,
@@ -444,7 +447,7 @@ which she moves and in which her own movement is hindered.
 
 ![Plumb’s map of Paris](/images/plumb-paris.png)
 
-<!-- <div class="credit">Paris, in Barnes, _Nightwood_, ed. Plumb, 216–217.</div> -->
+ <!-- Paris, in Barnes, _Nightwood_, ed. Plumb, 216–217. -->
 
 Note: _Nightwood_ takes place mostly in Paris, and this is the map that
 accompanies the expanded critical edition by Cheryl J. Plumb. Plumb’s map is,
@@ -469,7 +472,7 @@ is no pew, she knelt alone, lost and conspicuous…
 She strayed into the _rue Picpus_, into the gardens of the convent of
 _L’Adoration Perpétuelle_… and looked down at the tomb of Lafayette. 
 
-<div class="credit">Barnes, _Nightwood_, 49–50. Italics in original.</div>
+--> Barnes, _Nightwood_, 49–50. Italics in original.
 
 Note: we can even infer a narrative path here. Is the narrator providing us
 with a list of places that Robin visited or the trajectory of her journey?
@@ -582,7 +585,7 @@ emotions. As, from the solid archives of usage, she had stolen or appropriated
 the dignity of speech, so she appropriated the most passionate love that she
 knew, Nora’s for Robin. She was a “squatter” by instinct.
 
-<div class="credit">Barnes, _Nightwood_, 74–75.</div>
+--> Barnes, _Nightwood_, 74–75.
 
 Note: Jenny can only impersonate and fill regions to choke away the originals
 she copies. Even the central story related to her in the narrative, of the
@@ -627,7 +630,7 @@ of a body of water—as if her life lay through her in ungainly luminous
 deteriorations—the troubling structure of the born somnambule, who lives in
 two worlds—meet of child and desperado… 
 
-<div class="credit">Barnes, _Nightwood_, 37–38.</div>
+--> Barnes, _Nightwood_, 37–38.
 
 Note: Some close reading might better place Robin within the city. When Felix
 and O’Connor come across her at her hotel, the narrator presents Robin as a
@@ -649,7 +652,7 @@ against the wind; as if this girl were the converging halves of a broken fate,
 setting face, in sleep, toward itself in time, as an image and its reflection
 in a lake seem parted only by the hesitation in the hour.
 
-<div class="credit">Barnes, _Nightwood_, 41.</div>
+--> Barnes, _Nightwood_, 41.
 
 Note: Felix is overcome by her instability. She is at once a static statue,
 like a map, but also shows the effect of the wind on her, a person not quite
@@ -661,7 +664,7 @@ split, but out of phase.
 had an image of her, but that is not the same thing. An image is a stop the
 mind makes between uncertainties.  
 
-<div class="credit">Barnes, _Nightwood_, 119.</div>
+--> Barnes, _Nightwood_, 119.
 
 Note: Later, after Robin has left Felix, he meets O’Connor and tells him he
 is in “mental trouble”. The two men dine in the Bois de Boulogne, and Felix
@@ -677,7 +680,7 @@ only one source, doesn’t work.
 > And Robin? I know where your mind is! She, the eternal momentary—Robin who
 was always the second person singular.
 
-<div class="credit">Barnes, _Nightwood_, 135.</div>
+--> Barnes, _Nightwood_, 135.
 
 Note: We’re looking for rocks here, however, and Robin doesn’t seem to have
 any, at least not that we can see. She’s in fact an exercise in uncertainty,
@@ -694,7 +697,7 @@ frame with every tick. And yet,
 > But you, you must unspin fate, go back to find Robin! That's
 what you are going to do. 
 
-<div class="credit">Barnes, _Nightwood_, 133.</div>
+--> Barnes, _Nightwood_, 133.
 
 Note: capturing Robin’s elusivity is precisely what O’Connor commands Nora to
 do. She has to bend time backwards and bring Robin to her. And here is the
@@ -723,7 +726,7 @@ following her as far as the garden.
 > It was not long after this that Nora and Robin separated; a little later Jenny
 and Robin sailed for America.
 
-<div class="credit">Barnes, _Nightwood_, 83. Italics in original.</div>
+--> Barnes, _Nightwood_, 83. Italics in original.
 
 Note: Jenny is stopped in the garden, disinclined to to go further and
 confront Nora as well, reaching her own edge. Only Nora eventually crosses the
@@ -741,7 +744,7 @@ withdrawal kept the body eternally moving downward, but in one place, and
 perpetually before the eye. Such a singular was Nora. There was some
 derangement in her equilibrium that kept her immune from her own descent.
 
-<div class="credit">Barnes, _Nightwood_, 56.</div>
+--> Barnes, _Nightwood_, 56.
 
 Note: As Robin appears too unstable, too out of phase, herself too much of a
 wandering rock to be affected by any sort of edges, we see Jenny with her own
@@ -759,11 +762,11 @@ barely see herself in it.
 > “Robin can go anywhere, do anything,” Nora continued, “because she forgets,
 and I nowhere, because I remember.”
 
-<div class="credit">Barnes, _Nightwood_, 161.</div>
+--> Barnes, _Nightwood_, 161.
 
 > A shadow was falling on her—mine—and it was driving her out of her wits.
 
-<div class="credit">Barnes, _Nightwood_, 165.</div>
+--> Barnes, _Nightwood_, 165.
 
 Note: Robin’s impermanence in comparison to Nora’s shows the degree to which
 Robin herself, paradoxically, in her ephemerality, hems Robin in. Robin goes
@@ -786,7 +789,7 @@ Tangier, in Naples, to understand her, to do away with my terror. I said to
 myself, I will do what she has done, I will love what she has loved, then I
 will find her again. 
 
-<div class="credit">Barnes, _Nightwood_, 165–166.</div>
+--> Barnes, _Nightwood_, 165–166.
 
 Note: Out of her wits herself, Nora becomes the sleuth following the wanderer,
 and this is the image with which I’ll close this reading of Nightwood. Nora
@@ -805,7 +808,7 @@ thought, ‘I will do something that she will never be able to forgive, then we
 can begin again as strangers.’ But the sailor got no further than the hall. He
 said: _Mon dieu, il y a deux chevaux de bois dans la chambre à coucher_.
 
-<div class="credit">Barnes, _Nightwood_, 166.</div>
+--> Barnes, _Nightwood_, 166.
 
 Note: Becoming Robin means shifting into Robin’s space, into her city. Yet
 even so, the image is both familiar--incestuous--and different, underscored by
@@ -821,7 +824,7 @@ her, “my life was hers.”
 > [O’Connor’s] fabrications seemed to be the framework of a forgotten but
 imposing plan.
 
-<div class="credit">Barnes, _Nightwood_, 33.</div>
+--> Barnes, _Nightwood_, 33.
 
 Note: In mapping out Nightwood, in looking for those edges
 and rocks, the wanderer becomes Nora, who takes her travels to a European
@@ -850,7 +853,7 @@ fabricated, yet imposing plan.
 ---
 
 > San Narciso lay further south, near L.A. Like many named places in California
-it was less an identifiable city than a grouping of concepts-census tracts,
+it was less an identifiable city than a grouping of concepts—census tracts,
 special purpose bond-issue districts, shopping nuclei, all overlaid with
 access roads to its own freeway. But it had been Pierce’s domicile, and
 headquarters: the place he’d begun his land speculating in ten years ago… and
@@ -859,9 +862,22 @@ supposed, would set the spot apart, give it an aura. But if there was any
 vital difference between it and the rest of Southern California, it was
 invisible on first glance.
 
-<div class="credit">Pynchon, _The Crying of Lot 49_, 24.</div>
+--> Pynchon, _The Crying of Lot 49_, 24.
 
 Note: San Narciso, 
+
+---
+
+> She drove into San Narciso on a Sunday [and squinted] onto a vast sprawl of houses which had grown up all together,
+like a well-tended crop, from the dull brown earth; and she thought of the
+time she'd opened a transistor radio to replace a battery and seen her first
+printed circuit. The ordered swirl of houses and streets, from this high
+angle, sprang at her now with the same unexpected, astonishing clarity as the
+circuit card had. Though she knew even less about radios than about Southern
+Californians, there were to both outward patterns a hieroglyphic sense of
+concealed meaning, of an intent to communicate.
+
+--> Pynchon, _The Crying of Lot 49_, 24.
 
 ---
 

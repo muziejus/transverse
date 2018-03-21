@@ -1,4 +1,10 @@
 $("#bibliography").nextAll("ul").addClass("bibliography");
+$("p").filter( function() {
+  return (this.textContent || this.innerText).match(/^-->/);
+})
+.addClass("credit").html(function(i, html){
+  return html.replace(/^--&gt; /, "");
+});
 
 const svgWidth = .75 * $(window).width(); 
 const svgHeight = .75 * $(window).height(); 
