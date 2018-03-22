@@ -694,7 +694,7 @@ frame with every tick. And yet,
 
 ---
 
-> But you, you must unspin fate, go back to find Robin! That's
+> But you, you must unspin fate, go back to find Robin! That’s
 what you are going to do. 
 
 --> Barnes, _Nightwood_, 133.
@@ -835,8 +835,6 @@ together with Robin as though they were both made of wax. O’Connor,
 wordlessly, gets up and leaves, the ringmaster of the circus of the novel can
 fabricate no response, there is no plan anymore.
 
-
-
 ---
 
 ## _The Crying of Lot 49_
@@ -857,20 +855,28 @@ it was less an identifiable city than a grouping of concepts—census tracts,
 special purpose bond-issue districts, shopping nuclei, all overlaid with
 access roads to its own freeway. But it had been Pierce’s domicile, and
 headquarters: the place he’d begun his land speculating in ten years ago… and
-that, she
-supposed, would set the spot apart, give it an aura. But if there was any
+that, she supposed, would set the spot apart, give it an aura. But if there was any
 vital difference between it and the rest of Southern California, it was
 invisible on first glance.
 
 --> Pynchon, _The Crying of Lot 49_, 24.
 
-Note: San Narciso, 
+Note: San Narciso, Pierce’s company town that he founded, is a fictional city
+near LA that is also the most commonly mentioned place in the entire novel.
+Oedipa settles in the city to take care of her affairs, leaving her house and
+husband behind in the bay area, in the similarly fictional city of
+Kinneret-Among-the-Pines. Yet the narrator here already uses a rhetoric we
+recognize from Lynch in terms of a fractured and disrupted image. San Narciso
+isn’t a city with an image possible. Instead, it’s a pastiche of land-use. And
+with the narrator’s sly joke at the end of this passage, the implication is
+that all of southern california is equally unclear and fractured, a finding
+Lynch contests in his own studies of central Los Angeles.
 
 ---
 
 > She drove into San Narciso on a Sunday [and squinted] onto a vast sprawl of houses which had grown up all together,
 like a well-tended crop, from the dull brown earth; and she thought of the
-time she'd opened a transistor radio to replace a battery and seen her first
+time she’d opened a transistor radio to replace a battery and seen her first
 printed circuit. The ordered swirl of houses and streets, from this high
 angle, sprang at her now with the same unexpected, astonishing clarity as the
 circuit card had. Though she knew even less about radios than about Southern
@@ -879,11 +885,130 @@ concealed meaning, of an intent to communicate.
 
 --> Pynchon, _The Crying of Lot 49_, 24.
 
+Note: Nevertheless, for Oedipa there is a kind of unifying logic in its own
+uniformity. From her vantage point above San Narciso, she sees the fabricated
+plan in the same way as a circuit board for a radio, which, of course, only
+works because it is a circuit, meaning everything on the board is connected to
+everything else. To the inhabitants, there may be no image of this city, but
+Oedipa senses one underneath, a pattern trying to express itself amidst the
+seemingly chaotically distributed urban elements.
+
+---
+
+<svg id="lot49-real-fake-la-sf-bar"></svg>
+
+Note: San Narciso’s fictionality plays a vital role in imagining the space of
+_Crying of Lot 49_. The narrator has already, with Oedipa’s help, made a stark
+distinction between the Bay Area and southern california, and if we read that
+divide against quote unquote real and fictional (or fake, for brevity) places
+in the novel, we see an alignment in the Bay Area with mappable places that
+correspond to the worlds of the reader, or could, while places in the Los
+Angeles exist more just in Pynchon’s imagination. This is, of course, in
+contrast with Nightwood, where nearly every place mentioned with a proper name
+can be placed on a map. Yet these are the raw numbers for specific places. In
+other words, of the 20 places mentioned in the LA area, 7 are real and 13 are
+fake. 
+
+---
+
+<svg id="lot49-real-fake-la-sf-bar-instance"></svg>
+
+Note: Let’s add in how many times, total, real and fake places are mentioned
+in LA and the Bay Area. Now we see how central San Narciso is to the novel.
+The entire geography Pynchon creates, from Echo Courts, where Oedipa stays,
+through Tremaine’s Swastika Shoppe, mentioned only at the end of the novel,
+within San Narciso contributes to the majority of the fictionality of the
+novel’s geography as a whole. Another way, when the novel looks to Los
+Angeles, it creates a fictional topography of cities, stores, malls,
+businesses, that don’t exist. The opposite is true of the Bay Area, and, for
+that matter, of the rest of the places mentioned in the novel, including the
+invented duchies of Squamuglia and Faggio.
+
 ---
 
 <svg id="lot49-raw-diff"></svg>
 
-Note:
+Note: However, as with the story of the Königsberg bridges, the narrative is
+also important, so I wanted to see if it’s the case that just like fictional
+places are clustered around Los Angeles, if they’re also narratively
+clustered. This chart shows the difference between real and fictional places
+as they’re mentioned in the novel. Most notable is this surge of real places
+mentioned around page 49 (incidentally), when Peter Fallopian begins to
+explain the Peter Pinguid Society, and then its slow descent shortly after,
+when the tale of Squamuglia and Faggio unspools.
+
+---
+
+> The Peter Pinguid Society was named for the commanding officer of the
+Confederate man-of-war “Disgruntled,” who early in 1863 had set sail with the
+daring plan of bringing a task force around Cape Horn to attack San Francisco
+and thus open a second front in the War For Southern Independence… Unknown, however, to Commodore Pinguid, Czar Nicholas II of Russia
+had dispatched his Far East Fleet, four corvettes and two clippers, all under
+the command of one Rear Admiral Popov, to San Francisco Bay, as part of a ploy
+to keep Britain and France from (among other things) intervening on the side
+of the Confederacy.
+
+--> Pynchon, _The Crying of Lot 49_, 49.
+
+Note: The fantastic conspiracy story about the Disgruntled provides the
+narrator with a pile of opportunities to put into motion the geopolitical
+intrigue surrounding the US Civil War. In addition to the places mentioned
+here are place names used for names of ships are places where a skirmish may
+or may not have occurred end up, nevertheless, in Fallopian’s words, “the very
+first military confrontation between Russia and America.” An origin story for
+the Cold War just before 
+
+---
+
+> So began, for Oedipa, the languid, sinister blooming of The Tristero. Or
+rather, her attendance at some unique performance, prolonged as if it were the
+last of the night, something a little extra for whoever’d stayed this late. As
+if the breakaway gowns, net bras, jeweled garters and G-strings of historical
+figuration that would fall away were layered dense as Oedipa’s own
+street-clothes in that game with Metzger in front of the Baby Igor movie; as
+if a plunge toward dawn indefinite black hours long would indeed be necessary
+before The Tristero could be revealed in its terrible nakedness.
+
+--> Pynchon, _The Crying of Lot 49_, 54.
+
+Note: Oedipa, through Fallopian, learns of the Tristero, the invisible
+organization whose existence or not consumes the rest of the novel. But,
+again, recall that this unfolding of information about the Tristero comes
+alongside, initially, a substantial bump of real, as opposed to fake,
+geography. Only through the details of _The Courier’s Tragedy_ during Oedipa’s
+trip to the Fangoso Lagoons does the fictional geography recoup some of its
+influence on the novel. 
+
+---
+
+<svg id="lot49-diff-norm"></svg>
+
+Note: I want to change that earlier chart a bit, to sort of demonstrate the tension
+between real and fictional worlds a bit more clearly before closing with
+Oedipa in the Bay Area. As we saw in the bar charts, real places are mentioned
+far more frequently than fictional ones, even though, as I noted, San Narciso
+is the most frequently mentioned single place. Here, I’ve normalized the data,
+meaning I rescaled it to assume a 50/50 split. As the line gets more negative,
+more fictional places are being referred to. The tendencies are the same, in
+that there’s a spike in “reality” just as the Pinguid society comes up
+followed by a retrenchment of fictionality until about halfway through the
+novel, when the geography abandons its deep fictionality and reestablishes
+itself in a world relatable to the reader, as well.
+
+---
+
+> 5.
+
+> THOUGH her next move should have been to contact Randolph Driblette again, she decided instead to drive up to Berkeley. She wanted to find out where Richard Wharfinger had got his information about Trystero. Possibly also take a look at how the inventor John Nefastis picked up his mail.
+
+--> Pynchon, _The Crying of Lot 49_, 100
+
+Note: Not coincidentally, that reestablishment of a connection with the worlds
+outside the novel happens with the start of chapter five, when Oedipa decides
+to leave San Narciso and continue her sleuthing in the Bay Area. J. Kerry
+Grant lingers on the “should” here, noting the implication that there was a
+correct path for Oedipa to take in order to solve the question of the
+Tristero.
 
 ---
 
@@ -902,6 +1027,8 @@ Note:
 * ———, “The Solution of a Problem Relating to the Geometry of Position,” in
   _Graph Theory 1736–1936_, ed. Norman Biggs, E. Keith Lloyd, and Robin J.
   Wilson (Oxford: Clarendon, 1976)
+* J. Kerry Grant, _A Companion to_ The Crying of Lot 49 (Athens, GA: U Georgia
+  P, 1994).
 * Donna J. Haraway,
   <em>Modest_Witness@Second_Millennium.FemaleMan©_Meets_OncoMouse™: Feminism
   and Technoscience</em> (New York: Routledge, 1997).
@@ -921,8 +1048,7 @@ Note:
 ---
 
 ## Thanks!
-####
-[http://moacir.com/talks/oedipas-rocks/](http://moacir.com/talks/oedipas-rocks/_)
+#### [http://moacir.com/talks/oedipas-rocks/](http://moacir.com/talks/oedipas-rocks/_)
 
 Note: 
 * Jane Marcus, “Laughing at Leviticus: _Nightwood_ as Woman’s Circus Epic,”

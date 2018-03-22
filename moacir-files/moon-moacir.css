@@ -340,7 +340,8 @@ body {
 
 .reveal section svg {
   margin: 0px;
-  background: rgba(255, 255, 255, 0.12);
+  width: 75%;
+  background: #073642;
   border: 4px solid #839496;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); 
   /* set width and height as attributes. */
@@ -404,5 +405,43 @@ body {
 
 .hljs-number {
   color: #2aa198;
+}
+
+.axis {
+  font-family: "Azuro", sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  color: #839496; 
+}
+
+.axis line {
+  stroke: #839496;
+}
+
+.axis path {
+  stroke: #839496;
+}
+
+.axis text {
+  fill: #839496;
+}
+
+.gray-text {
+  fill: #839496;
+  font-family: "Azuro", sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+path {
+  fill: none;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-width: 1.5;
+}
+
+.yellow-line {
+  stroke: #b58900;
+  stroke-width: 4;
 }
 
