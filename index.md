@@ -5,13 +5,15 @@
 <small><a href="http://moacir.com">Moacir P. de Sá Pereira</a> / <a href="http://twitter.com/muziejus">@muziejus</a><br />
 Asst. Prof. / Faculty Fellow, <a href="http://english.fas.nyu.edu/page/home">Department of English</a>, New York University<br />
 moacir@nyu.edu<br />
-Albany, NY, 23 March 2018</small>
+Albany, NY, 24 March 2018</small>
 
 Note: First, I want to thank everyone for coming to this conference. It’s been
 a great weekend. I also want to thank the organizers of the conference,
-especially Julian, who helped me out a bunch in the homestretch.
+especially Julian, who has been my Albany Virgil. That’s probably unfair to
+Albany.
 
-This is kind of a weird talk for me, since it’s all new material. These ideas
+Anyway, my name is Moacir P. de Sá Pereira. Unlike what’s written in the
+program, I am an Assistant Professor and Faculty Fellow at NYU. What follows is kind of a weird talk for me, since it’s all new material. These ideas
 had been kicking around in my head for about half a year, but upon being
 invited to the conference and then reading the description, the ideas sort of
 took enough form where I could start putting them down on paper, or, at least,
@@ -1116,9 +1118,6 @@ where the narrator suggests that Oedipa’s next move “should” have been to
 contact Randolph Driblette again, showing that different possibilities and
 different outcomes pressing against each other. 
 
-new worlds in nightwood, too--final chapter, the
-posessed.
-
 ---
 
 > She strayed into the rue Picpus, into the gardens of the convent of
@@ -1132,11 +1131,100 @@ thoughts.
 
 --> Barnes, _Nightwood_, 49–50. Italics in original.
 
-Note: Studying the novel geocritically, Amy Wells
-argues that this is very much a destination for Robin, suggesting an almost
-unconscious attraction to one of the hidden pockets of Americanized Paris, as
-Lafayette’s tomb features an American flag, dirt from Bunker Hill, and various
-commemorations and plaques from the US.
+Note: I’ll return to Nightwood to finish up, and I’ll return to the brief
+part of the novel that is wholly Robin’s. Amy Wells finds Robin’s straying
+towards the convent particularly notable, because although totally ignored by
+touristic Paris—to the degree that in her critical edition of the novel, Plumb
+deems the location as unknown--the convent is notable for being the final
+resting place of Lafayette, meaning it contributes to the intruding,
+Americanized Paris atop the Paris of the old churches Robin visits, an
+intrusion duplicated by the arrivals of the Americans Robin, Nora, O’Connor,
+and, of course, Barnes herself. 
+
+---
+
+> But if the reader does not visit the site, they cannot know to what a degree
+the Picpus area is Americanized. The text refers Lafayette’s tomb, and once
+the literary pilgrim is on site, they see an American flag… Lafayette’s tomb, with its
+American decorations (and imported American soil covering his casket), turns
+this space into a genuinely hybrid, Franco-American space. And so we better
+understand why Robin Vote, a “lost” American in the middle of Parisian flânerie, stops
+here along her path.
+
+--> Wells, “La cartographie comme outil d’analyse litteraire : des cartes
+  metaphoriques aux cartes SIG,” 176–177. Translation mine.
+
+Note: Wells argues for something similar to what Jonathan Flately calls an affective
+map, the picture “we all carry around with us on which are recorded the
+affective values of the various sites and situations that constitute our
+social worlds.” An affective image of the city and lingering affective
+relationship to America brings Robin to this hybridized space, where even
+soils are mixed. 
+
+---
+
+> Then she began to bark also, crawling after him—barking in a fit of laughter,
+obscene and touching. The dog began to cry, running with her, head-on with her
+head, as if to circumvent her; soft and slow his feet went. He ran this way
+and that, low down in his throat crying, and she grinning and crying with him;
+crying in shorter and shorter spaces, moving head to head, until she gave up,
+lying out, her hands beside her, her face turned and weeping; and the dog too
+gave up then, and lay down, his eyes bloodshot, his head flat along her knees.
+
+--> Barnes, _Nightwood_, 179–180.
+
+Note: The pull of America brings Robin and Jenny to the US, where Robin begins
+wandering again, until she ends up out West on Nora’s property, interacting
+with Nora’s dog, in a scene read as sexual, bestial, unstable, and more. But
+it certainly is also a culmination of the human/animal hybridity explicit in
+Robin throughout the novel--the first description of her, famously, is of an
+eland in a bridal veil. The intrusion of another world in Pynchon is also the
+intrusion of Robin on Nora’s world, the intrusion of the canine into the
+Robinine, at is it were, in all of its senses. 
+
+---
+
+> the spatial, crucially, is the realm of the configuration of potentially
+dissonant (or concordant) narratives. Places, rather than being locations of
+coherence, become the foci of the meeting and the nonmeeting of the previously
+unrelated and thus integral to the generation of novelty. The spatial in its
+role of bringing distinct temporalities into new configurations sets off new
+social processes. And in turn, this emphasises the nature of narratives, of
+time itself, as being not about the unfolding of some internalised story (some
+already-established identities)… but
+about interaction and _the process of the constitution of_ identities.
+
+--> Massey, _For Space_, 71. Italics in original.
+
+Note: For Massey, space is endlessly generative by its very nature, and the
+talks over the past two days have reaffirmed that from multiple vantage
+points. So while, like in Eulerian Königsberg, a map can become so
+specifically aligned with a task as to become useless, in Barnes’s Paris and
+Pynchon’s Bay Area, the map also provides a place for us to put these
+“potentially dissonant or concordant narratives” into clearer conversation.
+Just as the image of the city is persistently being rebuilt as the people walk
+through the city, so does does the map always change with every rereading, and
+after the map, the texts themselves and, ultimately, the worlds hosting
+intrusions and remaining forever different because of them.
+
+---
+
+## —O, rocks! she said. Tell us in plain words.
+
+Note: In the Odyssey, Odysseus chooses against facing the Wandering Rocks. As
+Circe warns him, no one has passed through them alive, save the Argo, and that
+was with an assist from Hera. In this talk I’ve pitched the rocks as
+resembling the edges of Lynch’s image of the city, but as a final thought, I
+want us to remember that they, too, are the wanderers, moving through space
+and constituting new processes. Edges keep Jenny and Nora apart, for example,
+but the wandering rocks also carry the trace of the intrusion of the new, the collision of
+the other.
+
+---
+
+![Mapping the Text](/images/mapping-the-text.png)
+
+[http://mapping-the-text.org](http://mapping-the-text.org)
 
 ---
 
@@ -1155,6 +1243,8 @@ commemorations and plaques from the US.
 * ———, “The Solution of a Problem Relating to the Geometry of Position,” in
   _Graph Theory 1736–1936_, ed. Norman Biggs, E. Keith Lloyd, and Robin J.
   Wilson (Oxford: Clarendon, 1976)
+* Jonathan Flatley, _Affective Mapping: Melancholia and the Politics of
+  Modernism_ (Cambridge, MA: Harvard UP, 2008).
 * J. Kerry Grant, _A Companion to_ The Crying of Lot 49 (Athens, GA: U Georgia
   P, 1994).
 * Donna J. Haraway,
