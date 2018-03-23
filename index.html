@@ -86,9 +86,9 @@
           { src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
           { src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
           { src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/zoom-js/zoom.js', async: true },
-          { src: 'moacir-files/notes/notes.js', async: true },
+          { src: './moacir-files/notes/notes.js', async: true },
           // { src: 'moacir-files/title-footer/title-footer.js', async: true, callback: function() { title_footer.initialize(footerString); } },
-          { src: 'moacir-files/app.js', async: true }
+          { src: './moacir-files/app.js', async: true }
         ]
       });
       /*Reveal.configure({

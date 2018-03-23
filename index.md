@@ -25,7 +25,7 @@ talk to me or you only think of something later.
 
 ---
 
-![Albertinum in 1850](/images/albertinum-crop.png)
+![Albertinum in 1850](./images/albertinum-crop.png)
 
 --> Ludwig Clericus, “[Collegium
 Albertinum](https://en.wikipedia.org/wiki/University_of_K%C3%B6nigsberg#/media/File:Albertinum.JPG),”
@@ -43,7 +43,7 @@ island.
 
 ---
 
-![Der sauffende Student](/images/sauffende-student-crop.png)
+![Der sauffende Student](./images/sauffende-student-crop.png)
 
 --> Johann Georg Puschner, “[Der sauffende
 Student](https://de.wikipedia.org/wiki/Johann_Georg_Puschner#/media/File:Der_sauffende_Student.jpg),”
@@ -73,7 +73,7 @@ where the Collegium was, behind the cathedral on Kneiphof.
 
 ---
 
-![Trying to walk the bridges in Königsberg](/images/pregel-walks.gif)
+![Trying to walk the bridges in Königsberg](./images/pregel-walks.gif)
 
 Note: Furthermore, because we’re not in Königsberg, and most of the applicable
 bridges have been destroyed anyway, we can’t actually get drunk and totter
@@ -95,7 +95,7 @@ would tell you.
 
 ---
 
-![A failed path in Königsberg](/images/konigsberg-1613-pregel-crop-path.jpg)
+![A failed path in Königsberg](./images/konigsberg-1613-pregel-crop-path.jpg)
 
 Note: The attempt at a solution can also take the form of a sketched out path on a
 map, which itself can be sketched on a tabletop or napkin. The directions in
@@ -124,7 +124,7 @@ itinerary per se, but compare this passage to its rendering as data.
 
 ---
 
-![Robin’s wandering in Paris](/images/paris-1911/robin-wander.png)
+![Robin’s wandering in Paris](./images/paris-1911/robin-wander.png)
 
 --> [Basemap
 engraving](https://commons.wikimedia.org/wiki/File:Britannica_Paris.png) by Emery Walker sc, from _Encyclopædia
@@ -164,7 +164,7 @@ began, in front of John Nefastis’s house.
 
 ---
 
-![Oedipa’s following the mail boy](/images/oedipa-sf.png)
+![Oedipa’s following the mail boy](./images/oedipa-sf.png)
 
 --> Basemap by [Stamen Design](http://stamen.com), under
 [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Data by
@@ -239,7 +239,7 @@ precise pink path, to Euler’s abstracted map, then
 
 ---
 
-![Königsberg as graph](/images/euler-graph.png)
+![Königsberg as graph](./images/euler-graph.png)
 
 Note: to this. Current accounts of the bridges problem abstract it even
 further. At least Euler still speaks of “regiones” and “pontes,” regions and
@@ -253,7 +253,7 @@ that solves the bridges problem for any situation.
 
 ---
 
-![Albany](/images/albany.png)
+![Albany](./images/albany.png)
 
 --> Basemap by [Carto](http://carto.com/). Data by
 [OpenStreetMap](http://openstreetmap.org), under [CC BY
@@ -264,7 +264,7 @@ that’s only since Albany isn’t separated by bridges.
 
 ---
 
-![New York bridges graph](/images/nyc-bridges.png)
+![New York bridges graph](./images/nyc-bridges.png)
 
 Note: New York City gets complicated and depends on how you count bridges. If
 you take only the bridges that connect one borough to another, it seems like
@@ -272,7 +272,7 @@ the answer is no. Only Queens has an even number of bridges.
 
 ---
 
-![Königsberg as graph](/images/euler-graph.png)
+![Königsberg as graph](./images/euler-graph.png)
 
 Note: But the shift towards finding the universal solution has its own
 particularity. As I mentioned, the people, the buildings–all of that fades
@@ -283,7 +283,7 @@ uses. A graph, fewer.
 
 ---
 
-![StoryMaps homepage](/images/storymaps.png)
+![StoryMaps homepage](./images/storymaps.png)
 
 --> Esri, [http://storymaps.arcgis.com](http://storymaps.arcgis.com)
 
@@ -301,7 +301,7 @@ that is “ordered and organised, calculated and rendered unambiguous.”
 
 ---
 
-![Eulerian map of New York City](/images/nyc-euler-map.png)
+![Eulerian map of New York City](./images/nyc-euler-map.png)
 
 Note: But for all that lack of ambiguity arising from soaring to a height of
 unmediated observation, in that conquering gaze of the voyeur--and the term is
@@ -391,7 +391,7 @@ Landmarks, on the other hand, are unenterable points of reference.
 
 ---
 
-![Lynch mental map of Boston](/images/boston-cognitive-map-solar.png)
+![Lynch mental map of Boston](./images/boston-cognitive-map-solar.png)
 
 --> Lynch, _The Image of the City_, 19.
 
@@ -447,7 +447,7 @@ which she moves and in which her own movement is hindered.
 
 ---
 
-![Plumb’s map of Paris](/images/plumb-paris.png)
+![Plumb’s map of Paris](./images/plumb-paris.png)
 
 --> Paris, in Barnes, _Nightwood_, ed. Plumb, 216–217.
 
@@ -458,7 +458,7 @@ the map inflicts its own edges on the stories it can tell about Nightwood.
 
 ---
 
-![Robin’s wandering in Paris](/images/paris-1911/robin-wander.png)
+![Robin’s wandering in Paris](./images/paris-1911/robin-wander.png)
 
 Note: If we recall, even from the short passage of Robin Vote’s wandering,
 more than just the sixth arrondissement is in play, as we see here how the
@@ -484,7 +484,7 @@ Cemetery, Lafayette is buried?
 
 ---
 
-![Robin’s wandering in Paris](/images/paris-1911/robin-wander-path.png)
+![Robin’s wandering in Paris](./images/paris-1911/robin-wander-path.png)
 
 Note: So unlike the step-by-step directions of trying and failing to walk the
 Königsberg bridges, instead here the narrator gestures at a course of
@@ -518,7 +518,7 @@ with Robin and Nora and Nora’s dog somehow, ambiguously reunited in some way.
 
 ---
 
-![Robin’s wandering in Paris](/images/paris-1911/robin-wander-path.png)
+![Robin’s wandering in Paris](./images/paris-1911/robin-wander-path.png)
 
 Note: Back to Robin, then. This trip of hers, in fact, is unique in the novel
 in that it’s the only time in the novel that the narrator inhabits Robin’s
@@ -539,7 +539,7 @@ demanding to know where his unborn child is, where are Robin’s rocks?
 
 ---
 
-![Robin and Felix](/images/paris-1911/robin-felix.png)
+![Robin and Felix](./images/paris-1911/robin-felix.png)
 
 Note: If I add places in Paris Felix either mentions or visits, the topography
 of the city starts to fill in a bit, while also gesturing toward’s Felix’s own
@@ -553,7 +553,7 @@ Luxembourg up to the Seine.
 
 ---
 
-![Robin, Felix, and Nora](/images/paris-1911/robin-felix-nora.png)
+![Robin, Felix, and Nora](./images/paris-1911/robin-felix-nora.png)
 
 Note: When Robin leaves Felix, she goes to New York, where she meets Nora.
 Upon their return to Paris, Nora buys an apartment, chosen by Robin, at the
@@ -565,7 +565,7 @@ extended incident in Montparnasse, reveals.
 
 ---
 
-![Robin, Felix, Nora, and Jenny](/images/paris-1911/robin-felix-nora-jenny.png)
+![Robin, Felix, Nora, and Jenny](./images/paris-1911/robin-felix-nora-jenny.png)
 
 Note: Jenny, with “the collective income four dead husbands could afford,” has
 a much more aristocratic Paris. She lives off the Champs-Elysees, goes to the
@@ -593,7 +593,7 @@ from the perspective of the narrator and once from O’Connor’s perspective.
 
 ---
 
-![Robin, Felix, Nora, and Jenny](/images/paris-1911/robin-felix-nora-jenny.png)
+![Robin, Felix, Nora, and Jenny](./images/paris-1911/robin-felix-nora-jenny.png)
 
 Note: We can see it here on the map. As Alex Christie and Katie Tanigawa note,
 however, the trajectories of both trips are reversed. When the narrator
@@ -607,7 +607,7 @@ ignored.
 
 ---
 
-![All characters](/images/paris-1911/all-dots.png)
+![All characters](./images/paris-1911/all-dots.png)
 
 Note: When we add in O’Connor, we see that his image spreads widely across the
 city in comparison. Not only is he involved in many places with other
@@ -708,7 +708,7 @@ is addressed and never the I who expresses.
 
 ---
 
-![All characters](/images/paris-1911/all-dots.png)
+![All characters](./images/paris-1911/all-dots.png)
 
 Note: Recall the clearest edge here, the one between Nora and Jenny. Jenny
 dines at Ambassadeurs, because, as the narrator tells us, “Jenny feared
@@ -1010,7 +1010,7 @@ Tristero. And here’s the last section I want to look at.
 
 ---
 
-![Oedipa in SF](/images/oedipa-all.png)
+![Oedipa in SF](./images/oedipa-all.png)
 
 Note: This is something resembling a representation of Oedipa’s 24 hour
 wandering and driving in Berkeley and San Francisco. She gets a hotel room in
@@ -1222,7 +1222,7 @@ the other.
 
 ---
 
-![Mapping the Text](/images/mapping-the-text.png)
+![Mapping the Text](./images/mapping-the-text.png)
 
 [http://mapping-the-text.org](http://mapping-the-text.org)
 

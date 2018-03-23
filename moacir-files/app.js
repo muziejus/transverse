@@ -1,3 +1,4 @@
+const thePath = location.pathname.replace("index.html", "");
 $("#bibliography").nextAll("ul").addClass("bibliography");
 $("p").filter( function() {
   return (this.textContent || this.innerText).match(/^-->/);
@@ -41,7 +42,7 @@ function horizBar(svgId, csvFile, xLegend) {
   const z = d3.scaleOrdinal()
     .range(["#b58900", "#268bd2", "#dc322f"]);
 
-  d3.csv("/moacir-files/" + csvFile + ".csv", function(d, i, col){
+  d3.csv(thePath + "/moacir-files/" + csvFile + ".csv", function(d, i, col){
     for (i = 1, t=0; i < col.length; ++i) t += d[col[i]] = +d[col[i]];
     d.total = t;
     return d;
@@ -118,7 +119,7 @@ function lineGraph(svgId, dataCol, yLegend, yDomain) {
   }).y(function(d) { 
     return y(d[dataCol]); 
   });
-  d3.tsv("/moacir-files/lot49-data.tsv", function(d) {
+  d3.tsv(thePath + "/moacir-files/lot49-data.tsv", function(d) {
     return d;
   }, function(error, data) {
     if (error) throw error;
