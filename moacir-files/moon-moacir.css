@@ -335,7 +335,8 @@ body {
 
 .reveal .credit {
   text-align: right;
-  font-size: 0.8em;
+  font-size: 0.5em;
+  margin-top: 0;
 }
 
 .reveal section svg {

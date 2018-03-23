@@ -447,7 +447,7 @@ which she moves and in which her own movement is hindered.
 
 ![Plumb’s map of Paris](/images/plumb-paris.png)
 
- <!-- Paris, in Barnes, _Nightwood_, ed. Plumb, 216–217. -->
+--> Paris, in Barnes, _Nightwood_, ed. Plumb, 216–217.
 
 Note: _Nightwood_ takes place mostly in Paris, and this is the map that
 accompanies the expanded critical edition by Cheryl J. Plumb. Plumb’s map is,
@@ -478,11 +478,7 @@ Note: we can even infer a narrative path here. Is the narrator providing us
 with a list of places that Robin visited or the trajectory of her journey?
 Does she, then, end up at the Congregation of the Sacred Hearts
 of Jesus and Mary, over in the 12th Arrondissement, where, in Picpus
-Cemetery, Lafayette is buried? Studying the novel geocritically, Amy Wells
-argues that this is very much a destination for Robin, suggesting an almost
-unconscious attraction to one of the hidden pockets of Americanized Paris, as
-Lafayette’s tomb features an American flag, dirt from Bunker Hill, and various
-commemorations and plaques from the US.
+Cemetery, Lafayette is buried? 
 
 ---
 
@@ -1008,7 +1004,139 @@ outside the novel happens with the start of chapter five, when Oedipa decides
 to leave San Narciso and continue her sleuthing in the Bay Area. J. Kerry
 Grant lingers on the “should” here, noting the implication that there was a
 correct path for Oedipa to take in order to solve the question of the
-Tristero.
+Tristero. And here’s the last section I want to look at.
+
+---
+
+![Oedipa in SF](/images/oedipa-all.png)
+
+Note: This is something resembling a representation of Oedipa’s 24 hour
+wandering and driving in Berkeley and San Francisco. She gets a hotel room in
+the Berkeley Hills, visits the Lectern Press, drives to their warehouse in
+Oakland, drives back to Cal, meets with Nefastis, flees him, and starts
+driving on autopilot, ending up in San Francisco, where she spends some time
+at North Beach before drifting into a state of confusion that takes her to
+Chinatown, Golden Gate Park, the City Beach, Fillmore, the airport, and
+eventually all the way back to Embarcadero, where she gets a letter to drop in
+a mailbox, leading her to the cat-and-mouse pursuing of the mailcarrier from
+earlier in this talk that leads her back to Nefastis’s.
+
+Though Oedipa’s conversations during this time mostly take place in uncertain
+locations--Nefastis’s, The Greek Way, the Mexican diner on 24th, and the
+transient hotel in the Embarcadero—nevertheless her foggy journey still
+sticks to certain landmarks.
+
+---
+
+> So she got up after awhile and left The Greek Way, and entered the
+city again, the infected city.
+
+> And spent the rest of the night finding the image of the Trystero post horn.
+In Chinatown, in the dark window of a herbalist, she thought she saw it on a
+sign among ideographs. But the streetlight was dim. Later, on a sidewalk, she
+saw two of them in chalk, 20 feet apart. Between them a complicated array of
+boxes, some with letters, some with numbers. A kids’ game? Places on a map,
+dates from a secret history? She copied the diagram in her memo book. 
+
+--> Pynchon, _The Crying of Lot 49_, 116–117.
+
+Note: At the beginning of her wandering, Oedipa walks into the “infected”
+city. The pathogen of the post horn begins to reproduce itself at a rapid
+rate, however, and where hardly ever sees the symbol before this evening, now
+it’s everywhere. But the further reference to the map is telling in its own
+way. Oedipa considers she might be looking at a map, at places on a map, but
+even so, the map is illegible. It represents nothing to her, it records no
+space.
+
+---
+
+> “You know what a miracle is. Not what Bakunin said. But another world’s
+intrusion into this one.”
+
+--> Pynchon, _The Crying of Lot 49_, 120.
+
+Note: In Nightwood, the different characters are spatially distributed
+differently. We how Jenny creates edges that Nora can’t push through, and how
+the image of Robin’s freedom in the night becomes an obstacle for Nora, when
+she tries to move through the city similarly. Here, instead of a distribution
+of regions like Lynch’s image, we see, instead, a layering, or, even better,
+as Jesus Arrabal explains, an intrusion of another world. Hence the charts to
+begin this section. The familiar San Francisco, legible to readers of
+Pynchon’s novel, is intruded upon by the world of the Tristero. Oedipa could
+have just as easily seen the post horn everywhere she turned in San Narciso,
+but though the trail was there and though every lead regarding the horn
+returns her to San Narciso, it is here, during a particularly rich section of
+the novel in terms of geographic data, that the horn truly emerges as its own
+rock for Oedipa.
+
+Bakunin: how can the body contain, enclose, limit, paralyze
+pure spirit? It is the greatest of miracles.
+
+---
+
+> If miracles were, as Jesús Arrabal had
+postulated years ago on the beach at Mazatlán, intrusions into this world from
+another, a kiss of cosmic pool balls, then so must be each of the night’s post
+horns. For here were God knew how many citizens, deliberately choosing not to
+communicate by U. S. Mail. It was not an act of treason, nor possibly even of
+defiance. But it was a calculated withdrawal, from the life of the Republic,
+from its machinery… Since they could not have
+withdrawn into a vacuum (could they?), there had to exist the separate,
+silent, unsuspected world.
+
+--> Pynchon, _The Crying of Lot 49_, 124.
+
+Note: because withdrawal is impossible, a new world, a space cut across and
+spliced, perhaps transversed, needs to be created. This brings us back to the
+Lynch’s image of the city, the breathing, lively space that exists outside of
+a map--but also outside of simply a narrative. The only reason we know, when
+telling the story, that we haven’t managed to cross all of the bridges in
+Königsberg is because we already know, ahead of time, as drunk as we are,
+that we’re on the castle side of the Pregel and have no more bridges over
+which we can get back onto Kneiphof. 
+
+---
+
+> Later, possibly, she would have trouble sorting the night into real and
+dreamed.
+
+--> Pynchon, _The Crying of Lot 49_, 117.
+
+Note: This last line from Crying of Lot 49 that I’ll quote could just as
+easily be from Nightwood. In separating the places mentioned in Pynchon’s
+novel, I’m inflicting a sort of binary just for the sake of creating an
+argument. What I have shown, though, is that the binary not only reinforces
+itself but attracts attention to itself. When Oedipa is wandering in the real,
+recognizable San Francisco, she is persistently in contact with the arrival of
+silent Tristero’s Empire. The worlds are colliding and drawing a new map. Her
+difficulty of sorting the night into real and dreamed reflects that of the
+reader, who is also stitching maps together, not as layers--a fictional world
+atop a real world, but as collisions. Recall the opening of this chapter,
+where the narrator suggests that Oedipa’s next move “should” have been to
+contact Randolph Driblette again, showing that different possibilities and
+different outcomes pressing against each other. 
+
+new worlds in nightwood, too--final chapter, the
+posessed.
+
+---
+
+> She strayed into the rue Picpus, into the gardens of the convent of
+L'Adoration Perpétuelle. She talked to the nuns and they, feeling that they
+were looking at someone who would never be able to ask for, or receive, mercy,
+blessed her in their hearts and gave her a sprig of rose from the bush. They
+showed her where Jean Valjean had kept his rakes, and where the bright little
+ladies of the pension came to quilt their covers; and Robin smiled, taking the
+spray, and looked down at the tomb of Lafayette and thought her unpeopled
+thoughts. 
+
+--> Barnes, _Nightwood_, 49–50. Italics in original.
+
+Note: Studying the novel geocritically, Amy Wells
+argues that this is very much a destination for Robin, suggesting an almost
+unconscious attraction to one of the hidden pockets of Americanized Paris, as
+Lafayette’s tomb features an American flag, dirt from Bunker Hill, and various
+commemorations and plaques from the US.
 
 ---
 
