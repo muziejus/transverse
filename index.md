@@ -7,21 +7,38 @@ Asst. Prof. / Faculty Fellow, <a href="http://english.fas.nyu.edu/page/home">Dep
 moacir@nyu.edu<br />
 Albany, NY, 24 March 2018</small>
 
-Note: First, I want to thank everyone for coming to this conference. It’s been
-a great weekend. I also want to thank the organizers of the conference,
-especially Julian, who has been my Albany Virgil. That’s probably unfair to
-Albany.
+Note: First, I want to thank everyone for coming to this conference and for
+giving me this opportunity. It’s been a great weekend so far. I also want to
+thank the organizers of the conference, especially Julian. Having seen his
+middle name, I feel it’s appropriate to call him my Albany Virgil. That’s
+probably unfair to Albany. But not to Julian.
 
 Anyway, my name is Moacir P. de Sá Pereira. Unlike what’s written in the
-program, I am an Assistant Professor and Faculty Fellow at NYU. What follows is kind of a weird talk for me, since it’s all new material. These ideas
-had been kicking around in my head for about half a year, but upon being
-invited to the conference and then reading the description, the ideas sort of
-took enough form where I could start putting them down on paper, or, at least,
-whatever this is. So though I aim to talk about wandering without a map, I do
-have a map for what I’ll be talking about. Either way, I appreciate your
-patience and look forward to your thoughts at the end. Furthermore, my email
-address is here, too, as is my twitter name, in case you don’t get a chance to
-talk to me or you only think of something later.
+program, I am an Assistant Professor and Faculty Fellow at NYU. I list my
+email and twitter here so that, even though I hope we have an interesting
+conversation after my talk, if you think of something later or don’t get a
+chance to speak with me now, you know how to do so.
+
+looking over the slides this morning, blockquotes
+
+---
+
+## Making Maps
+
+### Literature and Space
+
+Note: What follows is kind of a weird talk for me, since it’s all new material.
+These ideas had been kicking around in my head for about half a year, but upon
+being invited to the conference and then reading the description, the ideas
+sort of took enough form where I could start putting them down on paper, or,
+at least, whatever this is. So though I aim to talk about wandering without a
+map, I do have a map for what I’ll be talking about. Either way, I appreciate your
+patience and look forward to your thoughts at the end. 
+
+Transversing itself isn’t quite the full genesis, though, as this is also the
+foundation of the book I’m working on--despite this conference’s program’s
+optimism, it’s not forthcoming--Making Maps, with a subtitle that keeps
+changing but involves literature and space.
 
 ---
 
@@ -31,7 +48,7 @@ talk to me or you only think of something later.
 Albertinum](https://en.wikipedia.org/wiki/University_of_K%C3%B6nigsberg#/media/File:Albertinum.JPG),”
 c. 1850. 
 
-Note: But first, let’s put some balls of conflict into motion. The first
+Note: So let’s put some balls of conflict into motion. The first
 gambit might be familiar, but even so, I hope to tell it in a new way.  This
 is a 19th century drawing of the Collegium Albertinum, the oldest building in
 the University of Königsberg. It doesn’t exist anymore, having been bombed to
@@ -288,45 +305,94 @@ uses. A graph, fewer.
 --> Esri, [http://storymaps.arcgis.com](http://storymaps.arcgis.com)
 
 Note: This is kind of startling, because we’re trained to think of maps as
-not just telling *a* story, but of telling the whole story. As Donna Haraway
-explains, “Cartography is perhaps the chief tool-metaphor of technoscience,”
-as maps let the viewer 
+not just telling *a* story, but of telling the whole story. This is the front
+page, for example, of Esri’s Story Maps software package. Esri is the famous
+or infamous company behind ArcGIS, a hilariously expensive suite of software
+for geographical analysis. 
 
-as Donna Haraway
-describes it, our lust to be a viewpoint and nothing more leaps “out of the
-marked body and into a conquering gaze,” attempting the “god-trick of seeing
-everything from nowhere.” We are in the territory of Martin Jay’s scopic
-regime of modernity and of Timothy Mitchell’s world-as-exhibition, a world
-that is “ordered and organised, calculated and rendered unambiguous.”
+---
+
+![Esri Demographics homepage](./images/esri-data.png)
+
+--> Esri,
+[http://www.esri.com/data/esri_data](http://www.esri.com/data/esri_data)
+
+Note: Esri markets a demographics package for the low price of 2,500 to, as
+they say, “help you understand the unique characteristics of a population
+based on a specific location.” Here, Esri is leveraging the far reaching power
+of the big database, constructing, in N. Katherine Hayles’s words, the
+relational juxtapositions that then await narrative to make the juxtapositions
+meaningful through interpretation.
+
+Yet Esri also sells the universality of their product. The unique
+characteristics of the specific location exist in that Esri promises the user
+the unique characteristics of ALL specific locations. Here they ride on the
+power of the interoperability of databases. For Hayles, narratives are too
+specific, too reliant on the speaker. Esri offers all the answers, in
+contrast, presuming that technology and mapping have their own narrative
+solutions within them. It’s hard to look at this page, and this is a bit of
+shooting fish in a barrel, without thinking of how Donna Haraway calls
+cartography the chief tool-metaphor of technoscience.
+
+---
+
+> [Vision] has been used to signify a leap out of the marked body and into a
+conquering gaze from nowhere… In this technological feast [it] becomes
+unregulated gluttony; all perspective gives way to infinitely mobile vision,
+which no longer seems just mythically about the god-trick of seeing everything
+from nowhere, but to have put the myth into ordinary practice. And like the
+god-trick, this eye fucks the world to make techno-monsters.
+
+--> Haraway, _Simians, Cyborgs, and Women_, 188–189.
+
+Note: One way of describing that view of cartography would be to look to
+Haraway’s description of the fantasy of objectivity given by vision. A
+disembodied subject observes his (and you know it’s got to be his) object or
+objects of inquiry, studying them without affecting them. That gaze, however,
+is a conqueror, and the vast Cartesian expanse we use for our
+maps, as Dorren Massey notes, narrativize and embody the strategies and
+tactics of the settler colonists and conquistadores.
+
+---
+
+> In [games like _SimEarth_], as in life itself, map-making is
+world-making. Inside the still persistent Cartesian grid conventions of
+cyber-spatializations, the games encourage their users to see themselves as
+scientists within narratives of exploration, creation, discovery, imagination,
+and intervention. Learning… world design is seamlessly part of becoming a
+normal subject in this region of technoscience. Cartographic practice
+inherently is learning to make projections that shape worlds in particular
+ways for various proposes [*sic*]. Each projection produces and implies
+specific sorts of perspective.
+
+--> Haraway, <em>Modest_Witness@Second_Millennium.FemaleMan©_Meets_OncoMouse™</em>, 132.
+
+Note: Conquering becomes a model of production, as well, where despite the
+fantasy of being an unmediating observer, that god’s eye is actually creating
+techno-monsters. The lab, the cartographer’s studio, and now the computer,
+both as a gaming device and a data analysis tool situate the reproduction of
+technoscience, thereby also pursuing the goals of technoscientific lubrication
+for capital.
+
+It’s hard for maps to shake this connection to transparency, which we see
+whenever we say a map is “wrong.” It’s not the case that being wrong is a
+distinction that only some maps have, maps worthy of criticism. All maps are
+wrong. That’s why we can read them.
 
 ---
 
 ![Eulerian map of New York City](./images/nyc-euler-map.png)
 
-Note: But for all that lack of ambiguity arising from soaring to a height of
-unmediated observation, in that conquering gaze of the voyeur--and the term is
-de Certeau’s--this map would certainly not have helped me get on the train
-yesterday to come to Albany.
+Note: For example, this map isn’t wrong in that it demonstrates the
+impossibility of completing a Eulerian path in New York city. But for nearly
+any other purpose, including getting me to Penn Station yesterday morning,
+it’s an utter travesty. Wrong because it doesn’t present the information I
+expect.
 
-Turning the text, the story, the narrative into data and plotting it on a map
-does tremendous damage to something, it seems, but it’s not entirely clear how
-to describe what that something is.
+My maps are wrong, too. And turning the text, the story, the narrative into
+data and plotting it on a map does tremendous damage to something, it seems.
 
----
-
-> The ordinary practitioners of the city live “down below,” below the
-thresholds at which visibility begins. They walk—an elementary form of this
-experience of the city; they are walkers, _Wandersmänner_, whose bodies follow
-the thicks and thins of an urban “text” they write without being able to read
-it.
-
---> De Certeau, _The Practice of Everyday Life_, 93.
-
-Note: De Certeau describes walkers as a contrast to the voyeurs floating
-above. Where the voyeurs arrest process in pursuing the fiction of total
-knowledge, the walkers are always generating new knowledge as they traverse
-the city. The damage done by the en-dataing and mapping, then, is the erasure
-of the writing of the city made by these walkers. 
+But it’s not entirely clear how to describe what that something is.
 
 ---
 
@@ -351,35 +417,65 @@ The landscape lost all variety.
 </div>
 </div>
 
-Note: Hence starting this talk with asking you to imagine yourselves as
-drunk German students in Königsberg. As students, you relied on
-the maps in your head, what Kevin Lynch calls mental maps, that provide the
-image of the city. That’s how, sitting in a Hospitium and drinking the night
-away, you know ahead of time that your proposed path won’t work. On crossing
-the Krämerbrücke back towards the castle, you realize there’s no way to get
-back to Kneiphof to cross the remaining three bridges. 
+Note: Hence starting this talk with asking you to imagine yourselves as drunk
+German students in Königsberg. As students, you relied on the maps in your
+head, what Kevin Lynch calls environmental images, that provide the image of
+the city. That’s how, sitting in a Hospitium and drinking the night away, you
+know ahead of time that your proposed path won’t work. On crossing the
+Krämerbrücke back towards the castle, you realize there’s no way to get back
+to Kneiphof to cross the remaining three bridges. 
 
-In the case of Oedipa and Robin, they move outside of their mental maps,
-having wandered into a state of being lost, both literally and metaphorically.
-Further, as they move into areas less sketched in in their mental maps, the
-distinctions become fainter—a Russian church, not the Nevsky Cathedral. Or, as
-in Oakland, the landscape becomes indistinct, lacking mental touchpoints that
-can bring the picture into focus.
+In the case of Oedipa and Robin, on first glance it seems that they move
+outside of their images, having wandered into a state of being lost, both
+literally and metaphorically. Further, as they move into areas less sketched
+in in their images, the distinctions become fainter—a Russian church, not
+the Nevsky Cathedral. Or, as in Oakland, the landscape becomes indistinct,
+lacking mental touchpoints that can bring the picture into focus.
 
 ---
 
-### _The Image of the City_
+> Environmental images are a result of a two-way process between the observer
+and his environment. [The image] now limits and emphasizes what is seen, while
+the image itself is being tested against the filtered perceptual input in a
+constant interacting process. Thus the image of a given reality may vary
+significantly between observers.
 
-<ul>
+--> Lynch, _The Image of the City_, 6.
+
+Note: Lynch prioritizes a masculinist visuality with the image of the city,
+focussing, as he says, on physicality as the independent variable. But never
+the less, the visuality is put into a space of movement and change, and, more
+importantly, Lynch allows for the observer to be affected by the image--*and
+the other way around*. The reciprocity regrounds the conquering eye, situating
+it and making available 
+
+---
+
+> Feminist objectivity is about limited location and situated knowledge, not
+about transcendence and splitting of subject and object. In this way we might
+become answerable for what we learn how to see.
+
+--> Haraway, _Simians, Cyborgs, and Women_, 190.
+
+Note: feminist objectivity. So even though Lynch’s image favors the visual,
+Haraway shows how it can be abstracted out somewhat, layering onto the map
+meanings beyond those generated by visual sense data.
+
+---
+
+### Five Components of an Environmental Image
+
+<ol>
 <li class="fragment">Paths</li>
 <li class="fragment">Edges</li>
 <li class="fragment">Nodes</li>
 <li class="fragment">Districts</li>
 <li class="fragment">Landmarks</li>
-</ul>
+</ol>
 
-Note: The mental maps Lynch describes in the image of the city have five
-components. Paths are what earlier, in a graph, we referred to as edges. Paths
+Note: As a result, it’s possible to take the five components of an
+environmental image and read them not quite as literally as Lynch intends.
+Paths are what earlier, in a graph, we referred to as edges. Paths
 are channels of movement that are predominant in the images. Not to be
 confused with the edges on a graph, Lynch’s edges are *breaks* in continuity.
 They are barriers, seams, and organizing features.
@@ -395,7 +491,8 @@ Landmarks, on the other hand, are unenterable points of reference.
 
 --> Lynch, _The Image of the City_, 19.
 
-Note: In this map of Boston, we can see all five components at work in how
+Note: In this map, and coincidentally, it’s of Boston, as was the Esri
+demographics map, we can see all five components at work in how
 Lynch’s respondents conceive of the city in their minds. Most important for
 the rest of this talk will be the edges. Here we can see that the Charles
 River and the harbor create barriers that close in the sense of the extent of
@@ -413,7 +510,7 @@ residents and non-residents alike.
 Note: Space is not, importantly, just smooth space open for movement. It’s not
 paths everywhere linking nodes together. Disruptions, barriers, and other
 obstacles not only prevent movement but even force the formation of new paths
-to go around them. These obstructions are what I call
+to go around them. These obstructions are what I fancifully call
 
 ---
 
@@ -439,11 +536,11 @@ ship timbers and the bodies of the men.<br />
 --> Homer, _The Odyssey_, trans. Wilson, 12.59–69.
 
 Note: It’s a goofy name, I know, but I was thinking about how obstacles can
-move, like blockers on a football field. They wander alongside the wanderer,
-and, as wandering rocks, they are threats to whatever is trying to move past
-them, be they doves, ships, or Robin Vote or Oedipa Maas. So what are the
-rocks Robin faces? And how can we try to imagine the heterogeneous space in
-which she moves and in which her own movement is hindered.
+sometimes move, like blockers on a football field. They wander alongside the
+wanderer, and, as wandering rocks, they are threats to whatever is trying to
+move past them, be they doves, ships, or Robin Vote or Oedipa Maas. So what
+are the rocks Robin faces? And how can we try to imagine the heterogeneous
+space in which she moves and in which her own movement is hindered.
 
 ---
 
@@ -490,7 +587,7 @@ Note: So unlike the step-by-step directions of trying and failing to walk the
 Königsberg bridges, instead here the narrator gestures at a course of
 movement. Small wonder that Robin, while avoiding her husband, ends up in this
 distant American end of Paris, reflecting her upcoming disappearance to
-America with Nora Flood. Here, let’s get the audience up to speed about
+America with Nora Flood. But, let’s get the audience up to speed about
 Nightwood, however.
 
 ---
@@ -506,15 +603,18 @@ Nightwood, however.
 <li class="fragment"><span style="color: #b58900;">**Matthew O’Connor**</span></li>
 </ul>
 
-Note: Published in 1936, Nightwood, by Djuna Barnes, is a short novel that
-concerns itself with five people who spend most of the novel in Paris. Robin Vote is a
-young American who takes to wandering and drinking at night. She marries and
-has a child with Felix Volkbein, a fake aristocrat searching for real
-aristocracy. She leaves Felix for Robin Flood, another American, before
-leaving Robin for Jenny Petherbridge, a much older, four-times divorced woman
-of means. Commenting on all of this is the bawdy and complex Irish-American
-doctor from San Francisco, Matthew O’Connor. The novel ends back in the US,
-with Robin and Nora and Nora’s dog somehow, ambiguously reunited in some way.
+Note: Nightwood’s often described as the novel
+everyone’s heard of but no one’s read. Which is a shame, because it’s short!
+And great! So, published in 1936, Nightwood, by Djuna Barnes, is a short novel
+that concerns itself with five people who spend most of the novel in Paris.
+Robin Vote is a young American who takes to wandering and drinking at night.
+She marries and has a child with Felix Volkbein, a fake aristocrat of Jewish
+ancestry searching for real aristocracy. She leaves Felix for Robin Flood,
+another American, before leaving Robin for Jenny Petherbridge, a much older,
+four-times divorced woman of means. Commenting on all of this is the bawdy and
+complex Irish-American doctor from San Francisco, Matthew O’Connor. The novel
+ends back in the US, with Robin and Nora and Nora’s dog somehow, ambiguously
+reunited in some way.
 
 ---
 
@@ -681,14 +781,14 @@ was always the second person singular.
 --> Barnes, _Nightwood_, 135.
 
 Note: We’re looking for rocks here, however, and Robin doesn’t seem to have
-any, at least not that we can see. She’s in fact an exercise in uncertainty,
-the empty center, in the words of Teresa de Lauretis, around which the lives
-and passions of the others spin. Lauretis also how Robin, at the novel’s end,
-shows an excess of affect. That excess seems to render Robin diffuse, exploded
-all over the map to invisibility like atoms in a map. Felix can only see
-snapshots of her, images that are useless as soon as they exist. Here,
-O’Connor tells Nora that Robin is this eternal momentary, moving out of the
-frame with every tick. And yet,
+any, at least not that we can see. She is, in fact, an exercise in
+uncertainty, the empty center, in the words of Teresa de Lauretis, around
+which the lives and passions of the others spin. Lauretis also describes how
+Robin, at the novel’s end, shows an excess of affect. That excess seems to
+render Robin diffuse, exploded all over the map to invisibility like atoms in
+a map. Felix can only see snapshots of her, images that are useless as soon as
+they exist. Here, O’Connor tells Nora that Robin is this eternal momentary,
+moving out of the frame with every tick. And yet,
 
 ---
 
@@ -1197,7 +1297,7 @@ about interaction and _the process of the constitution of_ identities.
 --> Massey, _For Space_, 71. Italics in original.
 
 Note: For Massey, space is endlessly generative by its very nature, and the
-talks over the past two days have reaffirmed that from multiple vantage
+talks here have reaffirmed this insight from multiple vantage
 points. So while, like in Eulerian Königsberg, a map can become so
 specifically aligned with a task as to become useless, in Barnes’s Paris and
 Pynchon’s Bay Area, the map also provides a place for us to put these
@@ -1209,16 +1309,19 @@ intrusions and remaining forever different because of them.
 
 ---
 
-## —O, rocks! she said. Tell us in plain words.
+## —O, rocks!… Tell us in plain words.
 
 Note: In the Odyssey, Odysseus chooses against facing the Wandering Rocks. As
 Circe warns him, no one has passed through them alive, save the Argo, and that
 was with an assist from Hera. In this talk I’ve pitched the rocks as
 resembling the edges of Lynch’s image of the city, but as a final thought, I
 want us to remember that they, too, are the wanderers, moving through space
-and constituting new processes. Edges keep Jenny and Nora apart, for example,
-but the wandering rocks also carry the trace of the intrusion of the new, the collision of
-the other.
+and constituting new processes. Building on Nick’s image from last night of
+the idea of space moving through us, I think back to how even if edges keep
+Jenny and Nora apart, the wandering rocks also carry the trace of the
+intrusion of the new, the collision with and stitching together the other. 
+
+
 
 ---
 
@@ -1250,6 +1353,8 @@ the other.
 * Donna J. Haraway,
   <em>Modest_Witness@Second_Millennium.FemaleMan©_Meets_OncoMouse™: Feminism
   and Technoscience</em> (New York: Routledge, 1997).
+* ———, _Simians, Cyborgs, and Women: The Reinvention of Nature_ (New York:
+  Routledge, 1991).
 * N. Katherine Hayles, _How We Think: Digital Media and Contemporary
   Technogenesis_ (Chicago: U Chicago P, 2012).
 * Homer, _The Odyssey_, trans. Emily Wilson (New York: Norton, 2017).
@@ -1266,14 +1371,16 @@ the other.
 ---
 
 ## Thanks!
-#### [http://moacir.com/talks/oedipas-rocks/](http://moacir.com/talks/oedipas-rocks/_)
+#### [http://moacir.com/talks/oedipas-rocks/](http://moacir.com/talks/oedipas-rocks/)
+##### [@muziejus](http://twitter.com/muziejus) / moacir@nyu.edu
+##### [http://mapping-the-text.org](http://mapping-the-text.org)
 
 Note: 
+* Martin Jay, “Scopic Regimes of Modernity,” in _Vision and Visuality_, ed.
+  Hal Foster (Seattle: Bay, 1988).
 * Jane Marcus, “Laughing at Leviticus: _Nightwood_ as Woman’s Circus Epic,”
 _Cultural Critique_ 13 (1989), 143–190.
 * Michel de Certeau, _The Practice of Everyday Life_, trans. Steven Rendall
   (Berkeley: U California P, 2002).
 * Bruno Latour, _Science in Action: How to Follow Scientists and Engineers
   through Society_ (Cambridge, MA: Harvard UP, 1987).
-* ———, *Simians, Cyborgs, and Women: The
-  Reinvention of Nature* (New York: Routledge, 1991).

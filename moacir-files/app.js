@@ -1,4 +1,7 @@
-const thePath = location.pathname.replace("index.html", "");
+let thePath = location.pathname.replace("index.html", "");
+if ( thePath === "/" ){
+  thePath = "";
+}
 $("#bibliography").nextAll("ul").addClass("bibliography");
 $("p").filter( function() {
   return (this.textContent || this.innerText).match(/^-->/);
